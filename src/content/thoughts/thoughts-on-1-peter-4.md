@@ -6,7 +6,7 @@ reading:
   - "1 Peter 4-5"
 passages:
   - "1 Peter 4"
-summary: "I’m finding it really interesting this morning that Peter, when saying the end of all things is at hand, and giving his readers instructions accordingly,…"
+summary: "With the end of all things at hand, Peter tells believers not to scramble for last-minute converts but to double down on earnest love for one another — a striking priority of qualitative over quantitative growth that challenges how churches measure success."
 ---
 
 I’m finding it really interesting this morning that Peter, when saying the end of all things is at hand, and giving his readers instructions accordingly, doesn’t tell them to run out and try to win as many lost people as possible in the time they have left, but tells them to double down on loving one another well.

@@ -6,7 +6,7 @@ reading:
   - "Hebrews 5-6"
 passages:
   - "Hebrews 5"
-summary: "Jesus counted it worth being made perfect through suffering for us."
+summary: "Hebrews 5 on Jesus being made perfect through suffering — not a deficiency in His moral nature, but the truth that to become our high priest He had to take on flesh and endure the human experience so His death could pay for our sins."
 ---
 
 Jesus counted it worth being made perfect through suffering for us.

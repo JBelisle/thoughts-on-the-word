@@ -7,7 +7,7 @@ reading:
 passages:
   - "Deuteronomy 24"
   - "Luke 4"
-summary: "I’m just going to apologize in advance because I’m guessing this is going to be a longer post than normal, but there are a lot of things that caught my…"
+summary: "Deuteronomy 24's remarriage ban as possible protection against temporary hospitality marriages, alongside God's recurring concern for the poor and vulnerable — plus a reading of Jesus' wilderness temptation in Luke 4 as the test that proves a king worthy before his crowning and victory."
 ---
 
 I’m just going to apologize in advance because I’m guessing this is going to be a longer post than normal, but there are a lot of things that caught my attention in today’s reading…

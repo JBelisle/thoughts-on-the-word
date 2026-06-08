@@ -6,7 +6,7 @@ reading:
   - "Galatians 2"
 passages:
   - "Galatians 2"
-summary: "A pastor or teacher can get something wrong, even very wrong, without it entirely discrediting them and their ministry."
+summary: "Paul publicly correcting Peter precisely because of his influence, not to discredit him — a case against the cancel-culture impulse to write off a teacher's whole body of work over a single perceived misstep."
 ---
 
 A pastor or teacher can get something wrong, even very wrong, without it entirely discrediting them and their ministry.

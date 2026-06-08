@@ -6,7 +6,7 @@ reading:
   - "Acts 28"
 passages:
   - "Acts 28"
-summary: "I don’t really have anything interesting to say about Acts 28 this morning, but I am really curious what was going through the soldiers’ heads as their…"
+summary: "Wondering what the soldiers guarding Paul made of him in Acts 28 — surviving a snakebite and healing every sick person on Malta — and whether such undeniable displays of power stirred a crisis of conscience in those looking on."
 ---
 
 I don’t really have anything interesting to say about Acts 28 this morning, but I am really curious what was going through the soldiers’ heads as their prisoner healed everyone who was sick on island…

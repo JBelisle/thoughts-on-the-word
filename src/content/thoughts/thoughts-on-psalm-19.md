@@ -6,7 +6,7 @@ reading:
   - "2 John"
 passages:
   - "Psalm 19"
-summary: "Knowing the story of David and his life makes the end of Psalm 19 really stand out to me."
+summary: "David prays in Psalm 19 to be kept innocent of great transgressions, yet later falls with Bathsheba — a double lesson that even a heart given to God can wander, and that David's repentance, unlike Saul's excuses, preserved his usefulness to the Lord."
 ---
 
 Knowing the story of David and his life makes the end of Psalm 19 really stand out to me.

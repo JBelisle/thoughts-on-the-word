@@ -6,7 +6,7 @@ reading:
   - "Romans 6"
 passages:
   - "1 Samuel 2"
-summary: "I can’t get this statement from the Lord to Eli out of my head:"
+summary: "God's rebuke of Eli's sons, who fattened themselves on the Lord's portion despite His generous provision for the priests, as a mirror for how we give God our leftovers — and Jesus' call to seek first the kingdom and trust Him to provide."
 ---
 
 I can’t get this statement from the Lord to Eli out of my head:

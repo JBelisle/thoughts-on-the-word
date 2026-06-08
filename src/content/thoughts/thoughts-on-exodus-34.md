@@ -6,7 +6,7 @@ reading:
   - "Ephesians 6"
 passages:
   - "Exodus 34"
-summary: "When Moses descends from his second 40-day trip up Mount Sinai his face is shining such that he has to wear a veil before the people to mask the fact that…"
+summary: "Why Moses's face only begins to shine after he chooses God's presence over the promised land's blessings in Exodus 33 — and how those decision points where we trust God over our own desires are what build real depth in relationship with Him."
 ---
 
 When Moses descends from his second 40-day trip up Mount Sinai his face is shining such that he has to wear a veil before the people to mask the fact that he is literally glowing after spending time with the Lord, and I don’t think the timing and placement of this detail is at all a coincidence in the narrative.

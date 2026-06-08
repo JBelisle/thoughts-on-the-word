@@ -6,7 +6,7 @@ reading:
   - "Philippians 2"
 passages:
   - "Philippians 2"
-summary: "The most selfish way for Christians to live is as selflessly as possible…"
+summary: "Why the most selfish way for Christians to live is selflessly — between eternal reward, God's promise to provide for the generous, and the Philippians 2 vision of a community where everyone's needs are met better together than alone."
 ---
 
 The most selfish way for Christians to live is as selflessly as possible…

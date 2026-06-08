@@ -6,7 +6,7 @@ reading:
   - "Ephesians 3"
 passages:
   - "Ephesians 3"
-summary: "It’s easy to think about the cross only in terms of personal salvation, but Paul reminds us in Ephesians 3 that, while we are certainly saved through the…"
+summary: "Gentile inclusion in Ephesians 3 read against Babel and Deuteronomy 32 — the cross does far more than secure personal salvation, undoing the rebellions of the Fall, Genesis 6, and Babel to bring the disowned nations back into God's family."
 ---
 
 It’s easy to think about the cross only in terms of personal salvation, but Paul reminds us in Ephesians 3 that, while we are certainly saved through the cross, so much more was happening there than merely our personal salvation.

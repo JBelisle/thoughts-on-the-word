@@ -6,7 +6,7 @@ reading:
   - "Mark 4"
 passages:
   - "Mark 4"
-summary: "The parable of the sower is certainly one of the most famous of Jesus’ parables, and maybe the most famous, but it’s one that I don’t think Christians pay…"
+summary: "The parable of the sower is about more than a non-believer's response to the gospel — since Jesus says the seed is the word, it describes how every Christian receives it, drifting between hardened path, rocky soil, thorns, and fruitful ground."
 ---
 
 The parable of the sower is certainly one of the most famous of Jesus’ parables, and maybe the most famous, but it’s one that I don’t think Christians pay enough attention to.

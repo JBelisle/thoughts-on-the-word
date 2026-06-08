@@ -6,7 +6,7 @@ reading:
   - "John 2"
 passages:
   - "2 Kings 3"
-summary: "2 Kings 3 gives us a helpful glimpse into the broader inner-workings of the geopolitical landscape at the time of the divided monarchy (and really much of…"
+summary: "Using Moab's rebellion and the alliance of Israel, Judah, and Edom to explain the geopolitics of the Old Testament world — not modern fixed borders but regional kings in tense balance, suppressing rivals for tribute rather than conquering land."
 ---
 
 2 Kings 3 gives us a helpful glimpse into the broader inner-workings of the geopolitical landscape at the time of the divided monarchy (and really much of the Old Testament in general).

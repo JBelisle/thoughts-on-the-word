@@ -6,7 +6,7 @@ reading:
   - "Romans 14"
 passages:
   - "Jeremiah 38"
-summary: "The decision before Zedekiah in Jeremiah 38, while serious and difficult, is not unlike the kinds of decisions that are put before every person who wants to…"
+summary: "Zedekiah's choice in Jeremiah 38 — whether to surrender as the Lord commanded though it seemed the worst option — as a picture of the recurring decision to trust God's wisdom over the world's, since the sovereign God can always keep His promises."
 ---
 
 The decision before Zedekiah in Jeremiah 38, while serious and difficult, is not unlike the kinds of decisions that are put before every person who wants to follow the Lord: Do I go the way that God says is better here, or do I go the way that the world says is better, and that seems better to me?

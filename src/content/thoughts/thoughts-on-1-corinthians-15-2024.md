@@ -6,7 +6,7 @@ reading:
   - "1 Corinthians 15"
 passages:
   - "1 Corinthians 15"
-summary: "This might be a bit of a controversial stance in the church today, but I believe Paul means what he says in these opening verses of 1 Corinthians 15."
+summary: "Taking Paul's warning that the Corinthians are saved if they hold fast at face value — arguing he allows for a genuine believer to abandon the faith and lose salvation, a matter of continuing in faith rather than of sin or of never having truly believed."
 ---
 
 > *"Now I would remind you, brothers, of the gospel I preached to you, which you received, in which you stand, and by which you are being saved, if you hold fast to the word I preached to you—unless you believed in vain."*

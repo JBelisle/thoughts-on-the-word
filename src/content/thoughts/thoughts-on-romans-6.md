@@ -6,7 +6,7 @@ reading:
   - "Romans 6"
 passages:
   - "Romans 6"
-summary: "“Do you not know that if you present yourselves to anyone as obedient slaves, you are slaves of the one whom you obey, either of sin, which leads to death,…"
+summary: "Paul's argument in Romans 6 that sin is not freedom but a worse kind of slavery — that the real choice is not between bondage and liberty but between two masters, one leading to joy and righteousness, the other to shame and death."
 ---
 
 “Do you not know that if you present yourselves to anyone as obedient slaves, you are slaves of the one whom you obey, either of sin, which leads to death, or of obedience, which leads to righteousness?”

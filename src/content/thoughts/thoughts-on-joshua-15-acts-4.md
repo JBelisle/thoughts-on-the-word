@@ -7,7 +7,7 @@ reading:
 passages:
   - "Joshua 15"
   - "Acts 4"
-summary: "These few chapters we are in right now in Joshua are maybe the most tedious chapters to read in the Bible in my opinion. They are basically just seemingly…"
+summary: "Why Joshua's tedious city lists matter — they are the tangible fulfillment of God's land promise to Abraham, and a reminder the Bible is not about us; paired with the hardened hearts of the leaders in Acts 4 who admit the miracle yet refuse to believe."
 ---
 
 ## Thoughts on Joshua 15

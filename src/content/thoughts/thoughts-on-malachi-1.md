@@ -6,7 +6,7 @@ reading:
   - "1 Peter 2"
 passages:
   - "Malachi 1"
-summary: "Malachi 1 highlights the struggle we all face at times in exercising faith when we aren’t seeing the result we want/think we should."
+summary: "Malachi 1 and the downward spiral of withholding our best from God because we are not seeing Him bless us — when Israel's blemished offerings only deepened the very lack they resented, and the call to give God our best by faith rather than by sight."
 ---
 
 Malachi 1 highlights the struggle we all face at times in exercising faith when we aren’t seeing the result we want/think we should.

@@ -6,7 +6,7 @@ reading:
   - "Galatians 5"
 passages:
   - "Galatians 5"
-summary: "There are two things I want to comment on out of Galatians 5 this morning, both in terms of how our choices/sin play into our salvation."
+summary: "Two threads from Galatians 5 on how choices bear on salvation — circumcision costs nothing as an act but everything as a means of justification, and walking by the Spirit matters not to earn salvation but because sin's cumulative hardening can loosen one's mooring to Christ."
 ---
 
 There are two things I want to comment on out of Galatians 5 this morning, both in terms of how our choices/sin play into our salvation.

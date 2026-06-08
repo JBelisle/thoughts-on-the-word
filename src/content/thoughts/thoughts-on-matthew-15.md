@@ -6,7 +6,7 @@ reading:
   - "Matthew 15"
 passages:
   - "Matthew 15"
-summary: "Christians today, in their ignorance of Scripture, can be much more theologically dangerous than the Pharisees in Jesus’ day."
+summary: "Unlike the Pharisees, who knew their handwashing rules were tradition and not law, Christians today can elevate church, denominational, or family traditions to the level of Scripture — building barriers between needy sinners and the gospel."
 ---
 
 Christians today, in their ignorance of Scripture, can be much more theologically dangerous than the Pharisees in Jesus’ day. 

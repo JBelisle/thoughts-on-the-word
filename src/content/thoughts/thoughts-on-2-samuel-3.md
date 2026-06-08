@@ -6,7 +6,7 @@ reading:
   - "2 Corinthians 6"
 passages:
   - "2 Samuel 3"
-summary: "Abner makes a comment near the beginning of 2 Samuel 3 that I personally think is super helpful in understanding the spiritual state of Israel at this point…"
+summary: "Abner's admission in 2 Samuel 3 that he long knew God had sworn the throne to David yet only acts when it suits him — revealing that most Israelites, far from cherishing God's word, knew it and simply did not care, and asking whether Christians today are any different."
 ---
 
 Abner makes a comment near the beginning of 2 Samuel 3 that I personally think is super helpful in understanding the spiritual state of Israel at this point in time.

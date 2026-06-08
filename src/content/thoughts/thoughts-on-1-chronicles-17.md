@@ -6,7 +6,7 @@ reading:
   - "Hebrews 12"
 passages:
   - "1 Chronicles 17"
-summary: "The life of David presents a few reminders of the importance of prayer, even in our areas of competence and pursuit of the Lord."
+summary: "David's desire to build the temple looked obviously good, yet it was not what God wanted from him — a reminder to seek the Lord even in the straightforward and godly pursuits, not only the things beyond our control."
 ---
 
 The life of David presents a few reminders of the importance of prayer, even in our areas of competence and pursuit of the Lord.

@@ -6,7 +6,7 @@ reading:
   - "Hebrews 3-4"
 passages:
   - "Hebrews 3-4"
-summary: "In Hebrews 3 we are introduced to a tension that might make a decent chunk of the church today uncomfortable, but that really doesn’t need to. The author of…"
+summary: "Holding together the assurance of salvation and the warnings in Hebrews 3-4 against falling away — salvation rests on present faith in Christ, not a one-time prayer, and the danger of sin is its power to harden the heart and erode that faith, not a sin threshold that disqualifies."
 ---
 
 In Hebrews 3 we are introduced to a tension that might make a decent chunk of the church today uncomfortable, but that really doesn’t need to. The author of Hebrews holds in tension both the assurance of salvation by faith in Christ and the potential loss of salvation. But how can we be assured of a faith we can lose??

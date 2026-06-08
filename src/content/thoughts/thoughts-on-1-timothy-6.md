@@ -6,7 +6,7 @@ reading:
   - "1 Timothy 6"
 passages:
   - "1 Timothy 6"
-summary: "“It is through this craving \\[for money\\] that some have wandered away from the faith…”"
+summary: "Paul's warning that the love of money — not money itself — is a root of all kinds of evils, set against a culture engineered to keep us discontent, with the practical antidote of finding kingdom work you are genuinely excited to fund."
 ---
 
 “It is through this craving \[for money\] that some have wandered away from the faith…”

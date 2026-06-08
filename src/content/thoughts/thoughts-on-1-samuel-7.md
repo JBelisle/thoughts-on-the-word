@@ -6,7 +6,7 @@ reading:
   - "Romans 10"
 passages:
   - "1 Samuel 7"
-summary: "A few days ago, when writing about 1 Samuel 2, I brought up Jesus' instruction, “But seek first the kingdom of God and his righteousness, and all these…"
+summary: "Israel's gathering at Mizpah to repent — not as a military strategy — becomes the occasion for God to draw out and rout the Philistines, illustrating Jesus' promise that those who seek first the kingdom find everything else added when they trust God to provide what they cannot."
 ---
 
 A few days ago, when writing about 1 Samuel 2, I brought up Jesus' instruction, “But seek first the kingdom of God and his righteousness, and all these things will be added to you.” 1 Samuel 7 is a great example of how it is always better to go God's way and to seek first His kingdom, knowing that He is able to take care of the rest when we do.

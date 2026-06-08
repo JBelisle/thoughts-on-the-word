@@ -6,7 +6,7 @@ reading:
   - "Revelation 4-5"
 passages:
   - "Revelation 5"
-summary: "Just in case anybody reading this is looking or hoping for anything profound or interesting on the book of Revelation out of these posts, I feel like I…"
+summary: "The often-overlooked passage of time in Revelation 5 — John witnessing a drawn-out, increasingly desperate search of all three realms for someone worthy to open the scroll, and how the Lamb being the last to step forward eternally solidifies his claim to the throne."
 ---
 
 Just in case anybody reading this is looking or hoping for anything profound or interesting on the book of Revelation out of these posts, I feel like I should be upfront and tell you now there probably won’t be anything of the sort as we go through… There are a couple interesting things I want to hit on when we get to them, but there are scholars who have spent their entire careers trying to dissect Revelation and they often can’t agree on how they think a given passage should be understood.

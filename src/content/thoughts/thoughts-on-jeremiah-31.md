@@ -6,7 +6,7 @@ reading:
   - "Romans 7"
 passages:
   - "Jeremiah 31"
-summary: "Jeremiah 31 is a great example of the “already, not yet” principle in biblical prophecy."
+summary: "Jeremiah 31 as a case study in the already-not-yet nature of prophecy — its promises about Samaria, the northern tribes, and a new covenant finding partial fulfillment in the return from exile, more at Pentecost, and complete fulfillment only at Christ's return."
 ---
 
 Jeremiah 31 is a great example of the “already, not yet” principle in biblical prophecy.

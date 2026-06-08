@@ -6,7 +6,7 @@ reading:
   - "1 John 1-2"
 passages:
   - "1 John 1-2"
-summary: "No truth is so basic or passage of Scripture so well known that we don't need to hear it again, and again, and again."
+summary: "John writes basic truths to mature believers precisely because they already know them — a call, set against Hebrews 5, never to neglect the foundations of the faith no matter how deep into theology we have gone."
 ---
 
 No truth is so basic or passage of Scripture so well known that we don't need to hear it again, and again, and again.

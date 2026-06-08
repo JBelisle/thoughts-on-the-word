@@ -6,7 +6,7 @@ reading:
   - "1 Peter 1"
 passages:
   - "Numbers 24"
-summary: "Reading about Balaam these last few days has gotten me thinking about how powerful of a warning he is not to squander the good things God has for us."
+summary: "Balaam, gifted as God's prophet yet caring more for reputation and reward, stands as a warning against squandering God's gifts — read alongside the parable of the talents, where faithfulness, not output, is how God measures both the highly gifted and those who feel under-gifted."
 ---
 
 Reading about Balaam these last few days has gotten me thinking about how powerful of a warning he is not to squander the good things God has for us.

@@ -6,7 +6,7 @@ reading:
   - "Philippians 1"
 passages:
   - "Philippians 1"
-summary: "I find myself regularly surprised by Paul’s prayers for the churches and people he writes to. No matter how many times I’ve read them, and no matter how…"
+summary: "How Paul's prayer in Philippians 1:9-11 reorients prayer away from the merely practical — growing in the love of Christ is not divorced from holy living but is its root, the heart-change that makes lasting behavioral change possible."
 ---
 
 I find myself regularly surprised by Paul’s prayers for the churches and people he writes to. No matter how many times I’ve read them, and no matter how many times I’ve stopped and been struck by them, I am struck by them again every time because I still don’t pray for people like Paul does.

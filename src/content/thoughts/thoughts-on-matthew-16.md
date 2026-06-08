@@ -6,7 +6,7 @@ reading:
   - "Matthew 16"
 passages:
   - "Matthew 16"
-summary: "As long as you have pre-determined that you won’t believe in God or in what He has done, no evidence will ever be sufficient to change your mind."
+summary: "When the Pharisees and Sadducees demand a sign, they already had a mountain of them — a warning that those who decide in advance not to believe will dismiss any evidence God provides, then and now."
 ---
 
 As long as you have pre-determined that you won’t believe in God or in what He has done, no evidence will ever be sufficient to change your mind.

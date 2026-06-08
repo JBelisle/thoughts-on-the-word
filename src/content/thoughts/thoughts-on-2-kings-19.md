@@ -6,7 +6,7 @@ reading:
   - "John 18"
 passages:
   - "2 Kings 19"
-summary: "What I want to say about 2 Kings 19 this morning is pretty brief, and is mostly just linking to an external resource, so before I do I wanted to take a…"
+summary: "Why most Christians are better served reading the Bible widely than leaning on commentaries and word studies — followed by a rare external reference: Sennacherib's own annals admitting he never took Jerusalem, lining up with 2 Kings 19."
 ---
 
 What I want to say about 2 Kings 19 this morning is pretty brief, and is mostly just linking to an external resource, so before I do I wanted to take a second to point out why I very intentionally do not often use any external resources on this blog.

@@ -6,7 +6,7 @@ reading:
   - "Mark 9"
 passages:
   - "Mark 9"
-summary: "There is a lot of really important stuff that either happens or is said in Mark 9, but one thing that always stands out in a big way to me is the response…"
+summary: "The desperate father's cry, I believe; help my unbelief, as a window into the gap between intellectual faith and the trust required to actually obey — and how God strengthens faith by helping us take the step anyway."
 ---
 
 There is a lot of really important stuff that either happens or is said in Mark 9, but one thing that always stands out in a big way to me is the response of the demon possessed boy’s father about faith.

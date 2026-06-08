@@ -6,7 +6,7 @@ reading:
   - "Luke 20"
 passages:
   - "Joshua 7"
-summary: "The story of Achan in Joshua 7 has bothered me in the past, mainly because Achan’s children get wrapped up in the punishment for his taking the devoted…"
+summary: "Why Achan's family sharing his punishment may be just — reading it against Korah's spared sons in Numbers 16, the treasure buried in their tent suggests they were complicit, not innocent, and reflecting on God's unique right over life."
 ---
 
 The story of Achan in Joshua 7 has bothered me in the past, mainly because Achan’s children get wrapped up in the punishment for his taking the devoted things and are killed for their father’s sin. But how is that good or fair for God to do to the innocent members of Achan’s family?

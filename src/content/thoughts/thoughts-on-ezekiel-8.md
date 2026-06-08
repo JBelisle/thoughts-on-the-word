@@ -6,7 +6,7 @@ reading:
   - "2 Corinthians 2-3"
 passages:
   - "Ezekiel 8"
-summary: "Once again we see, from Ezekiel this time, just how seriously God takes it when His people commit idolatry, worshipping gods other than Him."
+summary: "Ezekiel's vision of idolatry filling the Jerusalem temple at every level of society — and a push back against the false dichotomy of an Old Testament God of wrath versus a New Testament God of grace, since judgment is always meant to lead people away from judgment."
 ---
 
 Once again we see, from Ezekiel this time, just how seriously God takes it when His people commit idolatry, worshipping gods other than Him.

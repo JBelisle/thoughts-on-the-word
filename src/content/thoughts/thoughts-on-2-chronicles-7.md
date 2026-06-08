@@ -6,7 +6,7 @@ reading:
   - "1 John 3"
 passages:
   - "2 Chronicles 7"
-summary: "2 Chronicles 7 gives us another great reminder of what it is that God is most looking for from His people."
+summary: "God's conditional promises to Solomon show that what He most wants is not flawless law-keeping but faithfulness of heart — correcting the view of an Old Testament God watching for any misstep, when judgment came only when His people abandoned Him for other gods."
 ---
 
 2 Chronicles 7 gives us another great reminder of what it is that God is most looking for from His people.

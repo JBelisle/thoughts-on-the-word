@@ -6,7 +6,7 @@ reading:
   - "Acts 19"
 passages:
   - "Judges 7"
-summary: "For as slow as Gideon was to trust God, and for as poorly as he listened to Him, God still used him powerfully in His work and that should be deeply…"
+summary: "Gideon's repeated need for signs and his pragmatic recall of an army after God reduced him to 300 — encouraging that God patiently uses faltering people, yet sobering that taking matters into our own hands forfeits the fuller deliverance God intended."
 ---
 
 For as slow as Gideon was to trust God, and for as poorly as he listened to Him, God still used him powerfully in His work and that should be deeply encouraging to us. At the same time though, Gideon also took matters into his own hands and missed out on seeing God’s deliverance for Israel, and that should be sobering for us.

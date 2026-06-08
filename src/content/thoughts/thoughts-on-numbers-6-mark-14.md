@@ -7,7 +7,7 @@ reading:
 passages:
   - "Numbers 6"
   - "Mark 14"
-summary: "My thought on Numbers 6 really has very little to do with the actual content of the chapter (the Nazirite vow)."
+summary: "The Nazirite vow in Numbers 6 lists wine and grape juice as distinct Hebrew words, undercutting the claim that biblical wine was unfermented — paired with Mark 14, where Peter only failed because, unlike the others, he was bold enough to be there."
 ---
 
 ## Thoughts on Numbers 6

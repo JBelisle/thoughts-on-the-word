@@ -6,7 +6,7 @@ reading:
   - "Ephesians 1"
 passages:
   - "Ephesians 1"
-summary: "I don’t know if there is any passage of Scripture that should give us more confident assurance of our salvation and future hope than Ephesians 1. Why do I…"
+summary: "Every blessing Paul piles up in Ephesians 1 is qualified by in Christ or in Him — and that repetition is the deepest assurance, since the promises belong to Jesus and are claimed by faith apart from any works of our own."
 ---
 
 I don’t know if there is any passage of Scripture that should give us more confident assurance of our salvation and future hope than Ephesians 1. Why do I say that? Because I don’t think there is any other passage that goes to such lengths to communicate so clearly and so many times that all that we have now from the Lord, and all that we are promised in the future, is not ours and is not promised to us, and as I’ve commented on before, that should give us an immense amount of comfort.

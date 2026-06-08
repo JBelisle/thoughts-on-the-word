@@ -6,7 +6,7 @@ reading:
   - "Galatians 4"
 passages:
   - "Galatians 4"
-summary: "The beginning of Galatians 4 can be a little confusing, but I am going to say it boils down to, “The things you pursued before you knew Christ are inferior…"
+summary: "Reading Paul's elemental principles in Galatians 4 as covering both the Jewish law and the Gentiles' astral deities — why turning back to either, or to any blend of spiritualities, means returning to lesser things Christ came to rescue us from."
 ---
 
 The beginning of Galatians 4 can be a little confusing, but I am going to say it boils down to, “The things you pursued before you knew Christ are inferior to Him, which is why you left them in the first place, so why would you turn back to dabbling in these lesser things again??”

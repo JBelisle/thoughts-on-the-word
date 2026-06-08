@@ -6,7 +6,7 @@ reading:
   - "Revelation 18"
 passages:
   - "Revelation 18"
-summary: "This is purely an idle thought, but what if Babylon in Revelation 18 is the internet?"
+summary: "A speculative thought experiment on whether the Babylon of Revelation 18 might be the internet — a global gathering of every people and language, hub of trade and ideas and evil, whose destruction governments and merchants would lament as the chapter describes."
 ---
 
 This is purely an idle thought, but what if Babylon in Revelation 18 is the internet?

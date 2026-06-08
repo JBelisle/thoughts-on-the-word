@@ -6,7 +6,7 @@ reading:
   - "Philippians 4"
 passages:
   - "Philippians 4"
-summary: "For something the Philippians needed to hear 2000 years ago, how much more important are Paul’s words from Philippians 4 for us today?"
+summary: "Paul's charge to dwell on whatever is true, honorable, and lovely, applied to the age of social media and streaming — arguing that daily quiet time alone cannot reshape a mind soaked the rest of the day in content that pulls the heart the opposite direction."
 ---
 
 For something the Philippians needed to hear 2000 years ago, how much more important are Paul’s words from Philippians 4 for us today?

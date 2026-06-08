@@ -6,7 +6,7 @@ reading:
   - "Acts 25"
 passages:
   - "Judges 14"
-summary: "There is an odd little note at the beginning of Judges 14 that feels a little troubling. When Samson is insistent on marrying the Philistine girl and his…"
+summary: "Wrestling with the note that Samson's forbidden marriage was from the Lord — arguing that God did not cause the sin but, like a master chess player, strengthened Samson's existing desire to make an opportunity against the Philistines."
 ---
 
 There is an odd little note at the beginning of Judges 14 that feels a little troubling. When Samson is insistent on marrying the Philistine girl and his parents can’t talk him out of it, the author tells us, “His father and mother did not know that it was from the Lord, for he was seeking an opportunity against the Philistines.”

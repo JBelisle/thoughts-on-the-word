@@ -6,7 +6,7 @@ reading:
   - "Matthew 12"
 passages:
   - "Jeremiah 7"
-summary: "Jeremiah 7 gives us some interesting insight into the question of what God is looking for from us in regard to our works."
+summary: "On the faith-versus-works question — God tells idolatrous Israel not to bother with their sacrifices, because works divorced from relationship are worthless, yet genuine relationship with Him will always bear the fruit of works, like flowers from a faithful husband."
 ---
 
 Jeremiah 7 gives us some interesting insight into the question of what God is looking for from us in regard to our works.

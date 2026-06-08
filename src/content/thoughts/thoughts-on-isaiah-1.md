@@ -6,7 +6,7 @@ reading:
   - "Hebrews 7"
 passages:
   - "Isaiah 1"
-summary: "God despises faithful religious observance that is not tied to a faithful heart."
+summary: "How God, in Isaiah 1, rejects Israel's faithful sacrifices and rituals as the trampling of his courts — calling them instead to seek justice and defend the fatherless and the widow, because he wants their hearts more than their religious observance."
 ---
 
 God despises faithful religious observance that is not tied to a faithful heart.

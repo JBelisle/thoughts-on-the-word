@@ -6,7 +6,7 @@ reading:
   - "Romans 1"
 passages:
   - "Judges 18"
-summary: "I have two thoughts on Judges 18 today, one on chronology, and one on content."
+summary: "Two notes on Judges 18 — that the Micah account is not chronological but likely belongs early in the period, and that the priest's identity as a descendant of Moses reveals how pervasively even the most-instructed Israelites had gone astray."
 ---
 
 I have two thoughts on Judges 18 today, one on chronology, and one on content.

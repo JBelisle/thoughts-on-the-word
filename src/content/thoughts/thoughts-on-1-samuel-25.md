@@ -6,7 +6,7 @@ reading:
   - "1 Corinthians 13"
 passages:
   - "1 Samuel 25"
-summary: "I don’t have too much to say about 1 Samuel 25 other than something I have never really thought about before that I feel like makes this all make a little…"
+summary: "Reconsidering whether David's demand of payment from Nabal really comes across as thuggish — arguing that, given his background as a shepherd and the reactions of Nabal's servants and Abigail, such protection arrangements were likely a customary and reasonable expectation."
 ---
 
 I don’t have too much to say about 1 Samuel 25 other than something I have never really thought about before that I feel like makes this all make a little more sense to me.

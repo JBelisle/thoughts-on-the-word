@@ -7,7 +7,7 @@ reading:
 passages:
   - "Leviticus 26"
   - "Mark 7"
-summary: "These two chapters actually fit incredibly well together..."
+summary: "How the curses of Leviticus 26 drove the Pharisees to fence the law with extra rules, yet in guarding against exile they neglected the justice, mercy, and faithfulness of Leviticus 25 — a warning to churches that both affirm sin and condemn people in the name of love or fidelity."
 ---
 
 These two chapters actually fit incredibly well together...

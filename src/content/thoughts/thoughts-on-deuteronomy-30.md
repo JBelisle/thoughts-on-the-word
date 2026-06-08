@@ -6,7 +6,7 @@ reading:
   - "Luke 9"
 passages:
   - "Deuteronomy 30"
-summary: "I feel like a complete broken record in bringing this up over and over again, but as we get near the end of Deuteronomy, I just feel like this is such…"
+summary: "The intense curses of Deuteronomy do not reveal a vindictive God eager to judge — the bar for avoiding them is simply loyalty to the Yahweh who rescued Israel from Egypt, essential context for reading the judgments later in the Old Testament."
 ---
 
 I feel like a complete broken record in bringing this up over and over again, but as we get near the end of Deuteronomy, I just feel like this is such essential context for us to have going forward through the rest of the Old Testament.

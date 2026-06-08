@@ -6,7 +6,7 @@ reading:
   - "Romans 2"
 passages:
   - "Romans 2"
-summary: "There are a lot of \"Christians\" in the world today that way too closely resemble the Jews Paul is writing about in Romans 2."
+summary: "How the self-righteous Jews Paul confronts in Romans 2 mirror many Christians today — assuming they are right with God by association or looking down on outsiders, when God cares not which group you belong to but where your heart stands before him."
 ---
 
 There are a lot of "Christians" in the world today that way too closely resemble the Jews Paul is writing about in Romans 2.

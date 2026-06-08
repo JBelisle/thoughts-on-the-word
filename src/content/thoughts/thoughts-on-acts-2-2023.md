@@ -6,7 +6,7 @@ reading:
   - "Acts 2"
 passages:
   - "Acts 2"
-summary: "We are so much more privileged than I tend to give us credit for in having the Holy Spirit indwelling us as Christians."
+summary: "Why Jesus could say it was better for the disciples that He go — contrasting how spiritually dense the disciples were in the gospels with their transformation at Pentecost in Acts 2, and arguing the indwelling Spirit is a greater privilege than His physical presence."
 ---
 
 We are so much more privileged than I tend to give us credit for in having the Holy Spirit indwelling us as Christians.

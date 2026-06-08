@@ -6,7 +6,7 @@ reading:
   - "1 Corinthians 8"
 passages:
   - "1 Corinthians 8"
-summary: "1 Corinthians 8 is a great example of why we can’t just change how we define an idol to try to make parts of the Bible more applicable to ourselves."
+summary: "Why the popular redefinition of an idol as anything that takes first place over God breaks down against 1 Corinthians 8 — biblical idolatry means worshiping other gods alongside Yahweh, and Scripture should not be twisted to feel more applicable."
 ---
 
 1 Corinthians 8 is a great example of why we can’t just change how we define an idol to try to make parts of the Bible more applicable to ourselves.

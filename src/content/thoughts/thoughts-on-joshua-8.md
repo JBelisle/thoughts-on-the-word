@@ -6,7 +6,7 @@ reading:
   - "Luke 21"
 passages:
   - "Joshua 8"
-summary: "What strikes me most out of today’s reading is what Achan would have had if only he had been willing to wait…"
+summary: "Achan forfeited everything for plunder from Jericho when the spoil of Ai was just days away — a lesson that God rewards faithfulness without always telling us how, calling us to trust His instruction over our own desires."
 ---
 
 What strikes me most out of today’s reading is what Achan would have had if only he had been willing to wait…

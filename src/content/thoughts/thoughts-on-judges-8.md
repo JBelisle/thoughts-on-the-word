@@ -6,7 +6,7 @@ reading:
   - "Acts 20"
 passages:
   - "Judges 8"
-summary: "This is a bit of a follow up on my thoughts yesterday on Judges 7. At the end of yesterday’s post I was thinking about how God had intended to deliver…"
+summary: "Gideon's self-directed pursuit of Midian leads him to destroy Succoth and Penuel — fellow Israelites with no obligation to supply an unsanctioned campaign — showing that going his own way instead of God's brought real harm to the people he was meant to rescue."
 ---
 
 This is a bit of a follow up on my thoughts yesterday on Judges 7. At the end of yesterday’s post I was thinking about how God had intended to deliver Israel with Gideon and his army of only 300 men, but then after the initial victory Gideon calls up a large army to pursue the Midianites and wipe them out, meaning they never actually see what God had planned to complete His victory over Midian.

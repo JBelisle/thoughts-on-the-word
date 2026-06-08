@@ -5,7 +5,7 @@ reading:
   - "Genesis 16-17"
 passages:
   - "Genesis 16-17"
-summary: "I have often heard it taught/assumed that Abraham having Ishmael by Hagar was an act of unfaithfulness on his part, but I’m not so sure that’s the case."
+summary: "Questioning the common assumption that Abraham fathering Ishmael through Hagar was an act of faithlessness, arguing that within its cultural setting it was more likely an attempt to be faithful to God's promise."
 ---
 
 I have often heard it taught/assumed that Abraham having Ishmael by Hagar was an act of unfaithfulness on his part, but I’m not so sure that’s the case.

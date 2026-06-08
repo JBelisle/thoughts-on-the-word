@@ -6,7 +6,7 @@ reading:
   - "2 Timothy 1"
 passages:
   - "1 Kings 18"
-summary: "There is a lot we could talk about out of 1 Kings 18 this morning. There's a reason the story of Elijah and the prophets of Baal is so well known, even…"
+summary: "The contrast on Mount Carmel between the frenzied prophets of Baal and Elijah's quiet, expectant prayer — and what it says about churches today that manufacture emotional spectacle instead of trusting the transforming power of God's Word."
 ---
 
 There is a lot we could talk about out of 1 Kings 18 this morning. There's a reason the story of Elijah and the prophets of Baal is so well known, even among people who don't know the Old Testament very well, and that's partly because it's just such good preaching fodder for a lot of topics. But what stuck me as I was reading the account this morning was the stark contrast between the frenzy of the prophets of Baal and the quiet calmness of Elijah, and I couldn't help but wonder which one churches today more reflect.

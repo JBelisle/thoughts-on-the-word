@@ -7,7 +7,7 @@ reading:
 passages:
   - "Numbers 17"
   - "Hebrews 11"
-summary: "Numbers 17 seems a little odd at first blush because it seems to be addressing a conflict that we never see arise. Moses has the head of each tribe bring…"
+summary: "Aaron's budding staff in Numbers 17 reads as God mercifully heading off festering envy before it becomes another rebellion — alongside Hebrews 11, where the flawed likes of Rahab, Samson, and Gideon show faith is believing loyalty to Yahweh, not flawless performance."
 ---
 
 ## Thoughts on Numbers 17

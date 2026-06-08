@@ -6,7 +6,7 @@ reading:
   - "1 Timothy 3-4"
 passages:
   - "1 Timothy 2-3"
-summary: "I know today’s reading is 1 Timothy 3-4, but 1 Timothy 2 and 3 both weigh in on questions of women’s role(s) in ministry, so I wanted to lump them together."
+summary: "Working through the question of women's roles in the church from 1 Timothy 2-3, landing — with help from Mike Winger's in-depth series — on women holding any role except the office of elder, and on the danger of trusting scholarly claims uncritically."
 ---
 
 I know today’s reading is 1 Timothy 3-4, but 1 Timothy 2 and 3 both weigh in on questions of women’s role(s) in ministry, so I wanted to lump them together.

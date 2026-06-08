@@ -6,7 +6,7 @@ reading:
   - "2 Corinthians 8"
 passages:
   - "2 Samuel 6"
-summary: "2 Samuel 6 is one of those infamous passages that people like to use to attack the bible without any real context or understanding of what is going on. As…"
+summary: "Uzzah's death in 2 Samuel 6 read against the transport rules of Numbers 4 — far from senseless, it is the last straw after David moves the ark on a cart in open defiance of God's instructions, a warning that we do not get to choose how God is worshipped."
 ---
 
 2 Samuel 6 is one of those infamous passages that people like to use to attack the bible without any real context or understanding of what is going on. As David is having the Ark of the Covenant brought up to Jerusalem, the oxen pulling the cart it is on stumble and one of the men leading them, Uzzah, steadies the ark and is immediately struck down by the Lord. People point to how senselessly violent and entirely unnecessary it was for God to kill him for protecting the ark from falling, and use that to attack God's goodness, justice, love, etc. But is that really what's happening here?

@@ -6,7 +6,7 @@ reading:
   - "1 Peter 3"
 passages:
   - "Isaiah 19"
-summary: "The opening line of Isaiah’s oracle concerning Egypt in Isaiah 19 serves so many purposes at once."
+summary: "How the opening image of Yahweh riding a swift cloud into Egypt works as a polemic against Baal, evidence for Jewish binitarian theology of two Yahwehs, and a passage Jesus later claims for himself in Matthew 24 as the Son of Man coming on the clouds."
 ---
 
 The opening line of Isaiah’s oracle concerning Egypt in Isaiah 19 serves so many purposes at once.

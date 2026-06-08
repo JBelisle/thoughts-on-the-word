@@ -6,7 +6,7 @@ reading:
   - "Philippians 1"
 passages:
   - "Esther 6"
-summary: "I don’t really have much time to write today, but I just had to take a minute to recognize how much I love Esther 6. It is my absolute favorite ironic twist…"
+summary: "A delight in the ironic twist of Esther 6, where the arrogant Haman is made to honor the very man he hates — and how his unquestioning compliance reveals the absolute authority of Ahasuerus and deepens appreciation for the boldness of a Daniel or Nehemiah."
 ---
 
 I don’t really have much time to write today, but I just had to take a minute to recognize how much I love Esther 6. It is my absolute favorite ironic twist in the Bible, and I laugh out loud every time I read it!

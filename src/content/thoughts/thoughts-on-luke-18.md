@@ -6,7 +6,7 @@ reading:
   - "Luke 18"
 passages:
   - "Luke 18"
-summary: "I don’t remember if I’ve talked about this guy before or not, but the blind man on the road to Jericho is really challenging to me."
+summary: "The blind beggar outside Jericho in Luke 18, who shouted louder for Jesus when the crowd told him to be quiet — a challenge to the timidity that lets fear of social disdain silence us about a gospel worth looking like a fool for."
 ---
 
 I don’t remember if I’ve talked about this guy before or not, but the blind man on the road to Jericho is really challenging to me.

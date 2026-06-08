@@ -6,7 +6,7 @@ reading:
   - "Acts 9"
 passages:
   - "Acts 9"
-summary: "Saul (Paul), in Acts 9, is a great example/case study of what we have talked about a few times lately, that for many people, once they have decided that…"
+summary: "How Paul's ability to confound the Jews and prove Jesus was the Messiah within days of his conversion in Acts 9 shows he already had the knowledge all along — his opposition was never an information problem but a hardened heart, illustrating why more argument rarely changes an unwilling mind."
 ---
 
 Saul (Paul), in Acts 9, is a great example/case study of what we have talked about a few times lately, that for many people, once they have decided that they will not believe in or follow Jesus, no amount of argument or information will change their mind.

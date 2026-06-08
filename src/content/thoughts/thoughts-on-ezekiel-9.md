@@ -6,7 +6,7 @@ reading:
   - "2 Corinthians 4"
 passages:
   - "Ezekiel 9"
-summary: "I don’t have much to say about this, but I don’t want us to miss the mercy God shows in the midst of His wrath in Ezekiel 9."
+summary: "The mercy within God's wrath in Ezekiel 9 — the man in linen marking those who grieve over the city's abominations so they are spared, showing a God who actively protects the innocent rather than one who revels in judgment."
 ---
 
 I don’t have much to say about this, but I don’t want us to miss the mercy God shows in the midst of His wrath in Ezekiel 9.

@@ -6,7 +6,7 @@ reading:
   - "Luke 7"
 passages:
   - "Luke 7"
-summary: "Have you ever felt disheartened or like you’re not sure how to process it when God fails to meet your expectations? And I don’t mean in a way like you have…"
+summary: "John the Baptist's question from prison in Luke 7 — are you the one? — as a window into the disorientation of God not meeting our expectations, and how Jesus' answer points John back to the evidence rather than removing the confusion: trust what you know, and do not be offended by Him."
 ---
 
 Have you ever felt disheartened or like you’re not sure how to process it when God fails to meet your expectations? And I don’t mean in a way like you have highly unrealistic expectations of Him, like that He is going to give you the winning lottery numbers for the next billion dollar jackpot or something. I mean more in the sense of you and many others praying desperately and fervently to God for the healing of a friend or child, but the healing never comes and they pass away. Or in the sense of getting falsely accused or maligned in the course of ministry you are sure He has called you to, and He doesn’t clear things up or rescue you from the injustice. Or in the sense of having felt a calling from God toward something, with others getting the same thing from Him in prayer, but when you pursue it faithfully you find nothing but failure after failure.

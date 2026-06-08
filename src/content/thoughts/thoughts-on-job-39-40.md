@@ -6,7 +6,7 @@ reading:
   - "1 Corinthians 13"
 passages:
   - "Job 39-40"
-summary: "I used to have a much more simplistic understanding of God’s response to Job, but the more I’ve understood where Job and his friends are coming from in…"
+summary: "God's answer to Job does more than silence him — by parading the wild animals and untamed corners of creation, God exposes the inadequacy of Job and his friends' belief in strict just retribution, showing his governance reaches far beyond human perception."
 ---
 
 I used to have a much more simplistic understanding of God’s response to Job, but the more I’ve understood where Job and his friends are coming from in their view of God, the more I’ve seen of what God is really getting at with Job.

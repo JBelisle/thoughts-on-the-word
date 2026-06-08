@@ -6,7 +6,7 @@ reading:
   - "Revelation 7"
 passages:
   - "Deuteronomy 7"
-summary: "I am at a middle school youth camp this weekend and writing this post from my phone on spotty internet, so just a heads up, this morning's post is going to…"
+summary: "Deuteronomy 7 reveals a God eager to bless Israel rather than one looking for an excuse to punish — Israel need not earn his blessing, only refuse to throw it away by turning to the gods of the nations."
 ---
 
 I am at a middle school youth camp this weekend and writing this post from my phone on spotty internet, so just a heads up, this morning's post is going to be short...

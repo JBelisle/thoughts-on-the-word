@@ -6,7 +6,7 @@ reading:
   - "1 Corinthians 1"
 passages:
   - "1 Samuel 15"
-summary: "This declaration from Samuel comes at a time when we would be tempted to think he is overreacting and that maybe what Saul did was a little misguided, but…"
+summary: "Saul sparing the best Amalekite livestock 'to sacrifice to the Lord' was a veneer of piety over greed — and Samuel's to obey is better than sacrifice holds even if sincere, because a good act done in defiance of God's command, especially by a king leading others astray, is still rebellion."
 ---
 
 > And Samuel said,  

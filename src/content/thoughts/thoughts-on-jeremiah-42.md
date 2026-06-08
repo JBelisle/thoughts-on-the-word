@@ -6,7 +6,7 @@ reading:
   - "1 Corinthians 1"
 passages:
   - "Jeremiah 42"
-summary: "It is easy for me to read about the Lord speaking to/through the Old Testament prophets and be jealous that they heard so clearly and directly from God, but…"
+summary: "How the ten-day wait for God's answer in Jeremiah 42 — alongside the people's insincere promise to obey — shows the prophets lived by faith much as we do, praying persistently and waiting, rather than getting instant answers to every prayer."
 ---
 
 It is easy for me to read about the Lord speaking to/through the Old Testament prophets and be jealous that they heard so clearly and directly from God, but the beginning of Jeremiah 42 is a good reminder that their experience of the Lord was not really that unlike our own.

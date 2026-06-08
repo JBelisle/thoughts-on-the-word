@@ -6,7 +6,7 @@ reading:
   - "Mark 10"
 passages:
   - "Mark 10"
-summary: "I’m not sure if this is allowed or not, but I have two thoughts this morning…"
+summary: "Two scenes from Mark 10 — Jesus engaging the rich young ruler's heart with love rather than the technicalities He used to confront the self-justifying Pharisees, and blind Bartimaeus crying out all the louder when told to be silent, a rebuke to being shamed into silence about the faith."
 ---
 
 I’m not sure if this is allowed or not, but I have two thoughts this morning…

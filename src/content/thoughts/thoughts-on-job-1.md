@@ -6,7 +6,7 @@ reading:
   - "Romans 7"
 passages:
   - "Job 1"
-summary: "I find Job to be one of the most fascinating books in the Old Testament, but there are a couple things I used to misunderstand about the book that sent me…"
+summary: "Two common misreadings of Job worth clearing up at the outset — that the satan is a heavenly prosecutor testing Job's faith rather than the devil, and that the book may well be a fictional story without any threat to Scriptural inerrancy."
 ---
 
 I find Job to be one of the most fascinating books in the Old Testament, but there are a couple things I used to misunderstand about the book that sent me down wrong roads theologically for a while, so I want to call them out here as we start.

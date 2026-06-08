@@ -6,7 +6,7 @@ reading:
   - "Revelation 22"
 passages:
   - "Isaiah 59"
-summary: "I always love finishing the year with Revelation 22; it’s such an exciting and hopeful vision of our future with the Lord that it just gets me amped up and…"
+summary: "Isaiah 59's indictment, which Paul applies to all humanity in Romans 3 — how even well-meaning efforts apart from the Lord amount to spiders' webs, or worse, adders' eggs, with politics as a case where pursuing good by the world's means can do real harm."
 ---
 
 I always love finishing the year with Revelation 22; it’s such an exciting and hopeful vision of our future with the Lord that it just gets me amped up and wanting to run harder after Him the next year than I did this previous one!

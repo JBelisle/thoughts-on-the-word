@@ -7,7 +7,7 @@ reading:
 passages:
   - "Numbers 27"
   - "1 Peter 4-5"
-summary: "Moses’ response/attitude in the second half of Numbers 27 is really challenging."
+summary: "Facing his own death in Numbers 27, Moses asks not for a second chance but for a successor to shepherd the people — and 1 Peter 4-5 on why faithfulness to Yahweh is harder than to any other god, because allegiance to Him paints a target in a spiritual war."
 ---
 
 ## Thoughts on Numbers 27

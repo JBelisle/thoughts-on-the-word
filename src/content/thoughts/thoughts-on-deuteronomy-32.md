@@ -6,7 +6,7 @@ reading:
   - "Luke 11"
 passages:
   - "Deuteronomy 32"
-summary: "My thoughts on Deuteronomy 32 this morning are mostly a book recommendation. I’ve mentioned before that there are a couple books that have most impacted or…"
+summary: "How Deuteronomy 32:8-9 anchors Michael Heiser's The Unseen Realm — God disinheriting the nations at Babel, handing them to other elohim while keeping Israel as His own portion — a framework that reframes how one reads nearly all of Scripture."
 ---
 
 My thoughts on Deuteronomy 32 this morning are mostly a book recommendation. I’ve mentioned before that there are a couple books that have most impacted or changed the way I approach Scripture, and one of them is Dr. Michael Heiser’s *The Unseen Realm*.

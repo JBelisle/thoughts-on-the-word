@@ -6,7 +6,7 @@ reading:
   - "Hebrews 5-6"
 passages:
   - "Hebrews 5"
-summary: "The last paragraph of Hebrews 5 is a pretty good summary for why I put together this reading plan and why I am doing this daily blog along with it:"
+summary: "Taking the milk-versus-solid-food warning of Hebrews 5 as a case against the modern study mindset — maturity in the Word comes not from study methods, Greek, or commentaries but from reading Scripture like a story you grow to love and get lost in."
 ---
 
 The last paragraph of Hebrews 5 is a pretty good summary for why I put together this reading plan and why I am doing this daily blog along with it:

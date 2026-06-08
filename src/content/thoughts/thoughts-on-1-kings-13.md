@@ -6,7 +6,7 @@ reading:
   - "2 Thessalonians 3"
 passages:
   - "1 Kings 13"
-summary: "1 Kings 13 is a really weird story if you assume that all of God’s prophets cared about being faithful to Him."
+summary: "The strange tale of the old prophet of Bethel makes sense once we recognize that not all of God's prophets were faithful — like Balaam or Jonah, he was a genuine mouthpiece whose deception shows how far the northern kingdom had spiritually decayed."
 ---
 
 1 Kings 13 is a really weird story if you assume that all of God’s prophets cared about being faithful to Him.

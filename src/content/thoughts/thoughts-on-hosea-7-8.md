@@ -6,7 +6,7 @@ reading:
   - "Titus 3"
 passages:
   - "Hosea 7-8"
-summary: "We’ve talked about this a lot as we’ve been reading through the Old Testament, but it’s worth the reminder; when God declares His judgement against Israel,…"
+summary: "Pushing back on the caricature of a quick-to-judge Old Testament God — Hosea 7-8 shows His judgement on the Northern Kingdom fell not for small missteps but for persistent idolatry, after generations of patiently sending prophet after prophet to call them back."
 ---
 
 We’ve talked about this a lot as we’ve been reading through the Old Testament, but it’s worth the reminder; when God declares His judgement against Israel, it’s not because they failed to keep the law in exacting detail, forgot to include fine flour with one of their offerings, or did a little too much work on a Sabbath day, but is because they consistently and continuously abandoned God to run after other gods.

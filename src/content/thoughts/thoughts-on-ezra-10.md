@@ -6,7 +6,7 @@ reading:
   - "John 2"
 passages:
   - "Ezra 10"
-summary: "I know it’s not the main point of the chapter, but what stood out to me in Ezra 10 this morning was the disagreement of Jonathan and Jahzeiah with the rest…"
+summary: "Jonathan and Jahzeiah's lone dissent in Ezra 10 as a case study in godly disagreement — when both sides genuinely seek the Lord, the humility of deferring to the majority, illustrated by Origen abandoning his case for the book of Enoch."
 ---
 
 I know it’s not the main point of the chapter, but what stood out to me in Ezra 10 this morning was the disagreement of Jonathan and Jahzeiah with the rest of the elders and heads of houses.

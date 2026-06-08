@@ -6,7 +6,7 @@ reading:
   - "Philemon 1"
 passages:
   - "Hosea 9-10"
-summary: "It can be easy to forget, given how short the minor prophets’ books tend to be, that they still operated as prophets of God for years and decades of their…"
+summary: "Why the seeming repetitiveness of the minor prophets makes more sense once we remember that short books like Hosea distill decades of ministry — Hosea served under four kings — rather than a single preaching session."
 ---
 
 It can be easy to forget, given how short the minor prophets’ books tend to be, that they still operated as prophets of God for years and decades of their lives.

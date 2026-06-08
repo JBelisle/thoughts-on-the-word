@@ -6,7 +6,7 @@ reading:
   - "Ephesians 2"
 passages:
   - "Ephesians 2"
-summary: "I’ll start today by saying that what I am talking about here is definitely not the main point of Ephesians 2. What I want to talk about is something that I…"
+summary: "Rereading Ephesians 2:10 — the good works God prepared beforehand are given to the church as a body, not a fixed individual checklist whose missed steps put you outside God's will, freeing us to make real choices as we pursue his kingdom."
 ---
 
 I’ll start today by saying that what I am talking about here is definitely not the main point of Ephesians 2. What I want to talk about is something that I misunderstood for a long time that had some harmful side-effects, and it is an interpretation I have heard from others as well, and I wanted to talk about it in case it was causing anybody else undue stress in their Christian life.

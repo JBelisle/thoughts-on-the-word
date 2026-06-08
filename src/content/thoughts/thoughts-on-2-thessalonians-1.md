@@ -6,7 +6,7 @@ reading:
   - "2 Thessalonians 1-2"
 passages:
   - "2 Thessalonians 1"
-summary: "Solid theology, rather than empty platitudes, is what strengthens and supports us in suffering."
+summary: "How Paul meets suffering with solid theology rather than empty platitudes — in 2 Thessalonians 1 pointing to the eternal glory awaiting the faithful and the judgment awaiting their persecutors — and the discernment needed to bring the right truth to those who suffer."
 ---
 
 Solid theology, rather than empty platitudes, is what strengthens and supports us in suffering.

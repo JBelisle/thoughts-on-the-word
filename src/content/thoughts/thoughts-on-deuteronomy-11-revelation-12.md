@@ -7,7 +7,7 @@ reading:
 passages:
   - "Deuteronomy 11"
   - "Revelation 12"
-summary: "Have you noticed how wildly repetitive Deuteronomy has been so far?"
+summary: "Deuteronomy's relentless repetition of the call to faithfulness is itself the point — when a biblical author harps on something to the point of annoyance, that is precisely where to stop and ask why it matters so much."
 ---
 
 ## Thoughts on Deuteronomy 11

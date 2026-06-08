@@ -6,7 +6,7 @@ reading:
   - "Luke 20"
 passages:
   - "Luke 20"
-summary: "Yesterday we talked about the folly of approaching God on our own terms, demanding answers to questions He hasn’t chosen to reveal when He has given us…"
+summary: "The parable of the tenants in Luke 20 as a damning indictment of following God on our own terms — like the tenants who thought killing the heir would win them the vineyard, churches and Christians who keep the agreeable teachings while rejecting the costly ones fool only themselves."
 ---
 
 Yesterday we talked about the folly of approaching God on our own terms, demanding answers to questions He hasn’t chosen to reveal when He has given us enough to believe otherwise, and today we see the folly of following God on our own terms, as Jesus tells maybe the most damning parable against the scribes and Pharisees in all His recorded ministry.

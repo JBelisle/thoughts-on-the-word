@@ -6,7 +6,7 @@ reading:
   - "Mark 2"
 passages:
   - "Mark 2"
-summary: "I know I’ve talked about this before, but as we are starting into the Gospel of Mark, it seems like a good time to stop and remember that the Pharisees were…"
+summary: "Reframing the Pharisees' obsession with the law — not as a works-based scheme for personal salvation, but as a corporate effort to keep Israel faithful and avoid a second exile, set against the Sabbath grain dispute."
 ---
 
 I know I’ve talked about this before, but as we are starting into the Gospel of Mark, it seems like a good time to stop and remember that the Pharisees were not concerned with people following the law for the sake of personal salvation, but for the sake of avoiding another exile.

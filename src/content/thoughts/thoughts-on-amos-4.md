@@ -6,7 +6,7 @@ reading:
   - "Mark 7"
 passages:
   - "Amos 4"
-summary: "Amos 4 is a perfect and explicit callout of what we have talked about so much on here, that God does not want to judge His people, and His goal in bringing…"
+summary: "How the refrain 'Yet you did not return to me' in Amos 4 reveals God escalating judgements not as retribution but as merciful attempts to capture Israel's attention and draw them back — reframing what skeptics call Old Testament harshness as restraint meant to avert greater judgement."
 ---
 
 Amos 4 is a perfect and explicit callout of what we have talked about so much on here, that God does not want to judge His people, and His goal in bringing judgement on them is not to destroy them, but is to capture their attention and call them back to Himself.

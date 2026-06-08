@@ -6,7 +6,7 @@ reading:
   - "1 Corinthians 5-6"
 passages:
   - "1 Samuel 18"
-summary: "Before I get to something more serious, I just have to say that the immature part of me always finds the end of this chapter hilarious. Saul, in trying to…"
+summary: "The contrast between Jonathan, who humbly hands David his robe and weapons as a surrender of his royal claim, and Saul, who recognizes what God is doing through David and fights it out of pride — asking how we respond when God's plans clash with our own."
 ---
 
 Before I get to something more serious, I just have to say that the immature part of me always finds the end of this chapter hilarious. Saul, in trying to get David killed by the Philistines, offers David his daughter for a wife for the dowry of 100 Philistine foreskins. So David, in his evident excitement to marry Michal, brings him back 200 Philistine foreskins. If this was anything else, I don’t think I would find it as funny as I do, but I just picture David and his men collecting the dowry and his men asking, “Hey, so, we’ve already cut off 100 of these, do we really need to keep doing this…?” Or maybe they walked into a Philistine garrison and announced, “We’re here for your foreskins! You can give them to us peaceably, or we can take them by force, it’s up to you!” It’s one of those stories in the Bible that is easy to just read past, but when you stop and try to imagine how it actually went down, things get weird…

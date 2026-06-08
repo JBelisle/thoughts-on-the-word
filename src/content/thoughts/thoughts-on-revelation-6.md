@@ -6,7 +6,7 @@ reading:
   - "Revelation 6"
 passages:
   - "Revelation 6"
-summary: "I think this is probably one of my most controversial theological views, but if God doesn’t actually know the future, it definitely changes how I read…"
+summary: "Exploring the controversial view that God may not exhaustively know the future but instead declares what he will sovereignly bring about — and how that reframes the riders and judgments of Revelation 6 as God's declarations rather than glimpses of literal future scenes."
 ---
 
 I think this is probably one of my most controversial theological views, but if God doesn’t actually know the future, it definitely changes how I read Revelation.

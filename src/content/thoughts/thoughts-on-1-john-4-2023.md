@@ -6,7 +6,7 @@ reading:
   - "1 John 4"
 passages:
   - "1 John 4"
-summary: "John's words about testing the spirits stand out to me this morning as something the modern church desperately needs to take to heart. Modern Western…"
+summary: "John's call to test the spirits, read against a naturalistic Western Christianity — arguing that the church's silence about the supernatural leaves spiritually curious people vulnerable to deception, opening the door to New Age teaching."
 ---
 
 John's words about testing the spirits stand out to me this morning as something the modern church desperately needs to take to heart. Modern Western Christianity seems to have become largely naturalistic. Obviously you can't be a Christian and fully deny the supernatural, but it seems like, for a lot of Christians, God, and maybe a handful of angels, is kind of the extent of the consideration we give to the supernatural world. We tend to live as though the physical world is all there is, or at least all that is important, and any spiritual realities take a back seat. But this was not the reality into which John wrote this letter. The people of John's day would have had a robust view of the supernatural world with a base assumption that beings within that supernatural realm, both good and evil, not only existed, but influenced life on a daily basis.

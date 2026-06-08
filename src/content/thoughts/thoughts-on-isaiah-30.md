@@ -6,7 +6,7 @@ reading:
   - "2 John 1"
 passages:
   - "Isaiah 30"
-summary: "The more we practice trusting God with the little things, the easier it will be to trust Him with the big, and even seemingly insurmountable, things."
+summary: "Judah fleeing the Assyrians on horses rather than finding salvation in returning and rest — and how practicing trust in God through smaller, lower-stakes trials builds the assurance needed to rely on him when the stakes are highest."
 ---
 
 The more we practice trusting God with the little things, the easier it will be to trust Him with the big, and even seemingly insurmountable, things.

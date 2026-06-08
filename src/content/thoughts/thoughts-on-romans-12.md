@@ -6,7 +6,7 @@ reading:
   - "Romans 12"
 passages:
   - "Romans 12"
-summary: "When Paul tells the Romans not to think more highly of themselves than they ought to think, his basis for that statement is our need for one another in the…"
+summary: "How the body imagery of Romans 12 grounds humility in our mutual dependence — celebrating the diversity of giftings God distributes, and challenging churches to ask why God assembled these particular people rather than forcing them into predefined roles."
 ---
 
 When Paul tells the Romans not to think more highly of themselves than they ought to think, his basis for that statement is our need for one another in the Body of Christ. There are certainly some Christians who are more gifted than others, and there are some that are gifted in more public-facing areas like teaching or evangelism. Such a person might be tempted to see their contribution to the church as more important than others, and it can be a stumbling block of pride for them. The antidote to that pride that Paul offers is the recognition that God has designed the church to operate like a body, meaning none of us can operate properly, spiritually speaking, without the others God has placed around us.

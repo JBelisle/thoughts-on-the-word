@@ -6,7 +6,7 @@ reading:
   - "2 Corinthians 1"
 passages:
   - "1 Samuel 30"
-summary: "I mentioned yesterday in my post on 1 Samuel 29 that God uses the Philistine lords to give David and his men an out. They were essentially stuck between a…"
+summary: "Tracing the chain of fortuitous events around the raid on Ziklag — the Philistine rejection, the timing, the abandoned Egyptian slave who guides David to the Amalekites — as evidence of God's quiet sovereignty caring for His people without dramatic miracle."
 ---
 
 I mentioned yesterday in my post on 1 Samuel 29 that God uses the Philistine lords to give David and his men an out. They were essentially stuck between a rock and a hard place coming up to that battle alongside Achish, but the Philistine lords refusing to allow David to fight alongside them rescues them from that situation. But more than just rescuing them from that particular situation, I feel like this is a place we see God's sovereignty at work taking care of His people.

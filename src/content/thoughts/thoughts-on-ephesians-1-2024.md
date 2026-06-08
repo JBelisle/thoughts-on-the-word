@@ -6,7 +6,7 @@ reading:
   - "Ephesians 1"
 passages:
   - "Ephesians 1"
-summary: "It’s easy, especially with a blog about the Bible, to assume my readers know the gospel and to not really talk much about it, but even for us who already…"
+summary: "A return to gospel fundamentals through Ephesians 1 — the laundry list of what is true of us in Christ, from adoption as sons to the resurrection power of the Spirit at work in us, all received by grace through faith rather than works."
 ---
 
 It’s easy, especially with a blog about the Bible, to assume my readers know the gospel and to not really talk much about it, but even for us who already believe, it is good always to be reminded of the fundamental truths of our faith.

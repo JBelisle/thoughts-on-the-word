@@ -6,7 +6,7 @@ reading:
   - "3 John 1"
 passages:
   - "Isaiah 32"
-summary: "Heaven isn’t some ethereal existence “out there” somewhere, but is a restored/recreated perfect world, in the vision of the original Garden of Eden, with…"
+summary: "Heaven not as a disembodied existence among the clouds but as a restored physical world fulfilling the Eden mandate — Isaiah 32's vision of Christ reigning in righteousness, afflictions ended, the wilderness made a fruitful garden."
 ---
 
 Heaven isn’t some ethereal existence “out there” somewhere, but is a restored/recreated perfect world, in the vision of the original Garden of Eden, with Jesus ruling as the righteous king forever!

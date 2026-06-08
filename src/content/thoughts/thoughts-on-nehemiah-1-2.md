@@ -6,7 +6,7 @@ reading:
   - "John 3"
 passages:
   - "Nehemiah 1-2"
-summary: "I think it’s worth realizing that there was no real reason for Nehemiah to take responsibility for the work in Jerusalem as he did."
+summary: "Nehemiah, an unremarkable cupbearer with no obligation to act, takes responsibility for Jerusalem's ruin — moving from burden to prayer to a concrete plan, a model for how the Body of Christ should answer the needs God lays on our hearts."
 ---
 
 I think it’s worth realizing that there was no real reason for Nehemiah to take responsibility for the work in Jerusalem as he did.

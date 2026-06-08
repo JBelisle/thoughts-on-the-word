@@ -6,7 +6,7 @@ reading:
   - "Acts 26"
 passages:
   - "Judges 15"
-summary: "I don’t think I’m shameless enough in prayer."
+summary: "Samson's whiny, demanding prayer for water after defeating the Philistines — and how God's answering it is a call to bolder, more shameless prayer, contrasted with the faithless grumbling of Israel in the wilderness."
 ---
 
 I don’t think I’m shameless enough in prayer.

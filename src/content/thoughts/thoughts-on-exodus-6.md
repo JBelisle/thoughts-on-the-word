@@ -6,7 +6,7 @@ reading:
   - "1 Corinthians 12"
 passages:
   - "Exodus 6"
-summary: "I feel like there is a really important principal of leadership in Exodus 6, both spiritually speaking and otherwise, and that is that you really set the…"
+summary: "A leadership lesson from Israel's broken spirit in Exodus 6 — Moses likely failing to warn the people that Pharaoh would refuse at first, and how setting honest expectations of hardship protects people from despair when difficulty comes."
 ---
 
 I feel like there is a really important principal of leadership in Exodus 6, both spiritually speaking and otherwise, and that is that you really set the people you are leading up for failure when you don’t properly set expectations at the start.

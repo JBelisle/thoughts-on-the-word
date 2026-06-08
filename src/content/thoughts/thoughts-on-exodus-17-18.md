@@ -6,7 +6,7 @@ reading:
   - "2 Corinthians 8"
 passages:
   - "Exodus 17"
-summary: "Reading Exodus 17 and 18 this morning, a couple really important principles of leadership stood out to me as Moses is learning them."
+summary: "Two leadership lessons Moses learns across Exodus 17 and 18 — needing Aaron and Hur to hold up his arms against Amalek teaches him he cannot lead alone, and Jethro's counsel teaches him to delegate rather than be Israel's single point of failure."
 ---
 
 Reading Exodus 17 and 18 this morning, a couple really important principles of leadership stood out to me as Moses is learning them.

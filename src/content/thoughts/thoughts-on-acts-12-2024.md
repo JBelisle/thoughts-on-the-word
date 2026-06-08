@@ -6,7 +6,7 @@ reading:
   - "Acts 12"
 passages:
   - "Acts 12"
-summary: "There are a handful of miracles in the Bible that I really struggle with, and that ultimately force me to admit that I really have no concept of the…"
+summary: "How the surface-simple rescue of Peter from prison in Acts 12 — slipping past chained guards, sentries, and a city gate unseen — actually demands staggering control over photons and air molecules, and how such miracles force a move from hand-wavy acceptance to awe at God's unfathomable power."
 ---
 
 There are a handful of miracles in the Bible that I really struggle with, and that ultimately force me to admit that I really have no concept of the absolute power and capacity of the Lord.

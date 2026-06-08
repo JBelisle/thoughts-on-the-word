@@ -6,7 +6,7 @@ reading:
   - "Acts 4"
 passages:
   - "Acts 4"
-summary: "I know we’ve talked about this already, as we were going through the gospels, but it is amazing how little evidence matters when someone has already decided…"
+summary: "How the Jewish leaders in Acts 4 admit a miracle happened yet scheme only to suppress it — showing that for many people no amount of evidence overcomes an unwillingness to surrender control of their lives, and why it can be wiser to stop pushing than to harden someone's heart further."
 ---
 
 I know we’ve talked about this already, as we were going through the gospels, but it is amazing how little evidence matters when someone has already decided that Jesus is not who He says He is.

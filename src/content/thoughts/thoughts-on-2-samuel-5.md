@@ -6,7 +6,7 @@ reading:
   - "2 Corinthians 7"
 passages:
   - "2 Samuel 5"
-summary: "The end of 2 Samuel 5 always strikes me as a great example of the importance of reliance on God despite your competence in a given area."
+summary: "David, already a master tactician, still asks God before each Philistine battle in 2 Samuel 5 — and is told to wait for God to go ahead of him, showing how competence tempts us toward self-reliance and can cause us to miss the greater work God intends."
 ---
 
 The end of 2 Samuel 5 always strikes me as a great example of the importance of reliance on God despite your competence in a given area.

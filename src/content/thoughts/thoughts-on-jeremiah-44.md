@@ -6,7 +6,7 @@ reading:
   - "1 Corinthians 3"
 passages:
   - "Jeremiah 44"
-summary: "Given the attitude of the Jews in Egypt, I’m honestly surprised they ever bothered to ask the Lord’s input on what to do in the first place."
+summary: "The exiles in Egypt brazenly defend their worship of the queen of heaven — and how their idolatry shows the exile came not from breaking obscure laws but from persistently running after other gods despite all God had done for them."
 ---
 
 Given the attitude of the Jews in Egypt, I’m honestly surprised they ever bothered to ask the Lord’s input on what to do in the first place.

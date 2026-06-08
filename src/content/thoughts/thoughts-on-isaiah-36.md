@@ -6,7 +6,7 @@ reading:
   - "Revelation 2"
 passages:
   - "Isaiah 36"
-summary: "Isaiah 36 is a great picture of the lies and insidiousness of sin in general, but especially as it tries to short-circuit the discipline of the Lord at work…"
+summary: "The Rabshakeh's enticing offer to surrendering Israelites as a picture of how sin operates — half-truths that promise escape from the Lord's discipline, mirroring Satan's offers of relief that carry their own suffering but without God's redemptive purpose."
 ---
 
 Isaiah 36 is a great picture of the lies and insidiousness of sin in general, but especially as it tries to short-circuit the discipline of the Lord at work in our lives.

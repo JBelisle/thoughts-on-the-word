@@ -6,7 +6,7 @@ reading:
   - "1 Timothy 3-4"
 passages:
   - "1 Kings 15"
-summary: "King Asa highlights to me the importance and impact of the spiritual legacy we leave for our children."
+summary: "Though Asa did right in the Lord's eyes, his lapses — leaving the high places and trusting a Syrian alliance over Yahweh — trace back to the faithless legacy of Rehoboam and Abijam, highlighting the spiritual foundation parents lay for their children."
 ---
 
 King Asa highlights to me the importance and impact of the spiritual legacy we leave for our children.

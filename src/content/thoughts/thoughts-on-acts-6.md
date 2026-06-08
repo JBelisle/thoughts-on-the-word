@@ -6,7 +6,7 @@ reading:
   - "Acts 6"
 passages:
   - "Acts 6"
-summary: "Reading Acts 6 this morning has me thinking about the ways churches utilize (or fail to utilize) their people."
+summary: "Drawing on how the apostles in Acts 6 called the community to raise up and commission its own people to meet a real need — an extended reflection on how churches under-utilize their members, hire out roles God may want filled by those already present, and hold too tightly to ministries past their season."
 ---
 
 Reading Acts 6 this morning has me thinking about the ways churches utilize (or fail to utilize) their people.

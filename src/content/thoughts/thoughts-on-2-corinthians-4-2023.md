@@ -6,7 +6,7 @@ reading:
   - "2 Corinthians 4"
 passages:
   - "2 Corinthians 4"
-summary: "The end of 2 Cor. 4 is always refreshing and challenging at the same time:"
+summary: "How Paul, who endured beatings, shipwreck, and stoning, could call such suffering light and momentary affliction — two ways to reorient perspective toward the unseen and eternal, weighing present trials against the reward laid up in heaven."
 ---
 
 The end of 2 Cor. 4 is always refreshing and challenging at the same time:

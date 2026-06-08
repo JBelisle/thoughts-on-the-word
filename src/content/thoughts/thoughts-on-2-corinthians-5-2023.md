@@ -6,7 +6,7 @@ reading:
   - "2 Corinthians 5"
 passages:
   - "2 Corinthians 5"
-summary: "There are a handful of things I could write about this morning out of Exodus 14 or 2 Cor. 5, but what I’ve landed on is a theory I have been playing around…"
+summary: "A technical proposal on the mechanics of substitutionary atonement — wrestling with Deuteronomy 24:16's rule that each dies for his own sin, and suggesting that Jesus' death gave God the means to forgive and absorb humanity's debt rather than swapping one death for another."
 ---
 
 There are a handful of things I could write about this morning out of Exodus 14 or 2 Cor. 5, but what I’ve landed on is a theory I have been playing around with in my head for a while now that 2 Cor. 5 gives a decent spring-board to. I want to do a more fully developed write-up on this at some point, but I also just want to get it out there to be able to collect other people’s thoughts on it to help me flesh out my thinking on it.

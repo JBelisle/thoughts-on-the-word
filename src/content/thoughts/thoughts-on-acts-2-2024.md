@@ -6,7 +6,7 @@ reading:
   - "Acts 2"
 passages:
   - "Acts 2"
-summary: "Reading Peter’s speech this morning, it stood out to me how much of the Word Peter knew by heart to be able to give the speech he did."
+summary: "How Peter's Pentecost speech in Acts 2, drawn from Scripture he clearly knew by heart, shows a fisherman who learned the Word long before he needed it — and why Christians should be memorizing and learning Scripture now rather than waiting to be thrust into a role."
 ---
 
 Reading Peter’s speech this morning, it stood out to me how much of the Word Peter knew by heart to be able to give the speech he did.

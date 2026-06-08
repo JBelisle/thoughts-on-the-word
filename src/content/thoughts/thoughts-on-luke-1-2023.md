@@ -6,7 +6,7 @@ reading:
   - "Luke 1"
 passages:
   - "Luke 1"
-summary: "Any time I read the beginning of Luke, I can’t help but marvel at, and be deeply challenged by, Mary’s faith."
+summary: "Mary's faith in Luke 1 — how her declaration that all generations will call her blessed, made in the face of the social ruin her pregnancy could bring, models trusting that faithfulness to God is worth it regardless of what the world may think."
 ---
 
 Any time I read the beginning of Luke, I can’t help but marvel at, and be deeply challenged by, Mary’s faith.

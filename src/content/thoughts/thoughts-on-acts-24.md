@@ -7,7 +7,7 @@ reading:
 passages:
   - "Acts 24"
   - "Proverbs 20"
-summary: "Felix is a perfect example of what we have talked about a few times recently, that some people simply cannot be persuaded without a change of heart. Also,…"
+summary: "Felix in Acts 24 — two years of conversing with Paul yet never believing — as evidence that some people cannot be persuaded by more information without a change of heart, plus reflections on why it is fine to read Scripture without extracting something each time and on reading Proverbs daily."
 ---
 
 Felix is a perfect example of what we have talked about a few times recently, that some people simply cannot be persuaded without a change of heart. Also, unrelated to Felix, I have a couple thoughts to share on reading the Bible generically.

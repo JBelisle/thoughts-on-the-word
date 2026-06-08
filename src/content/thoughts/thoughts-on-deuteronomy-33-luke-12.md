@@ -7,7 +7,7 @@ reading:
 passages:
   - "Deuteronomy 33"
   - "Luke 12"
-summary: "Have you ever thought about what the point of the Bible is?"
+summary: "Moses' grand blessing on Asher in Deuteronomy 33, a tribe scarcely heard from again, shows the Bible is not a history book but the story of God's redemption — paired with wrestling over Jesus' call in Luke 12 not to be anxious and whether that forbids saving."
 ---
 
 ## Thoughts on Deuteronomy 33

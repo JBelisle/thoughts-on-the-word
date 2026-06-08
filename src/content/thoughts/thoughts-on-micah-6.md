@@ -6,7 +6,7 @@ reading:
   - "Mark 16"
 passages:
   - "Micah 6"
-summary: "Could God have made it any more clear to Israel back then, or to us today for that matter, what He is looking for from His people, than He does in Micah 6?"
+summary: "Micah 6's call to do justice, love kindness, and walk humbly with God answers the picture of a God tallying our failures in a notebook — sacrifices and good works flow from a relationship rather than substitute for the heart God truly wants."
 ---
 
 Could God have made it any more clear to Israel back then, or to us today for that matter, what He is looking for from His people, than He does in Micah 6?

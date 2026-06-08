@@ -6,7 +6,7 @@ reading:
   - "Romans 13"
 passages:
   - "Jeremiah 37"
-summary: "As in Jeremiah’s day, and in Jesus’ day, so too in our own, there are those who reject the Lord, not because they don’t believe in Him, and not because His…"
+summary: "How Zedekiah in Jeremiah 37 — who sought Jeremiah's prayers and word from God yet would not obey — illustrates that many reject the Lord not for lack of evidence or poor witness but simply because they are unwilling to submit to Him."
 ---
 
 As in Jeremiah’s day, and in Jesus’ day, so too in our own, there are those who reject the Lord, not because they don’t believe in Him, and not because His people are misrepresenting Him, but simply because they are unwilling to submit themselves to Him.

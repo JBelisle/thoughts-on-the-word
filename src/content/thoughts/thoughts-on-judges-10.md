@@ -6,7 +6,7 @@ reading:
   - "Acts 22"
 passages:
   - "Judges 10"
-summary: "I think this is something I’ve written a bit about before, but it is really striking how difficult it is for Israel to stay faithful to Yahweh when they…"
+summary: "Why Israel finds faithfulness to Yahweh so much harder than devotion to gods who never helped them — spiritual opposition and the flesh's enmity resist the pursuit of God but not idolatry, a dynamic still at work in following Christ today."
 ---
 
 I think this is something I’ve written a bit about before, but it is really striking how difficult it is for Israel to stay faithful to Yahweh when they have no trouble staying faithful to the other gods they are turning to.

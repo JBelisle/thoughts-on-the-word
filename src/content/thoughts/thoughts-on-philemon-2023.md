@@ -6,7 +6,7 @@ reading:
   - "Philemon 1"
 passages:
   - "Philemon"
-summary: "I want to talk about Philemon this morning, and specifically about whether it is wrong for Paul to pressure Philemon the way he does in this letter."
+summary: "Was Paul being manipulative in pressuring Philemon to free Onesimus? Reading the letter against its ancient social context, where pressure to conform to community norms was a virtue rather than the modern Western vice of violating individual autonomy."
 ---
 
 I want to talk about Philemon this morning, and specifically about whether it is wrong for Paul to pressure Philemon the way he does in this letter.

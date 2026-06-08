@@ -6,7 +6,7 @@ reading:
   - "John 9"
 passages:
   - "John 9"
-summary: "To some extent this is another follow up to my post on John 6 because I have a hard time with Jesus’ words here at the beginning of John 9."
+summary: "Wrestling with Jesus' words about the man born blind — that it happened so God's works might be displayed — and whether that means God inflicted suffering for later glory, or simply reframes the Fall's brokenness within the disciples' question."
 ---
 
 To some extent this is another follow up to my post on John 6 because I have a hard time with Jesus’ words here at the beginning of John 9.

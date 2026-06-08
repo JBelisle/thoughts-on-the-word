@@ -6,7 +6,7 @@ reading:
   - "Galatians 1"
 passages:
   - "Ecclesiastes 1"
-summary: "There are two things I want to call out as we get into Ecclesiastes that I personally found helpful in understanding the book when I learned them; (1) the…"
+summary: "Two keys for reading Ecclesiastes well — the author is not the cynical Preacher he quotes, and the Hebrew hevel means smoke rather than meaningless, picturing life as real but elusive and impossible to grasp rather than pointless."
 ---
 
 There are two things I want to call out as we get into Ecclesiastes that I personally found helpful in understanding the book when I learned them; (1) the author is not the preacher, and (2) “hevel” means smoke, not meaningless or vain.

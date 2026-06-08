@@ -6,7 +6,7 @@ reading:
   - "Hebrews 9"
 passages:
   - "Zephaniah 1-2"
-summary: "Reading Zephaniah this morning puts me in mind of the Christians who talk about America as “God’s country,” and act as though the nation can do no wrong as…"
+summary: "Using Zephaniah's judgment on Israel — the very nation God established and chose — to challenge the assumption that America is uniquely protected as God's country, arguing that hope rests not in a national identity but in the faithful remnant's identity in Christ."
 ---
 
 Reading Zephaniah this morning puts me in mind of the Christians who talk about America as “God’s country,” and act as though the nation can do no wrong as a result.

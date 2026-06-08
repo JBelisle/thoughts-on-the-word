@@ -6,7 +6,7 @@ reading:
   - "2 Thessalonians 1-2"
 passages:
   - "1 Kings 12"
-summary: "I want to talk about Jeroboam a bit today."
+summary: "Pushing back on the sympathetic reading of Jeroboam as merely misguided — the golden calves and non-Levitical priests reveal a king concerned only with protecting his throne, not the faithful worship of Yahweh, fully earning his reputation across Kings."
 ---
 
 I want to talk about Jeroboam a bit today.

@@ -6,7 +6,7 @@ reading:
   - "Romans 12"
 passages:
   - "Jeremiah 36"
-summary: "If, as a Christian, the only time you are ever exposing yourself to God’s Word is once a week in church, that is certainly better than nothing, but it is…"
+summary: "How the officials' alarm at hearing Jeremiah's scroll read all at once in chapter 36 — words they had heard piecemeal for years — illustrates why weekly church teaching is no substitute for steeping ourselves regularly in the whole of Scripture."
 ---
 
 If, as a Christian, the only time you are ever exposing yourself to God’s Word is once a week in church, that is certainly better than nothing, but it is really not enough.

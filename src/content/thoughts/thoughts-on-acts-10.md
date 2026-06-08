@@ -6,7 +6,7 @@ reading:
   - "Acts 10"
 passages:
   - "Acts 10"
-summary: "One thing that I think can be easily missed in Acts 10 is how significantly out of his comfort zone God is taking Peter."
+summary: "How far out of his comfort zone God pushes Peter in Acts 10 — commanding him to eat what he found viscerally disgusting and to enter a Gentile home, making clear that racial and cultural bias have no place in the kingdom and that salvation came from the Jews but does not stop with them."
 ---
 
 One thing that I think can be easily missed in Acts 10 is how significantly out of his comfort zone God is taking Peter.

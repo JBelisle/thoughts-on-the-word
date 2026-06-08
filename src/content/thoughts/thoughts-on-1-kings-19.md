@@ -6,7 +6,7 @@ reading:
   - "2 Timothy 2-3"
 passages:
   - "1 Kings 19"
-summary: "I don’t have much to say about our chapter this morning other than to point out Elijah’s needs for rest, food, and time to work through and come out of his…"
+summary: "How God tends to a despairing Elijah after Carmel — with rest, food, and time rather than rebuke — pushing back on treating anxiety and depression as sin, while also showing that God may call us to keep obeying before the struggle is resolved."
 ---
 
 I don’t have much to say about our chapter this morning other than to point out Elijah’s needs for rest, food, and time to work through and come out of his spiritual depression.

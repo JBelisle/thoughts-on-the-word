@@ -6,7 +6,7 @@ reading:
   - "Philippians 3"
 passages:
   - "1 Kings 2"
-summary: "A lot of people are punished or die in 1 Kings 2 for disloyalty to either David or Solomon, but one that used to strike me as not really fitting was always…"
+summary: "Why Solomon's execution of Adonijah over a request for Abishag was not excessive — in the ancient world, claiming a king's wife or concubine was a play for his throne, as seen with Reuben, Ham, and Absalom, making the request a renewed bid for power."
 ---
 
 A lot of people are punished or die in 1 Kings 2 for disloyalty to either David or Solomon, but one that used to strike me as not really fitting was always Adonijah. Adonijah asks for Abishag the Shunammite to be given to him as a wife, and as a result he is immediately executed. Isn't execution a little extreme for this ask...?

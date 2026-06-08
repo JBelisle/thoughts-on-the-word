@@ -6,7 +6,7 @@ reading:
   - "Romans 3"
 passages:
   - "Judges 20"
-summary: "Reading Judges 20 this morning I couldn't help but think about the toll our sin takes on the people around us."
+summary: "The atrocity at Gibeah and Benjamin's defense of it as a study in how sin festers and spreads — costing the wider nation over 40,000 men, and a call to deal with sin quickly before its toll on those around us grows."
 ---
 
 Reading Judges 20 this morning I couldn't help but think about the toll our sin takes on the people around us.

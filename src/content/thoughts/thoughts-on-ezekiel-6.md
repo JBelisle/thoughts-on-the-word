@@ -6,7 +6,7 @@ reading:
   - "1 Corinthians 16"
 passages:
   - "Ezekiel 6"
-summary: "Reading Ezekiel 6 this morning, I couldn’t help but think about how important it is that we agree with God’s Word about what He declares to be sin, even if…"
+summary: "Why it matters to agree with God's Word about sin even when culture celebrates it — using Ezekiel 6's exiles coming to loathe their own evils to trace how small, consequence-free indulgences erode faith and turn the heart away from God entirely."
 ---
 
 Reading Ezekiel 6 this morning, I couldn’t help but think about how important it is that we agree with God’s Word about what He declares to be sin, even if we don’t like it, agree with it, or feel bad about doing it.

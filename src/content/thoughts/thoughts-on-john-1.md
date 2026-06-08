@@ -6,7 +6,7 @@ reading:
   - "John 1"
 passages:
   - "John 1"
-summary: "I tend to make the assumption that the people reading this blog are Christians, or are at the very least familiar with the the biblical teaching about…"
+summary: "A plain presentation of the gospel from John 1 — that we can never be good enough to earn heaven, but that God became flesh and died in our place, so that all who receive him and believe in his name are given the right to become children of God."
 ---
 
 I tend to make the assumption that the people reading this blog are Christians, or are at the very least familiar with the the biblical teaching about salvation, the gospel, but I also know that for many years, I thought I knew what the Bible taught about getting to heaven and I was very wrong. So instead of talking about Elijah being taken bodily into heaven out of our reading in 2 Kings 2 today, I want to just look at the gospel out of John 1.

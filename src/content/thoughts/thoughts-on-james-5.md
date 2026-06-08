@@ -6,7 +6,7 @@ reading:
   - "James 5"
 passages:
   - "James 5"
-summary: "It always sticks out to me that James doesn’t say that prayer has great power in general, but instead calls out that it is the prayer of a righteous person…"
+summary: "Why James 5 specifies that it is the prayer of a righteous person that has great power — God is not a vending machine, and there is a real connection between how we live before Him and the expectation we can bring to prayer."
 ---
 
 It always sticks out to me that James doesn’t say that prayer has great power in general, but instead calls out that it is the prayer of a righteous person that has great power while it is working.

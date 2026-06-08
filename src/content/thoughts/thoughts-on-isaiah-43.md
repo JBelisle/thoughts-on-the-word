@@ -6,7 +6,7 @@ reading:
   - "Revelation 9"
 passages:
   - "Isaiah 43"
-summary: "Reading Isaiah is a lot like reading John's letters in the New Testament to me; I often have to read a chapter or a section over and over, a handful of…"
+summary: "On the difficulty of Isaiah, and how Isaiah 43 — casting Babylon as the new Egypt — shows God blotting out Israel's transgressions for his own sake rather than theirs, using Israel in spite of herself to reclaim the nations through Christ."
 ---
 
 Reading Isaiah is a lot like reading John's letters in the New Testament to me; I often have to read a chapter or a section over and over, a handful of times, before I start to feel like I have any real grasp of what's going on.

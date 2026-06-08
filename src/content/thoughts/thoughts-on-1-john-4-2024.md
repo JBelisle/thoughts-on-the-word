@@ -6,7 +6,7 @@ reading:
   - "1 John 4"
 passages:
   - "1 John 4"
-summary: "John’s focus and teaching on loving one another here is challenging to me."
+summary: "Loving God can feel easier than loving people because He comes on our terms — but John insists we cannot love the God we have not seen while failing to love the brothers and sisters we have, His children being part of the package."
 ---
 
 John’s focus and teaching on loving one another here is challenging to me.

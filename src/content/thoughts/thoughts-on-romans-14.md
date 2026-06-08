@@ -6,7 +6,7 @@ reading:
   - "Romans 14"
 passages:
   - "Romans 14"
-summary: "Romans 14 is something God has changed dramatically in my heart over the years. I used to really struggle with this chapter because I wanted everything to…"
+summary: "Moving past a desire for rigid black-and-white rules to embrace the moral gray areas of Romans 14 — where, apart from what is always sinful, a relational God deals with each believer individually, shifting the question from what is allowed to what glorifies him."
 ---
 
 Romans 14 is something God has changed dramatically in my heart over the years. I used to really struggle with this chapter because I wanted everything to be black and white. No, Paul, it's not okay that one person esteems one day as better than another while another esteems all days alike! Which is it? Is one day more important than the others, or are all the same? It has to be one or the other! So tell us which it is and whoever is wrong can just get with the program!!!

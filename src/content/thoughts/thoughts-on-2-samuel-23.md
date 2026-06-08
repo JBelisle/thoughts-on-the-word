@@ -6,7 +6,7 @@ reading:
   - "Ephesians 6"
 passages:
   - "2 Samuel 23"
-summary: "This is not what I actually want to talk about today, but can I just start by saying how funny I think it is that David calls himself, “the sweet psalmist…"
+summary: "Asking where David's mighty men were when Goliath defied Israel, and arguing that 2 Samuel 23 shows David's contagious faith spreading to a once-faithless crowd over years in the wilderness — a picture of how one person's trust in God shapes everyone around them."
 ---
 
 This is not what I actually want to talk about today, but can I just start by saying how funny I think it is that David calls himself, “the sweet psalmist of Israel”? I feel like this would be like me going around introducing myself as, “Joe the Wise,” or, “Joseph the Mighty,” or something like that. Obviously, in David’s case, the title actually fits, but I still think it’s funny to imagine him sitting down to write and thinking, “How should I introduce myself here? Oh! I know! *The sweet psalmist of Israel.*”

@@ -6,7 +6,7 @@ reading:
   - "Revelation 6"
 passages:
   - "Isaiah 40"
-summary: "I don’t spend enough time sitting in wonder at the utter transcendence of God, let alone the unbelievable fact of His love for us despite being so far…"
+summary: "Sitting in wonder at Isaiah 40's portrait of a God who holds the waters in the hollow of his hand and weighs the mountains on a scale — a being on a cosmic scale before whom we are insignificant, yet whom he loved enough to take on flesh and die for us."
 ---
 
 I don’t spend enough time sitting in wonder at the utter transcendence of God, let alone the unbelievable fact of His love for us despite being so far beyond us in every way.

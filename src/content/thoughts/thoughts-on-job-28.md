@@ -6,7 +6,7 @@ reading:
   - "1 Corinthians 5-6"
 passages:
   - "Job 28"
-summary: "Job 28 is an important and powerful reminder of the reality that despite our ingenuity, creativity, and genius as a species, wisdom can only ever truly be…"
+summary: "Job 28 gives humanity full credit for its mining, ingenuity, and achievement, yet insists that true wisdom is found only with the Lord — a warning that grows more urgent the further our progress tempts us to trust our own understanding."
 ---
 
 Job 28 is an important and powerful reminder of the reality that despite our ingenuity, creativity, and genius as a species, wisdom can only ever truly be found with the Lord.

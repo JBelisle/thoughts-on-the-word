@@ -6,7 +6,7 @@ reading:
   - "Galatians 5"
 passages:
   - "Ezekiel 23"
-summary: "I don’t have much to say about Ezekiel 23 this morning other than that I don’t think it’s really as shocking anymore as it should be…"
+summary: "Ezekiel 23's deliberately obscene imagery of Israel's idolatry barely registers as shocking by today's standards — a convicting measure of how far the culture has drifted from God, and of the pull to blend in rather than stand out for Him."
 ---
 
 I don’t have much to say about Ezekiel 23 this morning other than that I don’t think it’s really as shocking anymore as it should be…

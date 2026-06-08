@@ -6,7 +6,7 @@ reading:
   - "Revelation 20"
 passages:
   - "Isaiah 56"
-summary: "If you only read certain parts of the Old Testament, you could start to think that God only cares about Israel and is not concerned with the other nations,…"
+summary: "Why the Old Testament's focus on Israel and its condemnations of other nations do not mean God cares only for Israel — Isaiah 56 shows his choosing of Israel always aimed at blessing the nations, welcoming any foreigner who joins himself to the Lord."
 ---
 
 If you only read certain parts of the Old Testament, you could start to think that God only cares about Israel and is not concerned with the other nations, but Isaiah 56 couldn’t be any clearer just how wrong that understanding is.

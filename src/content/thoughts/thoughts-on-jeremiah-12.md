@@ -6,7 +6,7 @@ reading:
   - "Matthew 17"
 passages:
   - "Jeremiah 12"
-summary: "God is not afraid of difficult questions. Jeremiah himself struggles before the Lord, like all of us should, with understanding, \"Why does the way of the…"
+summary: "Jeremiah 12's question of why the wicked prosper — and God's answer that He is not okay with evil but allows it for a time as He calls people to repent, a patience Peter echoes in 2 Peter 3 before the day of judgment finally comes."
 ---
 
 God is not afraid of difficult questions. Jeremiah himself struggles before the Lord, like all of us should, with understanding, "Why does the way of the wicked prosper? Why do all who are treacherous thrive?"

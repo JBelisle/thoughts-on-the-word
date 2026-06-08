@@ -6,7 +6,7 @@ reading:
   - "Colossians 2"
 passages:
   - "Colossians 2"
-summary: "How vulnerable are you to spiritual deception?"
+summary: "How Paul's concern in Colossians 2 that the church not be taken captive by plausible arguments points to the guard against spiritual deception — knowing Jesus, knowing who He is and what He taught, and knowing the Scriptures as the source of revealed truth that no real truth will contradict."
 ---
 
 How vulnerable are you to spiritual deception?

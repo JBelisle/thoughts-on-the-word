@@ -6,7 +6,7 @@ reading:
   - "Acts 3"
 passages:
   - "Joshua 14"
-summary: "Thinking about Caleb in Joshua 14 this morning, I can’t help but think how impatient I can be with the Lord."
+summary: "Caleb waited 45 years for God's promised land and then five more, seeking Israel's good before his own — a rebuke to our impatience and a call to seek first the kingdom and trust God's timing over our own."
 ---
 
 Thinking about Caleb in Joshua 14 this morning, I can’t help but think how impatient I can be with the Lord.

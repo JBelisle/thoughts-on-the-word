@@ -6,7 +6,7 @@ reading:
   - "Revelation 7"
 passages:
   - "Isaiah 41"
-summary: "When God challenges the idols to declare what is to come to prove they are gods, is He challenging them to predict the future, or is He challenging them to…"
+summary: "Arguing that God's challenge to the gods in Isaiah 41 to declare what is to come is not a test of foresight but a dare to overpower his will — since the rebel sons of God of Deuteronomy 32 and Psalm 82 likely stand outside time as he does."
 ---
 
 When God challenges the idols to declare what is to come to prove they are gods, is He challenging them to predict the future, or is He challenging them to try to exert their own will over His?

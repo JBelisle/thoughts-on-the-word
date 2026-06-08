@@ -6,7 +6,7 @@ reading:
   - "Revelation 4-5"
 passages:
   - "Isaiah 38"
-summary: "I don't have much to say about today's reading other than to say that we need to be careful not to take an example of how something happened one time in the…"
+summary: "Why Hezekiah's healing in answer to his prayer should not be generalized into a theology that unanswered prayer or unhealed sickness signals a lack of faith or hidden sin — pointing to Moses and Paul, who were told no despite their faithfulness."
 ---
 
 I don't have much to say about today's reading other than to say that we need to be careful not to take an example of how something happened one time in the Scriptures as indicative of how it *should* happen every time.

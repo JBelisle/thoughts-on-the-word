@@ -6,7 +6,7 @@ reading:
   - "2 Corinthians 12"
 passages:
   - "2 Corinthians 12"
-summary: "“My grace is sufficient for you, for my power is made perfect in weakness.”"
+summary: "Why 'my power is made perfect in weakness' is one of the hardest passages to live out for someone driven to prove his own sufficiency — and how the Church's design, with no one person sufficient alone, reframes weakness as the place God works."
 ---
 
 “My grace is sufficient for you, for my power is made perfect in weakness.”

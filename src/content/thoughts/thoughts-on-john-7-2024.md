@@ -3,11 +3,11 @@ title: "Thoughts on John 7"
 date: 2024-10-30
 reading:
   - "Nehemiah 5"
-  - "John 6 FALSE	https://www.biblegateway.com/passage/?search=Nehemiah 6"
+  - "Nehemiah 6"
   - "John 7"
 passages:
   - "John 7"
-summary: "I can't help but think how terrible of a pastor Jesus would be in the modern Western church..."
+summary: "How poorly Jesus would fit the growth-obsessed modern Western church — far from softening His message to keep crowds, He provoked and scattered them at the Feast of Booths, calling hearers to count the cost rather than seek entertainment."
 ---
 
 I can't help but think how terrible of a pastor Jesus would be in the modern Western church...

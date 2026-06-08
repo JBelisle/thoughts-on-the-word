@@ -6,7 +6,7 @@ reading:
   - "Mark 1"
 passages:
   - "Mark 1"
-summary: "There is a lot that happens in Mark 1 to kick off Jesus’s ministry that at first blush seems a little odd or unnecessary. I want to touch on a few of these…"
+summary: "Why three odd-seeming features of Mark 1 were necessary to launch Jesus' ministry — His baptism as a prophetic anointing like Israel's kings, the wilderness temptation as proof of His fitness, and His secrecy as protecting the hidden mystery that the Messiah and Suffering Servant are one."
 ---
 
 There is a lot that happens in Mark 1 to kick off Jesus’s ministry that at first blush seems a little odd or unnecessary. I want to touch on a few of these things and why, while they may seem a little odd to us reading the account today, they were very necessary in initiating Jesus’ ministry.

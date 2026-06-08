@@ -6,7 +6,7 @@ reading:
   - "1 Corinthians 4"
 passages:
   - "1 Samuel 17"
-summary: "I’ve never really paid too much attention before to David’s clear interest in the rewards for killing Goliath."
+summary: "David's deliberate interest in the reward for killing Goliath as a model for the Christian life — that desiring rewards for the Lord's work is not unspiritual, so long as love for God, not the reward, remains the first motive."
 ---
 
 I’ve never really paid too much attention before to David’s clear interest in the rewards for killing Goliath. 

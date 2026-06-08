@@ -6,7 +6,7 @@ reading:
   - "Acts 8"
 passages:
   - "Acts 8"
-summary: "I have two thoughts on Acts 8 today; the first is that what we see in Samaria is what Jesus was referring to in giving Peter the keys to the kingdom in…"
+summary: "Reading the Samaritan Pentecost in Acts 8 as Peter exercising the keys of the kingdom from Matthew 16 — unlocking the door for each new group rather than founding the papacy — alongside what Philip and the Ethiopian eunuch teach about actually listening to and stepping out for the Holy Spirit."
 ---
 
 I have two thoughts on Acts 8 today; the first is that what we see in Samaria is what Jesus was referring to in giving Peter the keys to the kingdom in Matthew 16, not the papacy, and the second is what it looks like to listen to the Holy Spirit.

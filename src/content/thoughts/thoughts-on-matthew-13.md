@@ -6,7 +6,7 @@ reading:
   - "Matthew 13"
 passages:
   - "Matthew 13"
-summary: "I don't value being a member of God's kingdom the way Jesus says I should in Matthew 13..."
+summary: "The parable of the treasure hidden in a field as a challenge — do we truly value the kingdom of heaven enough to look crazy selling everything for it, and to orient our daily passions toward eternity rather than our own little kingdoms?"
 ---
 
 I don't value being a member of God's kingdom the way Jesus says I should in Matthew 13...

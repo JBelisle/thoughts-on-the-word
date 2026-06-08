@@ -6,7 +6,7 @@ reading:
   - "Revelation 20"
 passages:
   - "Revelation 20"
-summary: "It is super common to hear people talk flippantly about Heaven and Hell. People will make comments about parties in Hell, or that Hell better be ready for…"
+summary: "The opened books of Revelation 20 — the record of everyone's deeds alongside the Book of Life — show that no one but Jesus enters heaven on the merit of their works, and that only those whose names are written in the Book of Life escape the second death."
 ---
 
 It is super common to hear people talk flippantly about Heaven and Hell. People will make comments about parties in Hell, or that Hell better be ready for them, etc. I don't think many people who say these kinds of things have honestly considered an eternity in Hell and think they are going there though or they would probably look at their lives with a little more gravity.

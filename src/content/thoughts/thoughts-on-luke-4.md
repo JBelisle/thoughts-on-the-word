@@ -6,7 +6,7 @@ reading:
   - "Luke 4"
 passages:
   - "Luke 4"
-summary: "The people going from marveling at Jesus’ words to trying to do a murder on Him in a matter of minutes has had me scratching my head all day, but I think…"
+summary: "Why the people of Nazareth swing from marveling at Jesus to attempted murder in Luke 4 — reading the scene as the devil's opportune return after the wilderness temptation, tempting a self-limited Jesus to misuse His power to prove Himself or escape the cliff."
 ---
 
 The people going from marveling at Jesus’ words to trying to do a murder on Him in a matter of minutes has had me scratching my head all day, but I think the answer lies in the immediate context.

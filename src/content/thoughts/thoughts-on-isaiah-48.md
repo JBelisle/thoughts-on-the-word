@@ -6,7 +6,7 @@ reading:
   - "Revelation 14"
 passages:
   - "Isaiah 48"
-summary: "God’s election and maintenance of Israel in the Old Testament was always for His own purposes and glory, often in spite of, rather than because of, the…"
+summary: "What election in Isaiah 48 actually meant — God preserving an obstinate, rebellious Israel for his name's sake to bring forth the Messiah, not because she was worthy, and why misreading this leads to faulty New Testament theology of election."
 ---
 
 God’s election and maintenance of Israel in the Old Testament was always for His own purposes and glory, often in spite of, rather than because of, the Israelites themselves.

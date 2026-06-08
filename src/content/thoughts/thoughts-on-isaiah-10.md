@@ -6,7 +6,7 @@ reading:
   - "James 1"
 passages:
   - "Isaiah 10"
-summary: "I’m not entirely sure why, but the glimpse we get into the workings of God’s sovereignty in Isaiah 10 is just fascinating to me…"
+summary: "Assyria as the rod of God's anger against Israel — wielded as his instrument of judgment yet wholly unaware of it, and still held accountable for its own prideful intentions, raising the question of what else the cosmic chess master is doing unseen."
 ---
 
 I’m not entirely sure why, but the glimpse we get into the workings of God’s sovereignty in Isaiah 10 is just fascinating to me…

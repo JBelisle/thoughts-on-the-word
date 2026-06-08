@@ -7,7 +7,7 @@ reading:
 passages:
   - "Leviticus 3"
   - "Colossians 4"
-summary: "I mentioned this briefly yesterday, but it is significant that no offering to Yahweh is left out in the tabernacle. This is the kind of thing that would…"
+summary: "How burning offerings rather than leaving them out for the deity proclaimed that Yahweh is uncontained and wholly other than the gods of the nations — paired with Colossians 4, arguing right belief drives right action and that maturity comes from grounding in Christ, not controlling sin."
 ---
 
 ## Thoughts on Leviticus 3

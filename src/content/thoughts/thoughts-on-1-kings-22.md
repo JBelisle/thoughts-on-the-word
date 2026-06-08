@@ -6,7 +6,7 @@ reading:
   - "Titus 3"
 passages:
   - "1 Kings 22"
-summary: "I have already referenced 1 Kings 22 quite a bit on this blog because it is such an important and helpful piece of Scripture for understanding so many…"
+summary: "Micaiah's vision of the Lord taking counsel with His heavenly host reframes two things — how God declares the future not as a foreseen script but as a chess-master none can thwart, and the genuine latitude His agents have in how they accomplish His will."
 ---
 
 I have already referenced 1 Kings 22 quite a bit on this blog because it is such an important and helpful piece of Scripture for understanding so many things more clearly and easily. So we aren’t going to try to dive into everything, but I do want to talk about a couple of the big implications of this chapter that I personally find most impactful to my thinking about the Bible and about the Christian life in general.

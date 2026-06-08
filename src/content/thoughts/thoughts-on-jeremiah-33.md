@@ -6,7 +6,7 @@ reading:
   - "Romans 9"
 passages:
   - "Jeremiah 33"
-summary: "God is always trustworthy, even when we can’t see any possible way His promises will be kept."
+summary: "How Jeremiah 33's promise of restoration spoken over a besieged, doomed Jerusalem shows that God keeps His word even when no path to it is visible — and how, unlike Jeremiah's hearers, we can look back and see those promises fulfilled."
 ---
 
 God is always trustworthy, even when we can’t see any possible way His promises will be kept.

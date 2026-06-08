@@ -6,7 +6,7 @@ reading:
   - "Galatians 3"
 passages:
   - "Galatians 3"
-summary: "In Christ, the Christian's relationship with God is objectively stable and unchanging, but the experience of many Christians tends to be an ebbing and…"
+summary: "Why a believer's standing before God is objectively stable regardless of spiritual performance — because the promise was made to Abraham's single descendant, Christ, and believers are saved by being placed into His unchanging relationship with the Father."
 ---
 
 In Christ, the Christian's relationship with God is objectively stable and unchanging, but the experience of many Christians tends to be an ebbing and flowing of closeness with God based on their current "spiritual performance." If we want to experience that full stability in our relationship with God, we need the truths in Galatians 3 to take deeper root in our hearts.

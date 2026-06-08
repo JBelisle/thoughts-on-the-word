@@ -6,7 +6,7 @@ reading:
   - "1 Timothy 1-2"
 passages:
   - "Daniel 11"
-summary: "My thoughts on Daniel 11 this morning are mostly just musings on the nature of God based on the chapter."
+summary: "Whether God actually knows the future or is simply uniquely powerful to accomplish whatever He declares — and how the striking specificity of Daniel 11's prophecies, alongside questions of genre and dating, complicates that question."
 ---
 
 My thoughts on Daniel 11 this morning are mostly just musings on the nature of God based on the chapter. 

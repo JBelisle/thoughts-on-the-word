@@ -7,7 +7,7 @@ reading:
 passages:
   - "Amos 8"
   - "Mark 10"
-summary: "Amos 8 and Mark 10 together tell the story of God’s heart in a really wonderful way."
+summary: "Reading Amos 8 and Mark 10 together to show God's heart — Israel keeping the Sabbath while itching to exploit the poor, set against the rich young ruler whom Jesus, looking at him, loved — and how God cares far more about the heart than about religious observance."
 ---
 
 Amos 8 and Mark 10 together tell the story of God’s heart in a really wonderful way.

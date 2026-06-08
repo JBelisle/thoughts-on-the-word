@@ -6,7 +6,7 @@ reading:
   - "John 7"
 passages:
   - "John 7"
-summary: "I don’t have much to say about the reading today, but there is one statement Jesus makes that fits with what we talked about yesterday in John 6, and that I…"
+summary: "On Jesus' words that whoever wills to do God's will shall know whether His teaching is from God — faith rests on sufficient evidence rather than proof, and honest seeking, not a will to invalidate, is what makes the truth clear."
 ---
 
 I don’t have much to say about the reading today, but there is one statement Jesus makes that fits with what we talked about yesterday in John 6, and that I think is really important, both to recognize, and to not misconstrue.

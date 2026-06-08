@@ -5,7 +5,7 @@ reading:
   - "Genesis 4-7"
 passages:
   - "Genesis 4-7"
-summary: "These four chapters all flow together in what I was thinking about with them this morning, but I want to specifically call out thoughts on chapters 4 and 7."
+summary: "Why the varied skills of Lamech's sons may tie Cain's line to the forbidden divine knowledge of Genesis 6 and humanity's deepening corruption — plus a look at Catastrophic Plate Tectonics as a possible mechanism behind the flood."
 ---
 
 These four chapters all flow together in what I was thinking about with them this morning, but I want to specifically call out thoughts on chapters 4 and 7.

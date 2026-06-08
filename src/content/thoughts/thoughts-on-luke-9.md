@@ -6,7 +6,7 @@ reading:
   - "Luke 9"
 passages:
   - "Luke 9"
-summary: "I don’t necessarily expect to sway anybody with this post today, but there is a sizable movement today away from especially non-denominational evangelical…"
+summary: "Why Luke 9 and Mark 8, alongside Matthew 18, weigh against the Catholic doctrine of the papacy — both omit the Matthew 16 binding-and-loosing exchange when recounting Peter's confession, an unlikely omission if it established a unique perpetual office. A response to the movement toward Catholicism and Orthodoxy."
 ---
 
 I don’t necessarily expect to sway anybody with this post today, but there is a sizable movement today away from especially non-denominational evangelical Christianity toward Catholicism or Orthodoxy, and I personally feel like this chapter in Luke, as well as Mark 8, coupled with Matthew 18, undermines the doctrine of the papacy, which is a big part of that transition for many people.

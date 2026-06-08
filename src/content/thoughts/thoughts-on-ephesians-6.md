@@ -6,7 +6,7 @@ reading:
   - "Ephesians 6"
 passages:
   - "Ephesians 6"
-summary: "Ephesians 6, this morning, is another reminder to me of what I wrote about the other day, that when I want to fit in with the culture around me, rather than…"
+summary: "The wish to follow Christ while still blending into the surrounding culture runs aground on Ephesians 6 — our struggle is not against flesh and blood but spiritual forces actively steering that culture away from God, so blending in means fitting in with rebellious evil."
 ---
 
 Ephesians 6, this morning, is another reminder to me of what I wrote about the other day, that when I want to fit in with the culture around me, rather than standing out too much as a follower of Christ, it is with rebellious evil that I’m wanting to fit in…

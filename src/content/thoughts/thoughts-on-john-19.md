@@ -6,7 +6,7 @@ reading:
   - "John 19"
 passages:
   - "John 19"
-summary: "There is a fascinating exchange between Jesus and Pilate at the beginning of John 19 that sheds a lot of light on how people in Jesus’ day understood the…"
+summary: "Why Pilate grew suddenly afraid and tried to release Jesus once he heard the claim to be the son of God — reading the exchange through the ancient worldview where gods were regional powers, and Pilate stood on Yahweh's home turf far from Rome."
 ---
 
 There is a fascinating exchange between Jesus and Pilate at the beginning of John 19 that sheds a lot of light on how people in Jesus’ day understood the spiritual world.

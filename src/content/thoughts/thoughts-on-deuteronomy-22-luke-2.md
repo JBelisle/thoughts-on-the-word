@@ -7,7 +7,7 @@ reading:
 passages:
   - "Deuteronomy 22"
   - "Luke 2"
-summary: "I have what I think will be short thoughts on both of the passages we are reading today."
+summary: "Why many of Deuteronomy's laws read as encoded case rulings from decades of Moses bringing real situations before God — and how Misreading Scripture with Western Eyes reframes the nativity of Luke 2 as a family caravan crowded into a stable, not a lone couple turned away."
 ---
 
 I have what I think will be short thoughts on both of the passages we are reading today.

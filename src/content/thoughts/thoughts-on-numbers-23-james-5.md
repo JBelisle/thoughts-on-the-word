@@ -7,7 +7,7 @@ reading:
 passages:
   - "Numbers 23"
   - "James 5"
-summary: "I don’t have much to say about Numbers 23 this morning other than to point out that it is a great example of why understanding ancient religious and world…"
+summary: "Balak moving Balaam from peak to peak in Numbers 23 makes sense only against the ancient belief in territorial gods — showing Yahweh is bound by no geography or rival deity; paired with James 5 on the overlooked power of an ordinary person's prayer."
 ---
 
 ## Thoughts on Numbers 23

@@ -6,7 +6,7 @@ reading:
   - "1 Thessalonians 1-2"
 passages:
   - "1 Thessalonians 2"
-summary: "Paul walked around, day-by-day, with a much more accurate picture of the gospel than I do."
+summary: "Reflecting on Paul's charge that those hindering the gospel to the Gentiles oppose all mankind — arguing that to block the message of eternal life is a greater affront to humanity than even physical killing, since it deprives people of salvation forever."
 ---
 
 Paul walked around, day-by-day, with a much more accurate picture of the gospel than I do.

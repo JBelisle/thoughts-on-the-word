@@ -6,7 +6,7 @@ reading:
   - "2 Timothy 2"
 passages:
   - "2 Timothy 2"
-summary: "The church today needs a better middle-ground stance on what it means to, “Do your best to present yourself to God as one approved, a worker who has no need…"
+summary: "Rightly handling the word of truth may mean reading and enjoying Scripture as a whole story rather than dissecting isolated chapters — a case that the scholastic style of Bible study often hinders deeper understanding more than it helps."
 ---
 
 The church today needs a better middle-ground stance on what it means to, “Do your best to present yourself to God as one approved, a worker who has no need to be ashamed, rightly handling the word of truth.”

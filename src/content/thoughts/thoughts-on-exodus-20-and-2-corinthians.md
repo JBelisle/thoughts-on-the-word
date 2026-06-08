@@ -7,7 +7,7 @@ reading:
 passages:
   - "Exodus 20"
   - "2 Corinthians 11"
-summary: "There is a TON to pick from in today’s reading, between the 10 commandments, God’s presence on the mountain, and with Paul’s words to the Corinthians… But…"
+summary: "Recovering the command against taking the Lord's name in vain as bearing his name fruitlessly rather than using God as an expletive — paired with Paul's warning in 2 Corinthians 11 that Satan disguises himself as an angel of light in a spiritual war over truth."
 ---
 
 There is a TON to pick from in today’s reading, between the 10 commandments, God’s presence on the mountain, and with Paul’s words to the Corinthians… But my goal is to keep these readably short each day, so I’m just picking one shorter thing from each chapter to talk about, and if I am able to keep doing this for years to come, maybe God will put something else on my heart next time I hit Exodus or 2 Cor.

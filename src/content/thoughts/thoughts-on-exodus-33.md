@@ -6,7 +6,7 @@ reading:
   - "Ephesians 5"
 passages:
   - "Exodus 33"
-summary: "If you had to pick one, which would you rather have, the blessing of God, or the presence of God?"
+summary: "Moses refusing to go up to the promised land without God's presence — even when offered all the blessings without it — as a model for valuing relationship with God over his provision, the way the spiritually mature endure suffering."
 ---
 
 If you had to pick one, which would you rather have, the blessing of God, or the presence of God?

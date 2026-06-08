@@ -6,7 +6,7 @@ reading:
   - "1 Corinthians 16"
 passages:
   - "Exodus 10"
-summary: "I know that, to one extent or another, this would apply to multiple of the plagues, but the plague of locusts is such an incredible example of just how good…"
+summary: "The plague of locusts as a window into God's faithfulness — given a locust's twenty-year development cycle, the swarm had to be set in motion decades earlier, mirroring how God moved unseen across centuries to keep his promise to Abraham of the Exodus."
 ---
 
 I know that, to one extent or another, this would apply to multiple of the plagues, but the plague of locusts is such an incredible example of just how good God is for His word.

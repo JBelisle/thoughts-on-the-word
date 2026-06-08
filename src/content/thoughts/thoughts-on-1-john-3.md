@@ -6,7 +6,7 @@ reading:
   - "1 John 3"
 passages:
   - "1 John 3"
-summary: "Maybe it's because I was just writing about it a few days ago when we read 1 Peter 4, but I can't stop thinking today about John's insistence that we love…"
+summary: "John's two priorities for imitating Christ — walking in righteousness and loving one another in deed and truth — and how they reorder a Christian's instinct to put learning the Word and sharing the faith first."
 ---
 
 Maybe it's because I was just writing about it a few days ago when we read 1 Peter 4, but I can't stop thinking today about John's insistence that we love one another.

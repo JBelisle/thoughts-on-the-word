@@ -6,7 +6,7 @@ reading:
   - "Colossians 4"
 passages:
   - "Daniel 4"
-summary: "I was struck this morning, in Daniel 4, how Daniel advises Nebuchadnezzar to act righteously and to show mercy to the oppressed, but doesn’t tell him to…"
+summary: "Why Daniel counsels Nebuchadnezzar toward righteousness and mercy but never tells him to abandon his gods — tied to the disinheritance of the nations at Babel, God judged the nations for injustice rather than for failing to worship Him, until the call to repent in Christ."
 ---
 
 I was struck this morning, in Daniel 4, how Daniel advises Nebuchadnezzar to act righteously and to show mercy to the oppressed, but doesn’t tell him to break off the worship of his gods.

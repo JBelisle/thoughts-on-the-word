@@ -7,7 +7,7 @@ reading:
 passages:
   - "Leviticus 24"
   - "Mark 5"
-summary: "My thoughts on today's passages are not related to one another, but our reading recently in Leviticus is what is drawing my attention in Mark 5."
+summary: "Whether the blasphemer's identity as a half-Egyptian Danite foreshadows Dan's long slide into idolatry and its absence from Revelation 7 — and how the bleeding woman of Mark 5, perpetually unclean and isolated, meets in Jesus the one who cannot be defiled but makes others clean."
 ---
 
 My thoughts on today's passages are not related to one another, but our reading recently in Leviticus is what is drawing my attention in Mark 5.

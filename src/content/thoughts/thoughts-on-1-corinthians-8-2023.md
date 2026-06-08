@@ -6,7 +6,7 @@ reading:
   - "1 Corinthians 8"
 passages:
   - "1 Corinthians 8"
-summary: "I feel like 1 Corinthians 8 is kind of easily misused in the modern West. Conveniently, when I hear/read it misused, it is generally someone interpreting it…"
+summary: "Recovering the polytheistic setting of Paul's teaching on meat sacrificed to idols — eating it is not itself worship, but mature believers must weigh how their freedom might lead newer Christians, used to adding gods, into sin."
 ---
 
 I feel like 1 Corinthians 8 is kind of easily misused in the modern West. Conveniently, when I hear/read it misused, it is generally someone interpreting it like the Romans 14 weaker brother, so it becomes a "right teaching, wrong passage" kind of thing which is at least better than teaching something that is otherwise not biblical. But we should still strive to interpret and teach the Word properly, so I wanted to talk about this chapter today.

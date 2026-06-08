@@ -6,7 +6,7 @@ reading:
   - "Matthew 18"
 passages:
   - "Jeremiah 13"
-summary: "Reading Jeremiah 13 this morning, I couldn't help but wonder how close to God most Christians really want to be."
+summary: "Jeremiah 13's spoiled loincloth as an image of how closely God meant Israel to cling to Him — and a pointed question about whether Christians today want to be that near to God always, or only on occasion like a coat hung on a chair."
 ---
 
 Reading Jeremiah 13 this morning, I couldn't help but wonder how close to God most Christians really want to be.

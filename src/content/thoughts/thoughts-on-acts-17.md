@@ -6,7 +6,7 @@ reading:
   - "Acts 17"
 passages:
   - "Acts 17"
-summary: "I’m not really sure what to make of Paul’s statement near the end of Acts 17 today when he says “The times of ignorance God overlooked…”"
+summary: "Wrestling with Paul's statement at the Areopagus that God overlooked the times of ignorance — and how, given that the nations were given over to lesser elohim at Babel, the nations may not have been condemned for worshiping their allotted gods yet were still held accountable to conscience."
 ---
 
 I’m not really sure what to make of Paul’s statement near the end of Acts 17 today when he says “The times of ignorance God overlooked…”

@@ -6,7 +6,7 @@ reading:
   - "2 Corinthians 5"
 passages:
   - "Ruth 1"
-summary: "I really love the book of Ruth. There are other stories that are definitely up there for me as well, like the story of Joseph, but as far as whole books go,…"
+summary: "The ironic contrast that opens the book of Ruth — a faithless Israelite family fleeing the promised land for Moab, set against a Moabite woman from a cursed people who forsakes her gods to claim Yahweh as her own and prove the truly faithful one."
 ---
 
 I really love the book of Ruth. There are other stories that are definitely up there for me as well, like the story of Joseph, but as far as whole books go, Ruth might be my favorite. I have always enjoyed it, but I feel like the more I have learned of the broader biblical story, the more I have come to love this book and the picture it presents of the amazing, compassionate, merciful, gracious love of God.

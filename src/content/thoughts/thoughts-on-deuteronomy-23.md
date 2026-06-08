@@ -6,7 +6,7 @@ reading:
   - "Luke 3"
 passages:
   - "Deuteronomy 23"
-summary: "Deuteronomy 23 has one of my favorite laws in the whole Pentateuch: “No Ammonite or Moabite may enter the assembly of the Lord. Even to the tenth…"
+summary: "Deuteronomy 23's harsh ban on Moabites entering the assembly of the Lord becomes a stunning picture of redemptive mercy in the story of Ruth — a Moabite who turned to Yahweh and became the great-grandmother of David and an ancestor of the Messiah."
 ---
 
 Deuteronomy 23 has one of my favorite laws in the whole Pentateuch: “No Ammonite or Moabite may enter the assembly of the Lord. Even to the tenth generation, none of them may enter the assembly of the Lord forever…” This is just such an extreme judgement against the Ammonites and Moabites, that even someone as far removed as 10 generations (only 0.19% Ammonite or Moabite genetically) would still not be allowed to become part of the people of Israel. So even when you are so far removed from these people as to basically be fully genetically distinct from them, you still cannot join yourself to God’s people.

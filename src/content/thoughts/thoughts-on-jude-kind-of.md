@@ -6,7 +6,7 @@ reading:
   - "Jude 1"
 passages:
   - "Jude"
-summary: "This is honestly less my thoughts on Jude specifically, and more just something I’ve been thinking and realizing lately about how I approach the Bible."
+summary: "How Michael Heiser's work gave permission to take the Bible at face value even where it conflicts with a church's doctrinal stance — sparked by Jude's warning to stay in the love of God and a personal account of wrestling with once-saved-always-saved."
 ---
 
 This is honestly less my thoughts on Jude specifically, and more just something I’ve been thinking and realizing lately about how I approach the Bible.

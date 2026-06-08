@@ -6,7 +6,7 @@ reading:
   - "1 Corinthians 10"
 passages:
   - "Exodus 4"
-summary: "I think about the Aaronic priesthood in this context a lot."
+summary: "How Moses's reluctance at the burning bush brought Aaron into the picture as a concession — and the lasting consequences of that delay, including the golden calf, as a reflection on the cost of dragging our feet when God calls."
 ---
 
 I think about the Aaronic priesthood in this context a lot.

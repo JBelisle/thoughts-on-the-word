@@ -6,7 +6,7 @@ reading:
   - "Romans 4"
 passages:
   - "Jeremiah 28"
-summary: "I am honestly amazed at the audacity of Hananiah to knowingly speak lying words from the Lord in Jeremiah 28."
+summary: "The audacity of Hananiah falsely prophesying in the Lord's name in Jeremiah 28 — astonishing in a world where no one doubted Yahweh existed — and what his fate, alongside James 3, says about the weight of claiming to speak for God."
 ---
 
 I am honestly amazed at the audacity of Hananiah to knowingly speak lying words from the Lord in Jeremiah 28.

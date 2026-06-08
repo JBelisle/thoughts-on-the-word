@@ -6,7 +6,7 @@ reading:
   - "1 Timothy 3-4"
 passages:
   - "Leviticus 10"
-summary: "You don’t often meet someone these days who would put Leviticus in their list of favorite books of the Bible (and by “often” I probably mean “ever”). A lot…"
+summary: "Why the death of Nadab and Abihu was no divine overreaction but a response to a grave violation of sacred space at the very founding of Yahweh worship — and what it teaches about not approaching a holy God on our own terms."
 ---
 
 You don’t often meet someone these days who would put Leviticus in their list of favorite books of the Bible (and by “often” I probably mean “ever”). A lot of people will either skip it or just read it dutifully because they are doing a reading plan and Leviticus is up, so they’ll just power through it. Despite people not loving the book, Nadab and Abihu being struck down by the Lord in Leviticus 10 is still a pretty well-known story.

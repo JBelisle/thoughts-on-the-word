@@ -6,7 +6,7 @@ reading:
   - "Hebrews 5-6"
 passages:
   - "1 Chronicles 10"
-summary: "The lack of the treatment of Saul says a lot about what the point and focus of Chronicles is."
+summary: "Why Chronicles passes over Saul in a single chapter and follows only the line of David in Jerusalem — evidence that its author writes not a general history but a tracking of the promised eternal king from David's line."
 ---
 
 The lack of the treatment of Saul says a lot about what the point and focus of Chronicles is.

@@ -6,7 +6,7 @@ reading:
   - "Matthew 6"
 passages:
   - "Matthew 6"
-summary: "I can't help but think how great of a testimony Christians' lives would be to the watching world if we really lived out Jesus' words in the second half of…"
+summary: "How Jesus' call in the second half of Matthew 6 to store up treasure in heaven and refuse anxiety could itself become the church's loudest testimony — a contented, undistracted life that stands out in a world running ever faster."
 ---
 
 I can't help but think how great of a testimony Christians' lives would be to the watching world if we really lived out Jesus' words in the second half of Matthew 6.

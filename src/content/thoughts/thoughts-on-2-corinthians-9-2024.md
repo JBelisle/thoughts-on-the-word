@@ -6,7 +6,7 @@ reading:
   - "2 Corinthians 9-10"
 passages:
   - "2 Corinthians 9"
-summary: "I’m sure I have already written about this when we passed it before, but the promises around our giving in 2 Corinthians 9 are truly incredible…"
+summary: "Distinguishing Paul's giving promise from health-and-wealth preaching — God does multiply what the generous give, but increases their seed for sowing rather than their standard of living, entrusting more to those who prove faithful stewards."
 ---
 
 I’m sure I have already written about this when we passed it before, but the promises around our giving in 2 Corinthians 9 are truly incredible…

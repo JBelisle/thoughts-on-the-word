@@ -6,7 +6,7 @@ reading:
   - "2 Timothy 2-3"
 passages:
   - "Ezra 4"
-summary: "I have always wondered if it was the right decision for the Jewish elders to refuse to let the other peoples help rebuild the temple."
+summary: "Questioning whether the Jewish elders were right to refuse foreign help rebuilding the temple in Ezra 4 — whether it was God's leading or a human, ethnic exclusion that betrayed Israel's calling to bless the nations and seeded centuries of Jewish-Samaritan hatred."
 ---
 
 I have always wondered if it was the right decision for the Jewish elders to refuse to let the other peoples help rebuild the temple.

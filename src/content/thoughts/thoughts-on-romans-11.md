@@ -6,7 +6,7 @@ reading:
   - "Romans 11"
 passages:
   - "Romans 11"
-summary: "Salvation is a matter of faith alone, but it is not a one-time faith that ultimately saves us, but an ongoing trust in our Savior."
+summary: "Paul's olive-tree warning in Romans 11 — that Gentiles grafted in through faith can be cut off like the natural branches if they do not continue — argues that saving faith is an ongoing trust to be guarded, not a one-time prayer."
 ---
 
 Salvation is a matter of faith alone, but it is not a one-time faith that ultimately saves us, but an ongoing trust in our Savior.

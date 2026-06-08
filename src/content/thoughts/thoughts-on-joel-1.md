@@ -6,7 +6,7 @@ reading:
   - "Mark 3"
 passages:
   - "Joel 1"
-summary: "Even as Joel is declaring the Lord’s judgement upon Israel, we still see that ever present theme of Old Testament Scripture, that God desires to relent of…"
+summary: "Even amid Joel's announcement of locusts, drought, and invading armies, the discipline is meant to wake Israel from spiritual stupor — and God's unwavering desire is not to destroy but to relent and restore his people if only they will turn back."
 ---
 
 Even as Joel is declaring the Lord’s judgement upon Israel, we still see that ever present theme of Old Testament Scripture, that God desires to relent of the calamity that He is bringing up the people, if only they will turn back to Him.

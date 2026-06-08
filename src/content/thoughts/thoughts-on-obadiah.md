@@ -6,7 +6,7 @@ reading:
   - "Mark 11"
 passages:
   - "Obadiah"
-summary: "I have always thought Obadiah was a little weird because it is basically fully an oracle against Edom, rather than anything specifically directed to Israel,…"
+summary: "Why a book aimed entirely at Edom is still a message of hope to Israel — God indicts Esau's descendants for profiting from Judah's fall, then promises that on the day of the Lord the nations will reap judgment while those on Mount Zion escape."
 ---
 
 I have always thought Obadiah was a little weird because it is basically fully an oracle against Edom, rather than anything specifically directed to Israel, but even though the Lord is speaking to Edom, this is still a message of encouragement and hope to Israel.

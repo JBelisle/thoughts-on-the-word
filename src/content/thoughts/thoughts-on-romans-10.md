@@ -6,7 +6,7 @@ reading:
   - "Romans 10"
 passages:
   - "Romans 10"
-summary: "Does your understanding of salvation match up with Paul’s in Romans 10, or do you look for more or less than what he says is actually required?"
+summary: "Paul's claim in Romans 10 that salvation comes through confessing Jesus as Lord and believing in his resurrection — neither the good works some trust in to earn it, nor the church practices others demand to maintain it, but faith alone in Christ."
 ---
 
 Does your understanding of salvation match up with Paul’s in Romans 10, or do you look for more or less than what he says is actually required?

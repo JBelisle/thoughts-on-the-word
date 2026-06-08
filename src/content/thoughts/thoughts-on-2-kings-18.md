@@ -6,7 +6,7 @@ reading:
   - "John 17"
 passages:
   - "2 Kings 18"
-summary: "I love the irony of the Rabshakeh’s threat against Israel, and how it seems like God might even be using his threat to bolster Hezekiah’s faith."
+summary: "How the Rabshakeh's taunt against Hezekiah backfires — by mocking the torn-down high places as an affront to Judah's god, the Assyrian unwittingly reminds the wavering king of his own faithfulness to Yahweh and that God will fight for him."
 ---
 
 I love the irony of the Rabshakeh’s threat against Israel, and how it seems like God might even be using his threat to bolster Hezekiah’s faith.

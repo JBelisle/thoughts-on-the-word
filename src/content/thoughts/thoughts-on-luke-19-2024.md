@@ -6,7 +6,7 @@ reading:
   - "Luke 19"
 passages:
   - "Luke 19"
-summary: "God doesn’t give us all the answers, but He does give us enough to trust and follow Him."
+summary: "Why the crowd hailed Jesus into Jerusalem in Luke 19 while the scribes and Pharisees rejected Him — not differing beliefs but whether they had seen enough to trust despite what they did not understand, like Peter's confession at the end of John 6."
 ---
 
 God doesn’t give us all the answers, but He does give us enough to trust and follow Him.

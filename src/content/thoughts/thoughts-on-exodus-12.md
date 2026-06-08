@@ -6,7 +6,7 @@ reading:
   - "2 Corinthians 2-3"
 passages:
   - "Exodus 12"
-summary: "One of the most difficult things about studying the Bible seriously, in my opinion, is letting the Bible be what it is, and understanding it in light of…"
+summary: "Reading the Bible on its own ancient terms rather than forcing it into modern literary expectations — using the 600,000 men of Exodus 12 as a case study in hyperbolic army numbers that conveyed Yahweh's greatness without intending to deceive."
 ---
 
 One of the most difficult things about studying the Bible seriously, in my opinion, is letting the Bible be what it is, and understanding it in light of that, and Exodus 12 can be a great example of that.

@@ -6,7 +6,7 @@ reading:
   - "Ephesians 3"
 passages:
   - "Ephesians 3"
-summary: "The indwelling Holy Spirit is a theological truth that is so easy to gloss over when the reality of it should be absolutely mind-blowing."
+summary: "Ephesians 3's closing doxology points to a God who can do far more than we ask or think according to the power at work within us — and the staggering realization that the same infinite power dwells in the believer through the indwelling Spirit."
 ---
 
 The indwelling Holy Spirit is a theological truth that is so easy to gloss over when the reality of it should be absolutely mind-blowing.

@@ -6,7 +6,7 @@ reading:
   - "2 Corinthians 1"
 passages:
   - "2 Corinthians 1"
-summary: "There are some things that I take for granted when I write these posts. I don’t write them to be commentaries on the passages, or teaching outlines or…"
+summary: "Why Paul can say all God's promises find their yes in Jesus and no one else — a clear statement of the gospel, and how being placed in Christ makes those promises ours and seals us by the Spirit."
 ---
 
 There are some things that I take for granted when I write these posts. I don’t write them to be commentaries on the passages, or teaching outlines or anything like that. They tend to just be musings on some particular aspect of the reading that stuck out to me that morning, and the whole reason for posting them is to maybe help others draw a little closer to God through His scriptures and to come to a deeper love and enjoyment of Him and His word.

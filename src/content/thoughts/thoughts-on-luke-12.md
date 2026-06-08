@@ -6,7 +6,7 @@ reading:
   - "Luke 12"
 passages:
   - "Luke 12"
-summary: "Disclaimer: Today’s post is less specifically about Luke 12 and more just a scattering of my recent thoughts about a Christian’s relationship to money…"
+summary: "Prompted by the parable of the rich fool, a rethinking of how private a Christian's giving should be — arguing that Jesus' words about the left hand not knowing the right target self-glory, not secrecy, and that more openness about money could help believers spur one another on."
 ---
 
 Disclaimer: Today’s post is less specifically about Luke 12 and more just a scattering of my recent thoughts about a Christian’s relationship to money…

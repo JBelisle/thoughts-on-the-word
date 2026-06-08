@@ -6,7 +6,7 @@ reading:
   - "Matthew 26"
 passages:
   - "Matthew 26"
-summary: "Jesus loves you. He loves you so much that he willingly went to the cross to die in your place to make a way for you to have a relationship with Him."
+summary: "Jesus' words about twelve legions of angels reveal that none of the passion had to happen — he could have stopped it at any point, but chose the cross out of love, making salvation available by faith in his finished work."
 ---
 
 Jesus loves you. He loves you so much that he willingly went to the cross to die in your place to make a way for you to have a relationship with Him.

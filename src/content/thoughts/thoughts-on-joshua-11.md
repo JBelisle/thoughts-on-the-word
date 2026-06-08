@@ -6,7 +6,7 @@ reading:
   - "Luke 24"
 passages:
   - "Joshua 11"
-summary: "A few days ago I mentioned that I used to be kind of bothered by Achan’s family getting caught up in his punishment, and in this morning’s reading there is…"
+summary: "On God hardening the Canaanite kings' hearts to come against Israel — arguing the Hebrew means to strengthen, not to make unresponsive, so God reinforces their existing resolve to fight rather than turning away genuinely seeking hearts like Gibeon's."
 ---
 
 A few days ago I mentioned that I used to be kind of bothered by Achan’s family getting caught up in his punishment, and in this morning’s reading there is another piece that used to bother me, and that is seeing God harden peoples’ hearts so that they turn against Him.

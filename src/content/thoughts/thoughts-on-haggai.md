@@ -6,7 +6,7 @@ reading:
   - "Hebrews 11"
 passages:
   - "Haggai"
-summary: "Haggai shows us that God was not concerned about the scale and grandeur of His people’s output for Him, but was concerned that His people gave Him the…"
+summary: "Haggai's message that God cares less about the scale of His people's output than about their priorities — they paneled their own houses while neglecting the temple, yet when they put Him first He was pleased with the modest rebuild and promised greater glory."
 ---
 
 Haggai shows us that God was not concerned about the scale and grandeur of His people’s output for Him, but was concerned that His people gave Him the proper place of priority in their lives.

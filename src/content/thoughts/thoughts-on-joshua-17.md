@@ -6,7 +6,7 @@ reading:
   - "Acts 5"
 passages:
   - "Joshua 17"
-summary: "With reading Acts 5 today I kind of expected I would be talking about Ananias and Sapphira or Gamaliel, but then I came across one of my favorite…"
+summary: "Tony Evans' allegorical reading of Joshua 17 — Joseph's tribes had enough land but needed to clear the forests (amoral influences) and drive out the Canaanites (immoral ones), a picture of how we steward time, offered with honest hesitation about whether the text warrants it."
 ---
 
 With reading Acts 5 today I kind of expected I would be talking about Ananias and Sapphira or Gamaliel, but then I came across one of my favorite illustrations out of the Old Testament that I never really feel like I can teach, but which is just too good not to share, so that is what we are going to talk about this morning.

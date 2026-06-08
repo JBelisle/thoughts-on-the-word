@@ -7,7 +7,7 @@ reading:
 passages:
   - "Exodus 32"
   - "Ephesians 4"
-summary: "Some days I think it is easier to write these posts when there’s less I want to talk about, so it’s just a matter of picking something and running with it,…"
+summary: "The golden calf episode and Ephesians 4 read together as a study in leadership — Aaron caving to the people's wishes versus Moses standing in the gap for God, and the call for church leaders to equip rather than merely entertain."
 ---
 
 Some days I think it is easier to write these posts when there’s less I want to talk about, so it’s just a matter of picking something and running with it, but how do you pick just one thing out of the golden calf incident? Let alone everything going on in Ephesians 4??

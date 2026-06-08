@@ -6,7 +6,7 @@ reading:
   - "Galatians 3"
 passages:
   - "Galatians 3"
-summary: "Galatians in general, but especially Galatians 3, should really put the whole faith vs. works debate to bed."
+summary: "Galatians 3 settling the faith-versus-works debate — salvation rests on faith alone, while works serve two other ends: as evidence of faith before others, and as a guard against sin's power to harden the heart and lead one away from Christ."
 ---
 
 Galatians in general, but especially Galatians 3, should really put the whole faith vs. works debate to bed.

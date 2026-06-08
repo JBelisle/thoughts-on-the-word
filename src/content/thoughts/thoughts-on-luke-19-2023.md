@@ -6,7 +6,7 @@ reading:
   - "Luke 19"
 passages:
   - "Luke 19"
-summary: "Jesus’ parable of the minas in Luke 19 is a mixture of exciting and sobering."
+summary: "The parable of the minas in Luke 19 as a picture of heaven that is not one-size-fits-all — reward there is based on faithfulness with whatever resources God entrusts us, making how we invest this short life against eternity both exciting and sobering."
 ---
 
 Jesus’ parable of the minas in Luke 19 is a mixture of exciting and sobering.

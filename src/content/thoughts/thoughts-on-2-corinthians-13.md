@@ -6,7 +6,7 @@ reading:
   - "2 Corinthians 13"
 passages:
   - "2 Corinthians 13"
-summary: "Paul says to his Corinthian readers, “Examine yourselves, to see whether you are in the faith. Test yourselves. Or do you not realize this about yourselves,…"
+summary: "Paul's charge to examine yourselves to see whether you are in the faith — pushing back on the Evangelical fixation with a one-time conversion prayer, and arguing that biblical faith is a present, ongoing trust and loyalty, not a past event."
 ---
 
 Paul says to his Corinthian readers, “Examine yourselves, to see whether you are in the faith. Test yourselves. Or do you not realize this about yourselves, that Jesus Christ is in you? - unless indeed you fail to meet the test!”

@@ -6,7 +6,7 @@ reading:
   - "2 Peter 1"
 passages:
   - "2 Peter 1"
-summary: "Peter has no love for the kind of nominal Christianity that is so prevalent in the church in the West."
+summary: "How 2 Peter 1's call to pursue Christian qualities confronts nominal Western Christianity — Peter ties an abundant entrance into the kingdom to discipleship and growth, not mere conversion or church attendance, echoing Jesus' command to make disciples."
 ---
 
 Peter has no love for the kind of nominal Christianity that is so prevalent in the church in the West.

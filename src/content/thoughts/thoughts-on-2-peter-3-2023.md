@@ -6,7 +6,7 @@ reading:
   - "2 Peter 3"
 passages:
   - "2 Peter 3"
-summary: "I think we all know that we are “supposed” to live our lives in a godly way, but have you ever thought about why?"
+summary: "How 2 Peter 3 ties godly living to eternity — God delaying Christ's return because he wishes none to perish (read as a case against Calvinist predestination), and the startling claim that holy lives actually hasten the day of God."
 ---
 
 I think we all know that we are “supposed” to live our lives in a godly way, but have you ever thought about why?

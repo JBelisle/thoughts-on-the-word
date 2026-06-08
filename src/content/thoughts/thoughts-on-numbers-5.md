@@ -6,7 +6,7 @@ reading:
   - "Mark 13"
 passages:
   - "Numbers 5"
-summary: "Numbers 5 is weird."
+summary: "The strange ordeal of bitter water in Numbers 5 reads as weird and patriarchal until seen as supernatural by design — a check on a husband's power that, with Yahweh superintending the verdict, actually shields women from baseless accusations of infidelity."
 ---
 
 Numbers 5 is weird.

@@ -6,7 +6,7 @@ reading:
   - "Romans 11"
 passages:
   - "Job 9"
-summary: "The opening lines of Job 9 are so important in understanding this story, and are almost painful to read and to feel Job’s struggle."
+summary: "Job's anguished I know that it is so captures the heart of his struggle — he shares his friends' belief in just retribution yet knows he is innocent, a vexing bind illustrated through a wrenching personal account of being told he must be in the wrong."
 ---
 
 The opening lines of Job 9 are so important in understanding this story, and are almost painful to read and to feel Job’s struggle.

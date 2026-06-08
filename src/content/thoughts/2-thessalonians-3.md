@@ -6,7 +6,7 @@ reading:
   - "2 Thessalonians 3"
 passages:
   - "2 Thessalonians 3"
-summary: "2 Thessalonians 3 highlights a pretty sharp contrast between Christian life and community in Paul’s day vs. today."
+summary: "Paul's instruction to withdraw from idle or disobedient believers assumes a depth of community the modern Western church largely lacks — and a challenge to rebuild relationships people would think twice about sacrificing for the sake of their sin."
 ---
 
 2 Thessalonians 3 highlights a pretty sharp contrast between Christian life and community in Paul’s day vs. today.

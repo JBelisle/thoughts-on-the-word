@@ -6,7 +6,7 @@ reading:
   - "Revelation 20"
 passages:
   - "Psalm 67"
-summary: "I was listening to a podcast yesterday that was talking about the biblical expectation of eternity, which fits with Psalm 67, and it's highlighting to me…"
+summary: "How Psalm 67's hope for all nations to praise God reframes the popular Christian expectation of escaping to heaven — the biblical hope being resurrection and God's reign on a restored earth, realized when he intervenes to judge and renew creation."
 ---
 
 I was listening to a podcast yesterday that was talking about the biblical expectation of eternity, which fits with Psalm 67, and it's highlighting to me just how different the popular Christian expectation today is...

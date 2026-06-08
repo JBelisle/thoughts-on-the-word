@@ -6,7 +6,7 @@ reading:
   - "2 Timothy 2"
 passages:
   - "2 Timothy 2"
-summary: "Pop quiz time!"
+summary: "Noting how often Paul rehearses the gospel even to mature, believing Timothy in 2 Timothy 2 — a challenge to the assumption that the gospel is only for non-Christians, arguing that believers need to soak in it from the first day of faith to the last."
 ---
 
 Pop quiz time!

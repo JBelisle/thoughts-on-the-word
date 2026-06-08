@@ -7,7 +7,7 @@ reading:
 passages:
   - "Leviticus 7"
   - "2 Thessalonians 1"
-summary: "This isn’t a huge or practical observation for us today, but I do think it is important for us if we are going to put ourselves in the mind of an ancient…"
+summary: "How the peace offering of Leviticus 7 gave the ordinary Israelite a hands-on role in sacrifice, not a hands-off drive-thru — paired with 2 Thessalonians 1 and the reminder that Jesus promises a meaningful life of joy amid suffering, not an easy one, with justice coming on the day He is revealed."
 ---
 
 ## Thoughts on Leviticus 7

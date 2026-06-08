@@ -6,7 +6,7 @@ reading:
   - "Philemon 1"
 passages:
   - "Philemon"
-summary: "I find the opening of Paul’s letter to Philemon to be really encouraging."
+summary: "How Paul's gratitude for Philemon models the value of faithfulness in ordinary ministry — that the apostle who planted churches across the world finds genuine joy and comfort in one believer quietly refreshing the saints."
 ---
 
 I find the opening of Paul’s letter to Philemon to be really encouraging. 

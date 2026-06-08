@@ -6,7 +6,7 @@ reading:
   - "1 Corinthians 16"
 passages:
   - "1 Samuel 29"
-summary: "I always find 1 Samuel 29 to be super entertaining."
+summary: "A lighthearted look at the impossible bind David faced marching to battle alongside Achish against his own people — and how the other Philistine lords rejecting him became God's well-timed way out of a no-win situation."
 ---
 
 I always find 1 Samuel 29 to be super entertaining.

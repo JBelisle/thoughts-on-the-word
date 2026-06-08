@@ -6,7 +6,7 @@ reading:
   - "Revelation 10-11"
 passages:
   - "Revelation 10"
-summary: "Today’s chapters in Revelation are just making me think about how much we need to be okay with not having all the answers."
+summary: "On being content not to have all the answers in Revelation — when John is told to seal up the seven thunders and the mystery of God awaits the last trumpet, the book's deliberate ambiguity suggests God never meant us to map a full end-times timeline."
 ---
 
 Today’s chapters in Revelation are just making me think about how much we need to be okay with not having all the answers.

@@ -6,7 +6,7 @@ reading:
   - "1 Thessalonians 3-4"
 passages:
   - "1 Thessalonians 4"
-summary: "There is an exhortation here in 1 Thessalonians 4 that, if we miss it, will very likely sap the joy out of following the Lord, and also very likely…"
+summary: "Paul's repeated charge to do good more and more as a call to value progress over perfection — and how the church's tendency to encourage small steps in mundane areas while demanding instant victory over the most damaging sins stunts the very growth it wants to see."
 ---
 
 There is an exhortation here in 1 Thessalonians 4 that, if we miss it, will very likely sap the joy out of following the Lord, and also very likely undermine our efforts to grow in Christ.

@@ -6,7 +6,7 @@ reading:
   - "Mark 1"
 passages:
   - "Mark 1"
-summary: "I have heard Mark 1 taught or referenced, many times over the years, in a way that is inaccurate, irresponsible, and damaging to the gospel of faith."
+summary: "Pushing back on the common reading of the disciples' call in Mark 1 as blind faith — John's gospel shows they already knew Jesus, so their response rested on evidence and experience, and treating it as a model of instant, all-in obedience adds false barriers to the gospel."
 ---
 
 I have heard Mark 1 taught or referenced, many times over the years, in a way that is inaccurate, irresponsible, and damaging to the gospel of faith.

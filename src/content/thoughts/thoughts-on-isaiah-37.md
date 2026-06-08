@@ -6,7 +6,7 @@ reading:
   - "Revelation 3"
 passages:
   - "Isaiah 37"
-summary: "Isaiah 37 gives us a very practical example of how prayer can impact reality."
+summary: "How God's answer to Hezekiah's prayer about Sennacherib shows prayer changing reality — not moving God to do what he was unwilling to do, but advancing the timeline of the judgment on Assyria he had already decreed back in Isaiah 10."
 ---
 
 Isaiah 37 gives us a very practical example of how prayer can impact reality.

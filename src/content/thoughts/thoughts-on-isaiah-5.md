@@ -6,7 +6,7 @@ reading:
   - "Hebrews 10"
 passages:
   - "Isaiah 5"
-summary: "For those of you following along with the reading plan, I’ve missed posting about the reading the last couple days. If you know me personally, you probably…"
+summary: "Isaiah 5's vineyard oracle — Israel as the beloved vineyard God prepared in every way that yielded only wild grapes — and his piercing question, what more could I have done? A picture later picked up by Jesus, and a rebuke to those who call God vindictive."
 ---
 
 For those of you following along with the reading plan, I’ve missed posting about the reading the last couple days. If you know me personally, you probably already know that my family has spent the last month out of the country completing an adoption. We just got home and between the long day of travel and trying to get the house and life back in order after a month away, I just haven’t had the time or energy to write posts the last couple days. But I am expecting to be back to daily (or mostly daily) posts again now that we are getting back into routine!

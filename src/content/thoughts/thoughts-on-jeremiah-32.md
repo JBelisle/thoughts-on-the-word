@@ -6,7 +6,7 @@ reading:
   - "Romans 8"
 passages:
   - "Jeremiah 32"
-summary: "An idol is a false god, not just “anything that takes first place in your life before God.”"
+summary: "Pushing back on the popular notion that an idol is simply anything too important in your life — Jeremiah 32's idolatry meant worshipping other spiritual beings, and softening that definition dangerously understates how seriously God treats other gods in an increasingly pluralistic world."
 ---
 
 An idol is a false god, not just “anything that takes first place in your life before God.”

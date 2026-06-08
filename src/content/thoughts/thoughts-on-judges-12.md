@@ -6,7 +6,7 @@ reading:
   - "Acts 24"
 passages:
   - "Judges 12"
-summary: "I don't have too much to say about today's reading, but the opening paragraph of Judges 12 confused me a bit and I thought I'd share what I found in case…"
+summary: "Untangling the confusing opening of Judges 12 — why the Gileadites are a clan of Manasseh, and how Ephraim's wounded self-importance, the same pride Gideon faced, provokes Jephthah to kill 42,000 Ephraimites."
 ---
 
 I don't have too much to say about today's reading, but the opening paragraph of Judges 12 confused me a bit and I thought I'd share what I found in case anybody else is confused. 

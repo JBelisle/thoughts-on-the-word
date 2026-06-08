@@ -7,7 +7,7 @@ reading:
 passages:
   - "Deuteronomy 2"
   - "Revelation 1"
-summary: "When we think about God working through the line of Abraham we tend to think of Israel and ultimately Jesus coming from his line. After all, God told…"
+summary: "How Deuteronomy 2 shows God already blessing the nations through Abraham's wider line — Edom, Moab, and Ammon clearing the giant clans, vestiges of the Nephilim, from the land — plus reflections on the unfathomable unity and diversity of the Trinity in Revelation 1."
 ---
 
 ## Thoughts on Deuteronomy 2

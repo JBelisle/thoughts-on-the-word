@@ -7,7 +7,7 @@ reading:
 passages:
   - "Deuteronomy 12"
   - "Revelation 13"
-summary: "At the risk of sounding like a broken record, I just want us to once more realize what it is God that is looking for from His people. I know I keep harping…"
+summary: "Deuteronomy 12's call to centralized worship shows what God truly wanted — believing loyalty to Yahweh, not flawless rule-keeping — while Revelation 13 warns that God's supernatural enemies wield real power and must be tested."
 ---
 
 ## Thoughts on Deuteronomy 12

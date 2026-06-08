@@ -7,7 +7,7 @@ reading:
 passages:
   - "1 Kings 17"
   - "1 Timothy 6"
-summary: "Paul talking about contentment in 1 Timothy 6 fits well, in a sense, with Elijah and the widow of Zarephath."
+summary: "Pairing Paul's warning in 1 Timothy 6 against the desire to be rich with the widow of Zarephath, who gave Elijah her last food and never ran out — God provides for those who put His kingdom first and trust Him, rather than those who hoard."
 ---
 
 Paul talking about contentment in 1 Timothy 6 fits well, in a sense, with Elijah and the widow of Zarephath.

@@ -7,7 +7,7 @@ reading:
 passages:
   - "Numbers 16"
   - "Hebrews 10"
-summary: "Numbers is kind of a crazy book. Time after time the Israelites rebel against God even though His presence is there in their midst and He is actively…"
+summary: "The conspicuous survival of the sons of Korah in Numbers 16 — later psalmists — shows judgment fell on those who chose rebellion, not indiscriminately; paired with how Hebrews 10 confirms the old sacrifices took away no sin at all, only Christ's does."
 ---
 
 ## Thoughts on Numbers 16

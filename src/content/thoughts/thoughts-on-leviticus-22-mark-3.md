@@ -7,7 +7,7 @@ reading:
 passages:
   - "Leviticus 22"
   - "Mark 3"
-summary: "Both of these passages this morning strike me with the incredible privilege and incredible weight of representing God."
+summary: "The privilege and weight of bearing God's name — the daily cost of cleanliness rules for priests in Leviticus 22, Jesus' anger at Pharisees who misrepresent God in Mark 3, and how Christians, given even greater access, carry that responsibility today."
 ---
 
 Both of these passages this morning strike me with the incredible privilege and incredible weight of representing God.

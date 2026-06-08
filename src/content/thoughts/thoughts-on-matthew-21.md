@@ -6,7 +6,7 @@ reading:
   - "Matthew 21"
 passages:
   - "Matthew 21"
-summary: "We can choose to reject the truth God has revealed to us, but that doesn’t mean we get to define truth on our own, it only means we are denying reality…"
+summary: "The parable of the wicked tenants exposes the absurdity of the Jewish leaders rejecting the Messiah they were meant to welcome — and how people today reject God when his truth clashes with their desires, though a day of reckoning is coming."
 ---
 
 We can choose to reject the truth God has revealed to us, but that doesn’t mean we get to define truth on our own, it only means we are denying reality…

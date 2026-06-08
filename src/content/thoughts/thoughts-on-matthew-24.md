@@ -6,7 +6,7 @@ reading:
   - "Matthew 24"
 passages:
   - "Matthew 24"
-summary: "Jesus tells His disciples in Matthew 24 that the temple would be torn down and not one stone would be left upon another, and the Jewish historian Josephus,…"
+summary: "If Jesus said not one stone of the temple would be left standing and Josephus confirms it happened, why does the Western Wall remain? Sharing a video questioning whether the wall belonged to the temple or a Roman fortress."
 ---
 
 Jesus tells His disciples in Matthew 24 that the temple would be torn down and not one stone would be left upon another, and the Jewish historian Josephus, writing after the Romans destroyed the temple, said that is exactly what happened. So how is the Western Wall of the temple still standing today…?

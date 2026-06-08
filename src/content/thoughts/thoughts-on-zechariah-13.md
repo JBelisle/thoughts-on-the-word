@@ -6,7 +6,7 @@ reading:
   - "1 Peter 1"
 passages:
   - "Zechariah 13"
-summary: "“On that day,” the day in which they pierce Yahweh, a fountain shall be opened to cleanse them from sin and uncleanness."
+summary: "The fountain opened in Zechariah 13 promises cleansing not just from ritual uncleanness but from sin itself — something the law of Moses never offered — pointing forward to how Christ's death makes believers clean inside and out, the new dwelling place of God's Spirit."
 ---
 
 “On that day,” the day in which they pierce Yahweh, a fountain shall be opened to cleanse them from sin and uncleanness. 

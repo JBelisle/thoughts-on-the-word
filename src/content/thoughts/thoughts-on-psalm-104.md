@@ -6,7 +6,7 @@ reading:
   - "Luke 16"
 passages:
   - "Psalm 104"
-summary: "Psalm 104 puts me in mind of the end of Job and is a helpful reminder to me of just how self-centered I can so easily be in my thinking."
+summary: "Read alongside God's answer to Job, Psalm 104 confronts the self-centered assumption that everything happening around us must be reward or punishment for our behavior — a reminder that creation is vast and humanity, though valued, is only one small part of it."
 ---
 
 Psalm 104 puts me in mind of the end of Job and is a helpful reminder to me of just how self-centered I can so easily be in my thinking.

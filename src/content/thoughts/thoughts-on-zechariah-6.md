@@ -6,7 +6,7 @@ reading:
   - "James 1"
 passages:
   - "Zechariah 6"
-summary: "In Zechariah 6, God re-joins the priesthood and the monarchy that were divided before they even began in Israel when Moses refused to take on the role."
+summary: "How the crowning of Joshua in Zechariah 6 rejoins the priesthood and kingship that split when Moses refused his full calling — advancing the Messianic profile toward Jesus, the king-priest in the order of Melchizedek whom Joshua only partly foreshadows."
 ---
 
 In Zechariah 6, God re-joins the priesthood and the monarchy that were divided before they even began in Israel when Moses refused to take on the role.

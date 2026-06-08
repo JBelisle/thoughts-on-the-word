@@ -6,7 +6,7 @@ reading:
   - "1 Thessalonians 1-2"
 passages:
   - "Leviticus 4"
-summary: "I knew it was coming up soon, but I had forgotten how quickly we got into “sin offerings” in Leviticus, but, like I’ve mentioned a couple times now, I want…"
+summary: "Why the so-called sin offering is better understood as a purification offering — covering only unintentional acts and cleansing sacred space rather than granting moral forgiveness — and how recognizing this reveals just how categorically greater Jesus' sacrifice truly is."
 ---
 
 I knew it was coming up soon, but I had forgotten how quickly we got into “sin offerings” in Leviticus, but, like I’ve mentioned a couple times now, I want to talk a bit about what these offerings are and aren’t.

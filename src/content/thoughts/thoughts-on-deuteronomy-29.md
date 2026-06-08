@@ -6,7 +6,7 @@ reading:
   - "Luke 8"
 passages:
   - "Deuteronomy 29"
-summary: "The very end of Deuteronomy 29 is what stood out to me this morning:"
+summary: "Deuteronomy 29's closing line — the secret things belong to the Lord, but the revealed things to us — as a call to be content with what God has disclosed rather than filling in the gaps He chose to leave open, a caution echoed in reading Revelation."
 ---
 
 The very end of Deuteronomy 29 is what stood out to me this morning:

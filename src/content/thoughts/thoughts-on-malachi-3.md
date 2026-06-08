@@ -6,7 +6,7 @@ reading:
   - "1 Peter 4-5"
 passages:
   - "Malachi 3"
-summary: "This is a follow-up on what we talked about a couple days ago in Malachi 1, but when it comes to the expectation that God will act on our behalf, the…"
+summary: "A follow-up to Malachi 1 on the order of faith and blessing — God's call to bring the full tithe and test Him shows that the exercise of faith comes first, since waiting to act until after God provides would not be faith at all."
 ---
 
 This is a follow-up on what we talked about a couple days ago in Malachi 1, but when it comes to the expectation that God will act on our behalf, the exercise of faith comes first.

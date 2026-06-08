@@ -6,7 +6,7 @@ reading:
   - "2 Timothy 1"
 passages:
   - "2 Timothy 1"
-summary: "With yesterday having been Easter, what stands out to me in 2 Timothy 1 this morning is Paul’s talk of not being ashamed of the gospel we have believed. He…"
+summary: "Paul's refusal to be ashamed of the gospel in 2 Timothy 1 because he knows whom he has believed — set against an Easter illustration of life as a few inches of red tape on an endless rope, and the call to guard and proclaim the message entrusted to the church."
 ---
 
 With yesterday having been Easter, what stands out to me in 2 Timothy 1 this morning is Paul’s talk of not being ashamed of the gospel we have believed. He first tells Timothy not to be ashamed about the testimony of Jesus, and then says that he himself, despite suffering for it, is not ashamed of it because he knows whom he has believed.

@@ -6,7 +6,7 @@ reading:
   - "1 Timothy 1-2"
 passages:
   - "Leviticus 9"
-summary: "Leviticus 9 doesn’t really stand out as all that memorable or distinct, but it is actually a really important pivot point for Israel as it marks the…"
+summary: "Leviticus 9 as the pivot where the sacrificial system officially begins and the altar is purified for the people's use — and how the elaborate cost of priestly access to God magnifies the gift of Christ, who makes believers not merely able to enter sacred space but to become it."
 ---
 
 Leviticus 9 doesn’t really stand out as all that memorable or distinct, but it is actually a really important pivot point for Israel as it marks the official start of the sacrificial system, and honestly, the reason I decided to write about it this morning is that it makes me that much more grateful for what we have today in Christ.

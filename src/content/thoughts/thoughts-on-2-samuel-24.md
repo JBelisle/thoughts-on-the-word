@@ -6,7 +6,7 @@ reading:
   - "Philippians 1"
 passages:
   - "2 Samuel 24"
-summary: "I really wanted to just write about Philippians 1 this morning because 2 Samuel 24 makes me a little uncomfortable and it would just be easier if I didn’t…"
+summary: "Wrestling with the uncomfortable claim that God incited David's census in 2 Samuel 24 — arguing from David's later guilt that this was not a direct command but God removing his restraint and letting David act on a sinful desire he already held, much like Pharaoh's hardened heart."
 ---
 
 I really wanted to just write about Philippians 1 this morning because 2 Samuel 24 makes me a little uncomfortable and it would just be easier if I didn’t have to write about it. But if it makes me uncomfortable, then chances are that other people struggle with it as well, and we shouldn’t try to sweep that under the rug. So let’s talk about 2 Samuel 24.

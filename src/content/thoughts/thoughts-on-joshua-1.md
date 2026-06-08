@@ -6,7 +6,7 @@ reading:
   - "Luke 14"
 passages:
   - "Joshua 1"
-summary: "As I’ve been thinking about Joshua this morning (the man, not the book), I can’t help but think how helpful and important it is to learn to relate to the…"
+summary: "Joshua's intimacy with God — ascending Sinai and lingering at the tent of meeting — was learned at the feet of Moses, making the case that we relate to the Lord best by standing on the shoulders of those who know Him more deeply."
 ---
 
 As I’ve been thinking about Joshua this morning (the man, not the book), I can’t help but think how helpful and important it is to learn to relate to the Lord from someone who already knows Him more intimately than you do.

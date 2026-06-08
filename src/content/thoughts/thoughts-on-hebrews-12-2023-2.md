@@ -6,7 +6,7 @@ reading:
   - "Hebrews 12"
 passages:
   - "Hebrews 12"
-summary: "God’s discipline for His children seems like something the church in America tends to forget is in the Bible…"
+summary: "Hebrews 12 on the discipline of God as the mark of a loving Father, against an American church that wants the cheapest ticket to heaven — God aims not to minimally bless us but to transform us into the image of Christ."
 ---
 
 God’s discipline for His children seems like something the church in America tends to forget is in the Bible…

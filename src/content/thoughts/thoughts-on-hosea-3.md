@@ -6,7 +6,7 @@ reading:
   - "2 Timothy 3-4"
 passages:
   - "Hosea 3"
-summary: "Hosea paints such a clear, visceral picture of Israel's spiritual apostasy through his marriage to Gomer, and that dovetails perfectly with what we talked…"
+summary: "Hosea's marriage to Gomer, and his buying her back from prostitution, as a visceral picture of Israel's apostasy and God's unfailing love — and how familiarity with the whole interwoven story, not technical study, deepens our grasp of such passages."
 ---
 
 Hosea paints such a clear, visceral picture of Israel's spiritual apostasy through his marriage to Gomer, and that dovetails perfectly with what we talked about yesterday in terms of "bible study."

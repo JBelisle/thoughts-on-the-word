@@ -6,7 +6,7 @@ reading:
   - "Colossians 2"
 passages:
   - "Colossians 2"
-summary: "I'm not even going to try to dive into the whole discussion Dr. Michael Heiser goes into on the topic, but I found this podcast episode from The Naked Bible…"
+summary: "Finding clarity on baptism through Colossians 2 and Michael Heiser — understanding it as the New Testament analog to circumcision, a mark of allegiance to God's people that does not save but situates one among them, and why that view eases the infant-versus-adult baptism debate."
 ---
 
 I'm not even going to try to dive into the whole discussion Dr. Michael Heiser goes into on the topic, but I found this podcast episode from The Naked Bible Podcast super helpful in thinking well about baptism: [https://nakedbiblepodcast.com/podcast/naked-bible-231-colossians-211-12/](https://nakedbiblepodcast.com/podcast/naked-bible-231-colossians-211-12/)

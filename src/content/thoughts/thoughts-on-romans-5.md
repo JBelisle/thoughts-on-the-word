@@ -6,7 +6,7 @@ reading:
   - "Romans 5"
 passages:
   - "Romans 5"
-summary: "Paul opens Romans 5 with a really profound statement:"
+summary: "Why Paul's opening of Romans 5 — peace with God through justification by faith — is only possible because our standing rests on the unchanging perfection of Jesus rather than our own works, giving an assurance of salvation we could never have otherwise."
 ---
 
 Paul opens Romans 5 with a really profound statement:

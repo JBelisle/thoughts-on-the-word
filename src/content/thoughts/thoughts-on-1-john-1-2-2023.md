@@ -6,7 +6,7 @@ reading:
   - "1 John 1-2"
 passages:
   - "1 John 1-2"
-summary: "I have a hard time with John’s letters. I’m not sure why, because I’m fine with John’s gospel, and I’m good with Revelation (as much as any of us can be…"
+summary: "Why we instinctively soften John's stark light-versus-darkness contrast — and a challenge to ask why we want a fluffy Christianity that claims fellowship with God while clinging to pet sins, rather than letting His light into the dark places."
 ---
 
 I have a hard time with John’s letters. I’m not sure why, because I’m fine with John’s gospel, and I’m good with Revelation (as much as any of us can be anyway), but for some reason I just struggle when it comes to his three letters. I feel like I have to read so much more slowly, and re-read everything a few times before I can follow what he’s saying.

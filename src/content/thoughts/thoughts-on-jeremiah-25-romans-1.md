@@ -7,7 +7,7 @@ reading:
 passages:
   - "Jeremiah 25"
   - "Romans 1"
-summary: "We think freedom is found in rebellion, living our own way rather than submitting to the Lord’s, but the reality is that the truest freedom we can ever…"
+summary: "Drawing on Romans 1 and Jeremiah 25 to argue that real freedom is found within God's design, not in rebellion against it — since God is both our designer, whose order carries natural consequences, and the judge before whom all will stand."
 ---
 
 We think freedom is found in rebellion, living our own way rather than submitting to the Lord’s, but the reality is that the truest freedom we can ever experience is to live within God’s design.

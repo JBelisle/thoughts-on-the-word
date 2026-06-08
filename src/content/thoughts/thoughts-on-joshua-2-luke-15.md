@@ -7,7 +7,7 @@ reading:
 passages:
   - "Joshua 2"
   - "Luke 15"
-summary: "Today’s chapters are a good reminder not to decide for someone else whether or not they are interested in the Lord."
+summary: "Rahab the prostitute and the tax collectors and sinners of Luke 15 show that the unlikely people we might write off are often the most receptive to God — a caution against deciding for others whether they want the gospel."
 ---
 
 Today’s chapters are a good reminder not to decide for someone else whether or not they are interested in the Lord.

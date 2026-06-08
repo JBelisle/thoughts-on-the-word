@@ -6,7 +6,7 @@ reading:
   - "Galatians 4"
 passages:
   - "2 Samuel 15"
-summary: "I feel like David’s treatment of the Ark of the Covenant here in 2 Samuel 15 gives us a glimpse into his maturing understanding of, and respect toward, the…"
+summary: "David sending the ark back to Jerusalem as he flees Absalom shows a maturing faith that no longer treats it as a good-luck charm, as in 2 Samuel 6 — and a wider point that biblical figures were not omniscient but grew as God revealed himself progressively."
 ---
 
 I feel like David’s treatment of the Ark of the Covenant here in 2 Samuel 15 gives us a glimpse into his maturing understanding of, and respect toward, the God who chose him to be king.

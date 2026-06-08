@@ -7,7 +7,7 @@ reading:
 passages:
   - "Exodus 30"
   - "Ephesians 2"
-summary: "Having these two chapters together today couldn’t have set a better contrast."
+summary: "The careful priestly washings and barriers of Exodus 30 set against Ephesians 2 — even God's chosen Israel could never freely approach his presence, yet in Christ both Jew and Gentile become sacred space with full access to the Father, exposing the silliness of the old prejudice."
 ---
 
 Having these two chapters together today couldn’t have set a better contrast.

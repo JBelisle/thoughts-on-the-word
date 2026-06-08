@@ -6,7 +6,7 @@ reading:
   - "Revelation 21"
 passages:
   - "Deuteronomy 19"
-summary: "A few days ago, as we were going through Deuteronomy 13, we were talking about the weight that Moses attaches to the sin of those who would lead someone to…"
+summary: "Moses uses the rare phrase your eye shall not pity for murderers and false accusers in Deuteronomy 19 — the same language he applied to those who entice Israel to other gods, linking spiritual seduction to murder as a cutting off from eternal life."
 ---
 
 A few days ago, as we were going through Deuteronomy 13, we were talking about the weight that Moses attaches to the sin of those who would lead someone to serve a god other than Yahweh. But then as I was reading through Deuteronomy 19 today, I feel like it adds even more weight to Moses’ words in chapter 13.

@@ -6,7 +6,7 @@ reading:
   - "2 Thessalonians 3"
 passages:
   - "2 Thessalonians 3"
-summary: "What strikes me this morning out of 2 Thessalonians 3 is how “unloving” biblical love can be."
+summary: "How biblical love can look unloving by modern standards — Paul's instruction in 2 Thessalonians 3 to distance from idle and disobedient believers while warning them as brothers, distinguishing love for fellow Christians from love for those outside the church."
 ---
 
 What strikes me this morning out of 2 Thessalonians 3 is how “unloving” biblical love can be.

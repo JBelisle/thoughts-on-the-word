@@ -5,7 +5,7 @@ reading:
   - "Genesis 1-3"
 passages:
   - "Genesis 1-3"
-summary: "The last few years have led me to view the first chapters of Genesis very differently than I have in the past."
+summary: "Reading the creation accounts not as fuel for the age-of-the-earth debate but in their ancient Near Eastern context — God pushing back chaos to make a space for his image-bearers to flourish, and how that reframes the curse of the Fall."
 ---
 
 The last few years have led me to view the first chapters of Genesis very differently than I have in the past.

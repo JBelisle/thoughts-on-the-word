@@ -6,7 +6,7 @@ reading:
   - "1 Corinthians 10"
 passages:
   - "Job 34-35"
-summary: "I can’t help cringing a bit this morning, reading Job, as I think back to all the times I’ve played the role of Elihu…"
+summary: "Elihu as a cautionary mirror — the young, well-learned but inexperienced man, so sure of his own understanding that he berates the righteous Job, and a reflection on learning humility in how we hold and defend what we believe to be true."
 ---
 
 I can’t help cringing a bit this morning, reading Job, as I think back to all the times I’ve played the role of Elihu…

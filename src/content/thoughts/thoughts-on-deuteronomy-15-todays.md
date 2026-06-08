@@ -6,7 +6,7 @@ reading:
   - "Revelation 17"
 passages:
   - "Deuteronomy 15"
-summary: "I know I keep bringing this up, but Deuteronomy 15 is another great foil to the common conception today that the God of the Old Testament was just about…"
+summary: "Deuteronomy 15's command to release all debts and slaves every seven years counters the caricature of a wrathful Old Testament God — revealing the same God of justice, love, and mercy found in the New Testament."
 ---
 
 I know I keep bringing this up, but Deuteronomy 15 is another great foil to the common conception today that the God of the Old Testament was just about judgement and wrath, while the God of the New Testament is all about love. I keep bringing this up because I hear it so much, including from other Christians! I somewhat regularly hear people make comments about how much better it is to be living after the cross where there’s grace instead of living in Old Testament times when it was all rules and judgement. And it hurts my heart on the Lord’s behalf when I hear things like this because this is such an effective mischaracterization of God by Satan that even some of God’s own people are caught up in the deception and have all kinds of wrong views of our good and loving God.

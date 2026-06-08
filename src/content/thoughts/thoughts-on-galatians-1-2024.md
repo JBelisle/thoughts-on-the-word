@@ -6,7 +6,7 @@ reading:
   - "Galatians 1"
 passages:
   - "Galatians 1"
-summary: "A hugely significant part of Paul’s testimony and witness for the Lord was based on how dramatically things changed when he turned to Christ."
+summary: "How the sheer drama of Paul's turn from persecutor to apostle gave his witness its force — and why repentance, the choice to turn from faithlessness back to faithfulness, can speak as loudly for the gospel as faithfulness itself."
 ---
 
 A hugely significant part of Paul’s testimony and witness for the Lord was based on how dramatically things changed when he turned to Christ.

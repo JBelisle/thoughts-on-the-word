@@ -7,7 +7,7 @@ reading:
 passages:
   - "Deuteronomy 3"
   - "Revelation 2"
-summary: "I just have a quick thought on Deuteronomy 3 this morning. In recounting their defeat of Og, king of Bashan, Moses says that after they had defeated the two…"
+summary: "Mount Hermon, the site of the angelic rebellion of Genesis 6, is reclaimed by Israel in Deuteronomy 3 and later hosts the Transfiguration — plus Jesus' charge to Ephesus in Revelation 2 read as a call to resume the good works that make a church a light to its community."
 ---
 
 ## Thoughts on Deuteronomy 3

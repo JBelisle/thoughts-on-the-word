@@ -6,7 +6,7 @@ reading:
   - "Mark 16"
 passages:
   - "Mark 16"
-summary: "Mark 16 is an interesting chapter to me because of all the functional questions it brings up about the text itself."
+summary: "Why the longer ending of Mark (16:9-20) is likely not original — favoring the view that the abrupt ending mirrors Chronicles, while weighing Mike Winger's idea that the gap was left for eyewitness testimony to fill."
 ---
 
 Mark 16 is an interesting chapter to me because of all the functional questions it brings up about the text itself. 

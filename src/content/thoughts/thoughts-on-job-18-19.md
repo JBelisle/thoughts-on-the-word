@@ -6,7 +6,7 @@ reading:
   - "Romans 16"
 passages:
   - "Job 18-19"
-summary: "Reading Job and his friends' conversation keeps making me think of how every contentious conversation seems to go these days..."
+summary: "How Job and his friends talk past one another because of unexamined base assumptions about retribution — mirroring modern debates like abortion, and a call to curiosity and seeing the humanity in those we disagree with rather than slinging vitriol."
 ---
 
 Reading Job and his friends' conversation keeps making me think of how every contentious conversation seems to go these days...

@@ -6,7 +6,7 @@ reading:
   - "Acts 7"
 passages:
   - "Acts 7"
-summary: "Today's post should be pretty short. I don't have much to say on the passage itself, mostly something I think is valuable for us all to keep in mind."
+summary: "How Stephen's defense in Acts 7 — that God works far beyond the temple — exposes a narrow focus his accusers could not see past, and a warning that Christians can make the same mistake, treating our own answers on secondary matters as beyond question."
 ---
 
 Today's post should be pretty short. I don't have much to say on the passage itself, mostly something I think is valuable for us all to keep in mind.  

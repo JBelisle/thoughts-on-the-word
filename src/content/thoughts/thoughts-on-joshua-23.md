@@ -6,7 +6,7 @@ reading:
   - "Acts 11"
 passages:
   - "Joshua 23"
-summary: "The thing I couldn't help but think about as I was reading Joshua 23 this morning is how much people want to have their cake and eat it too when it comes to…"
+summary: "Joshua's warning that God keeps both His promised blessings and His promised judgments — you do not get one without the other — confronting the desire to claim God's blessings while ignoring His call on how we live, without making faithfulness transactional."
 ---
 
 The thing I couldn't help but think about as I was reading Joshua 23 this morning is how much people want to have their cake and eat it too when it comes to God. People want all the blessings and goodness God can provide without any of the judgment or consequences that follow from our sin.
