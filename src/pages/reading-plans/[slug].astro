@@ -22,8 +22,8 @@ const { Content } = await render(plan);
     ) : null}
     {(plan.data.pdf || plan.data.sheet) ? (
       <p class="plan-actions">
-        {plan.data.pdf ? <a class="btn-cta" href={plan.data.pdf}>Printable PDF</a> : null}
-        {plan.data.sheet ? <a class="btn-cta" href={plan.data.sheet}>Open in Google Sheets</a> : null}
+        {plan.data.pdf ? <a class="btn-cta" href={plan.data.pdf} target="_blank" rel="noopener noreferrer">Printable PDF</a> : null}
+        {plan.data.sheet ? <a class="btn-cta" href={plan.data.sheet} target="_blank" rel="noopener noreferrer">Open in Google Sheets</a> : null}
       </p>
     ) : null}
     <div class="prose"><Content /></div>
