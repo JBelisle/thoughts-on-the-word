@@ -7,7 +7,7 @@ reading:
 passages:
   - "Jeremiah 3"
   - "Matthew 8"
-summary: "As much as we may recognize it and understand what’s happening, I don’t think we really have a category for how powerful and impactful what Jesus does at…"
+summary: "How Jesus touching the leper in Matthew 8 and declaring him clean — when Leviticus says uncleanness spreads by touch but cleanness never does — reveals Jesus as Yahweh incarnate, the living temple able to impart cleanness rather than contract defilement."
 ---
 
 As much as we may recognize it and understand what’s happening, I don’t think we really have a category for how powerful and impactful what Jesus does at the beginning of Matthew 8 would have been.

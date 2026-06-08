@@ -6,7 +6,7 @@ reading:
   - "Luke 23"
 passages:
   - "Luke 23"
-summary: "I have never considered before just how incredible it is for the criminal on the cross to ask a dying Messiah to bring him into His kingdom."
+summary: "The astonishing faith of the criminal crucified beside Jesus in Luke 23 — trusting a dying, seemingly failed Messiah to bring him into His kingdom when even Jesus' closest followers had no category for a suffering Christ, recognizing who Jesus was was enough."
 ---
 
 I have never considered before just how incredible it is for the criminal on the cross to ask a dying Messiah to bring him into His kingdom.

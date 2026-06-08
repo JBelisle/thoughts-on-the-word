@@ -6,7 +6,7 @@ reading:
   - "Matthew 3"
 passages:
   - "Matthew 3"
-summary: "Even before the start of His public ministry, and before He had performed any miracles, Jesus was already known for His righteousness."
+summary: "John the Baptist's protest that he should be baptized by Jesus came before he knew Jesus was the Messiah — suggesting Jesus' righteousness was already so distinctive it set a standard, and asking whether our lives carry that same witness."
 ---
 
 Even before the start of His public ministry, and before He had performed any miracles, Jesus was already known for His righteousness.

@@ -6,7 +6,7 @@ reading:
   - "Romans 5"
 passages:
   - "Jeremiah 29"
-summary: "There are a handful of verses I regularly hear misused, but Jeremiah 29:11 is maybe the worst offender."
+summary: "Why Jeremiah 29:11's promise to prosper and not harm was spoken to the Jewish exiles as a people about their return after seventy years — not a guarantee for individual Christians today, and why misapplying it spreads false hope in God's name."
 ---
 
 There are a handful of verses I regularly hear misused, but Jeremiah 29:11 is maybe the worst offender.

@@ -6,7 +6,7 @@ reading:
   - "Acts 14"
 passages:
   - "Judges 2"
-summary: "I pointed out yesterday that Judges 1 is an important context to keep in mind as we continue on through this book because it is the root of all the issues…"
+summary: "Judges 2 reveals not a vindictive God but a strikingly patient one — leaving the Canaanites because Israel refused to drive them out, letting the nation feel the natural consequences, and repeatedly raising up judges to rescue a people He knows will rebel again."
 ---
 
 I pointed out yesterday that Judges 1 is an important context to keep in mind as we continue on through this book because it is the root of all the issues and judgements that Israel is going to face, and chapter 2 calls that out explicitly. But there is another aspect of context we see in chapter 2 that we would also do well to remember if we want to think more rightly about God.

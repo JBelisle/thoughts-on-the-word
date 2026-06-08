@@ -6,7 +6,7 @@ reading:
   - "Matthew 14"
 passages:
   - "Matthew 14"
-summary: "Peter is the only one of Jesus’ followers to be chided by Jesus for his little faith in Matthew 14, but that’s because he was the only one to put himself in…"
+summary: "Peter gets rebuked for little faith only because he was the only disciple bold enough to step out of the boat — drawing on MacArthur's Twelve Ordinary Men to commend Peter's boldness as something worth emulating."
 ---
 
 Peter is the only one of Jesus’ followers to be chided by Jesus for his little faith in Matthew 14, but that’s because he was the only one to put himself in a position to need to exercise faith at all.

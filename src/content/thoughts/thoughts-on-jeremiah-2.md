@@ -6,7 +6,7 @@ reading:
   - "Matthew 7"
 passages:
   - "Jeremiah 2"
-summary: "The imagery Jeremiah uses in Jeremiah 2 to call out Israel’s turning from God is both powerful, and really helpful in thinking about our own sin and the…"
+summary: "Jeremiah 2's image of forsaking the fountain of living waters for broken cisterns that hold no water — and how it captures the exhausting illusion of trying to make life work apart from God, endlessly refilling a leaking cistern."
 ---
 
 The imagery Jeremiah uses in Jeremiah 2 to call out Israel’s turning from God is both powerful, and really helpful in thinking about our own sin and the folly of favoring our own ways over the Lord’s.

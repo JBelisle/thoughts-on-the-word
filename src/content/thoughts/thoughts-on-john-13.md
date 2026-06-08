@@ -6,7 +6,7 @@ reading:
   - "John 13"
 passages:
   - "John 13"
-summary: "At the end of John 13 Jesus gives His disciples a new commandment that I think the church today, at least in the West, needs to take a serious look at and…"
+summary: "Jesus' new commandment to love one another is the church's strongest apologetic — and a challenge to the modern Western church, whose growth strategies often center on preaching, programs, and worship rather than deep, sacrificial love among believers."
 ---
 
 At the end of John 13 Jesus gives His disciples a new commandment that I think the church today, at least in the West, needs to take a serious look at and ask if we are actually following it.

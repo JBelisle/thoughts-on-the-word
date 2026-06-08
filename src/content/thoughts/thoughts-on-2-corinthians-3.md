@@ -6,7 +6,7 @@ reading:
   - "2 Corinthians 2-3"
 passages:
   - "2 Corinthians 3"
-summary: "There are few attitudes I think I would point to as being more important to a healthy Christian life than this. I know that’s kind of a bold statement to…"
+summary: "On Paul's insistence that our sufficiency comes only from God — why recognizing that capable is not the same as sufficient keeps a believer dependent on the Spirit and guards a long, healthy life of ministry against self-glory."
 ---
 
 > “Such is the confidence that we have through Christ toward God. Not that we are sufficient in ourselves to claim anything as coming from us, but our sufficiency is from God, who has made us sufficient to be ministers of a new covenant, not of the letter but of the Spirit.”

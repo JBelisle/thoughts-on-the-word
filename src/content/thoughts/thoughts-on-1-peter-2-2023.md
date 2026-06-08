@@ -6,7 +6,7 @@ reading:
   - "1 Peter 2"
 passages:
   - "1 Peter 2"
-summary: "According to Peter, our lives and conduct as Christians should be such that we force people into a place of cognitive dissonance. Jesus Himself warned us…"
+summary: "Peter's charge to silence accusations through active good works — measured against the American church's reputation for hostility toward outsiders, arguing that merely being inoffensive falls short of the love and service Christians are called to."
 ---
 
 According to Peter, our lives and conduct as Christians should be such that we force people into a place of cognitive dissonance. Jesus Himself warned us that the world would hate us because we belong to Him. He declares that everyone’s works are evil and they need a savior, but people don’t want to hear or admit that about themselves so they malign and reject Jesus. And Jesus told us from the beginning that, if we align ourselves with Him, we will be in the crosshairs as well. So Peter tells us that because the world hates us for belonging to Jesus, we must give the world no foothold for an accusation against us, and more than that, we must be actively walking in good works that refute whatever narrative the world spins against Christ and His people.

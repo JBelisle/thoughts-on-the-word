@@ -6,7 +6,7 @@ reading:
   - "Galatians 2"
 passages:
   - "2 Samuel 13"
-summary: "This may sound a little odd at first blush, but 2 Samuel 13 gives me serious pause as a father."
+summary: "David's failure to protect Tamar or punish Amnon in 2 Samuel 13 as a cautionary tale that faithfulness to God in one calling does not excuse faithlessness in another — and the challenge of balancing ministry with being a present husband and father."
 ---
 
 This may sound a little odd at first blush, but 2 Samuel 13 gives me serious pause as a father.

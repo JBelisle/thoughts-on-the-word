@@ -6,7 +6,7 @@ reading:
   - "Luke 7"
 passages:
   - "Psalm 82"
-summary: "I feel like we’ve already talked about Psalm 82 quite a bit on this blog, but this is the first time we are actually coming to it in the reading plan, so I…"
+summary: "Psalm 82's divine council read against Deuteronomy 32 and Babel — the gods of the nations as real spiritual beings God allotted over the nations, who rebelled into injustice and now face judgment as their peoples revert to Yahweh's rule in Christ."
 ---
 
 I feel like we’ve already talked about Psalm 82 quite a bit on this blog, but this is the first time we are actually coming to it in the reading plan, so I figured it was worth taking the time to look at it again.

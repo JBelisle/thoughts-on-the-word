@@ -6,7 +6,7 @@ reading:
   - "1 Timothy 5"
 passages:
   - "Ezra 1"
-summary: "Ezra 1 is such a humbling and encouraging smack in the face for all the times I have felt like I needed to take things into my own hands, instead of…"
+summary: "God stirring the spirit of Cyrus to send the exiles home in Ezra 1 as a rebuke to our impulse to take matters into our own hands — a reminder that no nation's power can thwart His promises and nothing is ever too difficult for Him."
 ---
 
 Ezra 1 is such a humbling and encouraging smack in the face for all the times I have felt like I needed to take things into my own hands, instead of trusting God with them, because, “How could God possibly make this work if I don’t do this thing here?”

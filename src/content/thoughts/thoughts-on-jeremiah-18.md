@@ -6,7 +6,7 @@ reading:
   - "Matthew 23"
 passages:
   - "Jeremiah 18"
-summary: "The end of Jeremiah 18 gives us a good sense of just how far gone, spiritually speaking, the people of Israel were in Jeremiah’s day."
+summary: "How Jeremiah's startling call at the end of chapter 18 for the Lord to bring down judgment — after years of interceding for a people who then tried to murder him — reveals just how far gone Israel had become spiritually."
 ---
 
 The end of Jeremiah 18 gives us a good sense of just how far gone, spiritually speaking, the people of Israel were in Jeremiah’s day.

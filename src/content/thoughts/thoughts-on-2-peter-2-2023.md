@@ -6,7 +6,7 @@ reading:
   - "2 Peter 2"
 passages:
   - "2 Peter 2"
-summary: "Peter has some really strong words for the false teachers who bring in destructive heresies to the church that lead people astray. Given some of his pretty…"
+summary: "Distinguishing the heresies Peter condemns in 2 Peter 2 from the well-meaning historical errors debated in councils — these are teachers who deliberately undermine faith in Christ for gain, and the best defense against them is knowing God's Word deeply."
 ---
 
 Peter has some really strong words for the false teachers who bring in destructive heresies to the church that lead people astray. Given some of his pretty specific references, it does seem like there are some particular teachings/heresies that he is thinking of as he writes this, but he is also talking generically about this as a problem that will continue to arise over time, and that means it is something we need to pay attention to today as well.

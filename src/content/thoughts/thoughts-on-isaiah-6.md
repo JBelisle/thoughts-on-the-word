@@ -6,7 +6,7 @@ reading:
   - "Hebrews 11"
 passages:
   - "Isaiah 6"
-summary: "Isaiah 6 is a chapter the Lord has used a lot over the years to temper my pride through two questions: (1) How am I measuring spiritual success? and (2) Is…"
+summary: "Isaiah commissioned to a ministry God says will dull hearts rather than turn them back — and how that reframes spiritual success as faithfulness rather than visible fruit, tempering the prideful need to prove oneself by others' metrics."
 ---
 
 Isaiah 6 is a chapter the Lord has used a lot over the years to temper my pride through two questions: (1) How am I measuring spiritual success? and (2) Is success before the Lord more important than success before men?

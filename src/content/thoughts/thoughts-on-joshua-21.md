@@ -6,7 +6,7 @@ reading:
   - "Acts 9"
 passages:
   - "Joshua 21"
-summary: "What about Moses and his sons?"
+summary: "Why Moses' family receives no special inheritance or role among the tribal allotments — they fall in with the Kohathite clan, alongside the Jewish rabbinical tradition that, unlike Aaron's line, Moses' sons were not set apart."
 ---
 
 What about Moses and his sons?

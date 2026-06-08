@@ -4,7 +4,7 @@ date: 2024-12-31
 reading:
   - "2 Chronicles 36"
   - "Revelation 22"
-summary: "We made it to the end! Two years going through this reading plan together, and 500 posts later, we’ve reached the end of our reading."
+summary: "A closing reflection on finishing the two-year, whole-Bible reading plan after 500 posts — why the daily posts are winding down, with a plan to add a final stretch covering Genesis, which the blog never walked through."
 ---
 
 We made it to the end! Two years going through this reading plan together, and 500 posts later, we’ve reached the end of our reading.

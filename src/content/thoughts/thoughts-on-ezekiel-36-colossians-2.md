@@ -7,7 +7,7 @@ reading:
 passages:
   - "Ezekiel 36"
   - "Colossians 2"
-summary: "It's amazing how much more assurance can be had when God is promising to act for His own sake, rather than in response to human goodness or faithfulness."
+summary: "Why God's promise in Ezekiel 36 to restore Israel for the sake of His own name, not their faithfulness, is far more assuring than it first sounds — the same ground of assurance believers have in Christ rather than in their own performance, per Colossians 2."
 ---
 
 It's amazing how much more assurance can be had when God is promising to act for His own sake, rather than in response to human goodness or faithfulness.

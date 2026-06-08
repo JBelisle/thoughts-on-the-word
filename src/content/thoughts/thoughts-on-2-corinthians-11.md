@@ -6,7 +6,7 @@ reading:
   - "2 Corinthians 11"
 passages:
   - "2 Corinthians 11"
-summary: "I can't help but be struck by Paul's willingness to sacrifice for the potential good of the Corinthians."
+summary: "Paul's refusal of support from the wealthy Corinthians to keep any barrier from the gospel — a challenge to the American Christian instinct to guard personal rights over the good of others and the advance of God's kingdom."
 ---
 
 I can't help but be struck by Paul's willingness to sacrifice for the potential good of the Corinthians.

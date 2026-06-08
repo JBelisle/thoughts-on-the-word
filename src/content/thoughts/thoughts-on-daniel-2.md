@@ -6,7 +6,7 @@ reading:
   - "Colossians 2"
 passages:
   - "Daniel 2"
-summary: "I just wanted to make a quick note about the dating of Daniel this morning."
+summary: "The debate over whether Daniel was written in the 500s or 200-100s BC is not simply belief versus disbelief in prophecy — drawing on Michael Heiser, the chapter 2 prophecy opens a more rational case for late dating based on Hebrew style and apocalyptic genre."
 ---
 
 I just wanted to make a quick note about the dating of Daniel this morning.

@@ -6,7 +6,7 @@ reading:
   - "Philemon 1"
 passages:
   - "Ezra 8"
-summary: "I really appreciate the honest juxtaposition in Ezra 8 between knowing what God is capable of doing on your behalf and actually trusting Him to do it."
+summary: "The Bible's honest portrait of Ezra refusing an armed escort for his treasure-laden journey — caught between knowing what God can do and actually trusting Him to do it, held back not by faith but by shame at admitting his own doubt."
 ---
 
 I really appreciate the honest juxtaposition in Ezra 8 between knowing what God is capable of doing on your behalf and actually trusting Him to do it.

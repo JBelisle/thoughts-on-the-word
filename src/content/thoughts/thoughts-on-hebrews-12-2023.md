@@ -6,7 +6,7 @@ reading:
   - "Hebrews 12"
 passages:
   - "Hebrews 12"
-summary: "Hebrews 12 asks us a really important question: What do you want out of your Christianity?"
+summary: "How the absence of any cost to faith in the modern West lets people and churches drift into Christianity for the wrong reasons — and how Hebrews 12, framing God's discipline as essential to holiness, forces the question of what we actually want from our faith."
 ---
 
 Hebrews 12 asks us a really important question: What do you want out of your Christianity?

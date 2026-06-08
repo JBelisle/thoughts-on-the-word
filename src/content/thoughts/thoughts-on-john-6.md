@@ -6,7 +6,7 @@ reading:
   - "John 6"
 passages:
   - "John 6"
-summary: "The end of John 6 has been an incredibly important piece of Scripture to my Christian life."
+summary: "After the bread-of-life discourse scatters the crowd, Peter's reply — Lord, to whom shall we go? — becomes a touchstone for following Jesus without needing to understand everything, simply knowing who He is."
 ---
 
 The end of John 6 has been an incredibly important piece of Scripture to my Christian life.

@@ -6,7 +6,7 @@ reading:
   - "2 Corinthians 8"
 passages:
   - "Ezekiel 14"
-summary: "How often people turn to God in times of struggle, fear, pain, or crisis, who are otherwise disinterested in knowing or following Him, says something to me…"
+summary: "The elders of Ezekiel 14 seeking God while clinging to their idols — wanting His power without His lordship — as evidence of the spiritual reality even rebels instinctively recognize when crisis strips away their sense of control."
 ---
 
 How often people turn to God in times of struggle, fear, pain, or crisis, who are otherwise disinterested in knowing or following Him, says something to me about a spiritual reality that they recognize, even if they refuse to accept it.

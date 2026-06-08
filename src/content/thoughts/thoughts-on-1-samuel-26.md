@@ -6,7 +6,7 @@ reading:
   - "1 Corinthians 14"
 passages:
   - "1 Samuel 26"
-summary: "This isn’t specific to 1 Samuel 26, but I’m really curious about David’s conviction about not killing Saul because he is the Lord’s anointed. Over and over…"
+summary: "Questioning David's repeated refusal to kill Saul as the Lord's anointed — wondering whether David, already anointed in Saul's place, was actually misguided, and whether God kept handing Saul over so His rightful king would address the internal threat Saul posed."
 ---
 
 This isn’t specific to 1 Samuel 26, but I’m really curious about David’s conviction about not killing Saul because he is the Lord’s anointed. Over and over again David has the opportunity to kill Saul and take the throne, and each time he refuses saying he will not stretch out his hand against the Lord’s anointed, and that God will deal with Saul in His time. The Scriptures never say David is wrong about this, but I also can’t think of anywhere that this is specifically commended by the Lord, and it makes me wonder sometimes if this is actually what God desired to have David do.

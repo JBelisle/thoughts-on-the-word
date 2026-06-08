@@ -6,7 +6,7 @@ reading:
   - "Matthew 20"
 passages:
   - "Matthew 20"
-summary: "I think an unfortunate chapter break has left me never really thinking about Jesus' parable of the laborers in the vineyard in it's proper context..."
+summary: "Reading the parable of the laborers in the vineyard in light of the end of Matthew 19 — Jesus reassuring his disciples of their reward while level-setting that those called early hold no higher standing than those called late."
 ---
 
 I think an unfortunate chapter break has left me never really thinking about Jesus' parable of the laborers in the vineyard in it's proper context...

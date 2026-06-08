@@ -6,7 +6,7 @@ reading:
   - "1 John 1-2"
 passages:
   - "Psalms 10-12"
-summary: "I know we have talked about this a lot in this series already, but I just keep getting hung up on the disparity between what God prioritized in the Old…"
+summary: "What God actually prioritizes — Psalms 10-12 show his concern is justice and compassion for the vulnerable, not a checklist of pet sins, pushing back on a moralism that majors on the wrong things and misreads him as waiting for us to fail."
 ---
 
 I know we have talked about this a lot in this series already, but I just keep getting hung up on the disparity between what God prioritized in the Old Testament and what so many Christians think and teach that He cares most about from us today.

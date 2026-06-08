@@ -6,7 +6,7 @@ reading:
   - "John 20"
 passages:
   - "2 Kings 21"
-summary: "It can be easy, when we fall short or utterly fail in the Christian life, to feel like God must be angry with us, if He even still loves us at all, but one…"
+summary: "Marveling that God endured Manasseh's fifty-five-year reign and Judah's long slide into idolatry without destroying them — and how that patience and mercy assures believers in Christ that failure has not exhausted God's love for them."
 ---
 
 It can be easy, when we fall short or utterly fail in the Christian life, to feel like God must be angry with us, if He even still loves us at all, but one thing I couldn’t help but marvel at in 2 Kings 21 this morning is the unbelievable patience and mercy of God for His people…

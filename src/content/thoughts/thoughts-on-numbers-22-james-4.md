@@ -7,7 +7,7 @@ reading:
 passages:
   - "Numbers 22"
   - "James 4"
-summary: "As I was thinking and praying about what to write for this post this morning, I was struck by how perfect of an example Balaam is of the double-minded man…"
+summary: "Balaam embodies the double-minded man of James 4 — technically obeying God while scheming around His will to claim Balak's reward, illustrating the difference between the immature question what can I do and the mature what should I do."
 ---
 
 As I was thinking and praying about what to write for this post this morning, I was struck by how perfect of an example Balaam is of the double-minded man from James 4.

@@ -6,7 +6,7 @@ reading:
   - "Matthew 28"
 passages:
   - "Matthew 28"
-summary: "My thoughts on Matthew 28 are really a follow up on what I wrote yesterday from Matthew 27 about the Jewish leaders disbelieving Jesus because of their…"
+summary: "The Jewish leaders knew Jesus had predicted his resurrection, yet on hearing the tomb was empty they bribed the guards to lie rather than repent — proof that their unbelief sprang from hardness of heart, not lack of evidence."
 ---
 
 My thoughts on Matthew 28 are really a follow up on what I wrote yesterday from Matthew 27 about the Jewish leaders disbelieving Jesus because of their hardness of heart, not for lack of evidence.

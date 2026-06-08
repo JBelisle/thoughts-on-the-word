@@ -6,7 +6,7 @@ reading:
   - "Luke 22"
 passages:
   - "Joshua 9"
-summary: "I’m really curious what God would have instructed Joshua about the Gibeonites if he had asked Him about it before making a covenant with them."
+summary: "Wondering whether God allowed the Gibeonites' deception to succeed because, like Rahab, they were rightly recognizing Yahweh and seeking to align with Him — their servant role at the altar reading almost as a pseudo-Levitical place in Israel's worship."
 ---
 
 I’m really curious what God would have instructed Joshua about the Gibeonites if he had asked Him about it before making a covenant with them.

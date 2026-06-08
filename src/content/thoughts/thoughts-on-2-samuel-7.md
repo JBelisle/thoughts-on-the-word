@@ -6,7 +6,7 @@ reading:
   - "2 Corinthians 9-10"
 passages:
   - "2 Samuel 7"
-summary: "What a contrast there is between 2 Samuel 6 and 2 Samuel 7!"
+summary: "The contrast between God striking down Uzzah in 2 Samuel 6 and gently redirecting David from building the temple in 2 Samuel 7 — reassurance that when believers step out in good faith on a godly choice, God leads rather than punishes, unlike willful disobedience."
 ---
 
 What a contrast there is between 2 Samuel 6 and 2 Samuel 7!

@@ -6,7 +6,7 @@ reading:
   - "Mark 8"
 passages:
   - "Amos 5"
-summary: "I wish that every Christian church in the West today would hear, listen, and truly consider God’s words to Israel through Amos in Amos 5."
+summary: "God's declaration in Amos 5 that He despises Israel's feasts and offerings while calling for justice to roll down like waters — a warning that religious observance is no substitute for a faithful heart, as relevant to the Western church as it was to Israel and the Pharisees Jesus rebuked."
 ---
 
 I wish that every Christian church in the West today would hear, listen, and truly consider God’s words to Israel through Amos in Amos 5.

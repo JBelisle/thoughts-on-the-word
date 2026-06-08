@@ -6,7 +6,7 @@ reading:
   - "John 4"
 passages:
   - "Nehemiah 3"
-summary: "My thoughts on Nehemiah 3 are really an extension of what we talked about yesterday from Nehemiah 1-2, but it’s worth pointing out that few to none of the…"
+summary: "The wall-builders of Nehemiah 3 were goldsmiths, perfumers, priests, and nobles, not masons — proof that a task too daunting for any individual becomes light work when the community takes it on together as the hands and feet of Christ."
 ---
 
 My thoughts on Nehemiah 3 are really an extension of what we talked about yesterday from Nehemiah 1-2, but it’s worth pointing out that few to none of the people accomplishing the work of rebuilding in Jerusalem were particularly “qualified” for the work.

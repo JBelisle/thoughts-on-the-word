@@ -6,7 +6,7 @@ reading:
   - "Luke 6"
 passages:
   - "Luke 6"
-summary: "Would you say that you have a solid spiritual foundation? And if so, what are you basing your answer to that question on?"
+summary: "Jesus' wise and foolish builders at the end of Luke 6 measure a solid spiritual foundation not by how much truth we hear but by how much we put into practice — a sobering reminder that knowing Bible, theology, and the gospel means nothing without obedient action."
 ---
 
 Would you say that you have a solid spiritual foundation? And if so, what are you basing your answer to that question on?

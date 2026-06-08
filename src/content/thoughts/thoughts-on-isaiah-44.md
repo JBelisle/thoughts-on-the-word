@@ -6,7 +6,7 @@ reading:
   - "Revelation 10-11"
 passages:
   - "Isaiah 44"
-summary: "Isaiah's declaration of the foolishness of idolatry is not aimed at the nations who are chasing after other gods, but is an indictment against Israel for…"
+summary: "Isaiah's mockery of idolatry aimed not at the blinded nations God gave over at Babel but at Israel — who, having had God reveal himself directly to her, covers her own eyes to follow the nations into folly she should know better than to repeat."
 ---
 
 Isaiah's declaration of the foolishness of idolatry is not aimed at the nations who are chasing after other gods, but is an indictment against Israel for following after the nations when they are the ones who should know better.

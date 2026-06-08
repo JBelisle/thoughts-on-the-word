@@ -6,7 +6,7 @@ reading:
   - "1 Corinthians 9"
 passages:
   - "Job 32"
-summary: "The introduction of Elihu into the story of Job is a good opportunity to talk about how often the Biblical authors, especially of the Old Testament, leave…"
+summary: "Elihu's sudden appearance prompts a reflection on how the Old Testament authors deliberately leave out key details — gaps that keep the stories turning in our minds and shape our worldview far more than treating the Bible as a set of facts to memorize."
 ---
 
 The introduction of Elihu into the story of Job is a good opportunity to talk about how often the Biblical authors, especially of the Old Testament, leave out important details that leave you with questions like, “Wait, where’d he come from??”

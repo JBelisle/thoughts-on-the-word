@@ -6,7 +6,7 @@ reading:
   - "Revelation 14"
 passages:
   - "Psalms 52-54"
-summary: "Reading these three Psalms back-to-back got me thinking about just how much David was forced to rely on God after he was anointed king, but before he took…"
+summary: "Why God may have left David fleeing Saul for years before the throne — how competence can quietly kill our reliance on the Lord, and how those wilderness years trained David to lead while still depending on God rather than his own ability."
 ---
 
 Reading these three Psalms back-to-back got me thinking about just how much David was forced to rely on God after he was anointed king, but before he took the throne, and I wonder if that was by design from God.

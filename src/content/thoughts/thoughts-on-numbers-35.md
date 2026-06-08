@@ -6,7 +6,7 @@ reading:
   - "2 John 1"
 passages:
   - "Numbers 35"
-summary: "There’s an easy to miss line at the end of Numbers 35 which at first blush sounds a little odd, but actually makes a lot of sense with some of the themes we…"
+summary: "Why the cities of refuge in Numbers 35 confine even an accidental killer until the high priest dies — not as unfair punishment but because a taker of life defiles Yahweh's domain, and confinement mercifully contains that defilement rather than expelling or executing them."
 ---
 
 There’s an easy to miss line at the end of Numbers 35 which at first blush sounds a little odd, but actually makes a lot of sense with some of the themes we have been tracking though Exodus and Leviticus so far.

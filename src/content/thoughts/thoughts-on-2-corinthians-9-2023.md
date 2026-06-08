@@ -6,7 +6,7 @@ reading:
   - "2 Corinthians 9-10"
 passages:
   - "2 Corinthians 9"
-summary: "I have a bit of a difficult time with 2 Corinthians 9. Honestly, it is an incredible promise that God makes to us, and is legitimately exciting, but it has…"
+summary: "Reclaiming Paul's promise that those who sow bountifully reap bountifully from televangelist abuse — God enriches the generous not so they can be rich but so they can give still more, multiplying both heavenly reward and earthly capacity to give."
 ---
 
 I have a bit of a difficult time with 2 Corinthians 9. Honestly, it is an incredible promise that God makes to us, and is legitimately exciting, but it has been so abused that I’m hesitant, in my own heart, to believe and teach it. But abuse of God’s promise doesn’t make it any less a promise, and when the promise comes from God, we can know He is good for it.

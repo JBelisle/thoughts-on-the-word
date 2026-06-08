@@ -6,7 +6,7 @@ reading:
   - "Revelation 3"
 passages:
   - "Deuteronomy 4"
-summary: "The notion of Israel being God's people is not generally a new concept to people with much biblical background. God chose Abraham and promised that He would…"
+summary: "Deuteronomy 4's warnings against idolatry make sense against the Babel disinheritance — Yahweh alone is Israel's allotted portion while the nations were given over to lesser gods, meaning Israel marches into Canaan as spiritually contested, enemy territory."
 ---
 
 The notion of Israel being God's people is not generally a new concept to people with much biblical background. God chose Abraham and promised that He would make a great nation out of his descendants and that all the nations of the earth would be blessed through him, and most of the Old Testament is tracking the fulfillment of this promise in Israel. However, what a lot of people don't pay as much attention to is the context out of which God chose Abraham.

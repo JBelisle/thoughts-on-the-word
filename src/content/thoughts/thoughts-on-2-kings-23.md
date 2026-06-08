@@ -6,7 +6,7 @@ reading:
   - "Hebrews 1-2"
 passages:
   - "2 Kings 23"
-summary: "Reading 2 Kings 23 this morning, I couldn’t help but be astounded at just how far gone Judah was spiritually, and that evidently without knowing it…"
+summary: "Astonishment at how far Judah had fallen by Josiah's reign — not merely worshipping other gods but filling Yahweh's own temple with the vessels, altars, and cult shrines of Baal and Asherah, apparently without sensing anything was wrong."
 ---
 
 Reading 2 Kings 23 this morning, I couldn’t help but be astounded at just how far gone Judah was spiritually, and that evidently without knowing it…

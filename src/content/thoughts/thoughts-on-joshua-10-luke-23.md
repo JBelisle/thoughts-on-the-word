@@ -7,7 +7,7 @@ reading:
 passages:
   - "Joshua 10"
   - "Luke 23"
-summary: "Both of our passages today highlight the two major ways we can respond to the works of God: Allowing our hearts to be softened and swayed by them, or…"
+summary: "Two responses to the works of God — the Gibeonites and the criminal on the cross soften toward the evidence while the surrounding kings and the crowds before Pilate harden their hearts — with practical reflection on sharing the gospel with the unwilling."
 ---
 
 Both of our passages today highlight the two major ways we can respond to the works of God: Allowing our hearts to be softened and swayed by them, or hardening our hearts against them.

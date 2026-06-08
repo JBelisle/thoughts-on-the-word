@@ -7,7 +7,7 @@ reading:
 passages:
   - "Deuteronomy 34"
   - "Luke 13"
-summary: "I know this is kind of a blunt question, but how ready are you to die?"
+summary: "Moses' death in Deuteronomy 34 reads as melancholy but not sad because he was ready — and Jesus' warning in Luke 13 to enter the narrow door while it is still open presses the question of whether we are prepared for the moment the door shuts."
 ---
 
 I know this is kind of a blunt question, but how ready are you to die?

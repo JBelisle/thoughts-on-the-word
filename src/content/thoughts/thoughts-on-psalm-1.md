@@ -6,7 +6,7 @@ reading:
   - "2 Peter 1"
 passages:
   - "Psalm 1"
-summary: "I love the imagery from Psalm 1 of a tree planted by streams of water."
+summary: "A meditation on Psalm 1's image of the tree planted by streams of water — how meditating on God's Word sinks our roots into a foundation that cannot be shaken, however hard the storms of life may blow."
 ---
 
 I love the imagery from Psalm 1 of a tree planted by streams of water.

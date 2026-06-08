@@ -6,7 +6,7 @@ reading:
   - "James 1"
 passages:
   - "Numbers 20"
-summary: "God, by his own choice, partners with others to accomplish His work. This is not out of need or lack on His part, but purely because He desires to do it. We…"
+summary: "God delights to partner with people in His work, honoring their choices as He led Israel around Edom — but Moses striking the rock in Numbers 20 warns how easily we drift from grateful partnership into prideful self-sufficiency that takes credit for what God does."
 ---
 
 God, by his own choice, partners with others to accomplish His work. This is not out of need or lack on His part, but purely because He desires to do it. We see multiple times in the Old Testament where He leaves it to His divine council to decide how to enact His will, and then to carry it out (e.g. 1 Kings 22). We also see, throughout the Scriptures, that God empowers and uses people to enact His will and purposes on earth. This was the case right from the very beginning when we are told that God created the earth, but then created Adam and Eve and gave them the task of being fruitful, multiplying, filling the earth, and subduing it. God created the world, He was certainly capable of subduing it and turning the entire world into the Edenic vision from the outset, but He delights instead to leave that meaningful work to His image bearers as partners with Him in the work.

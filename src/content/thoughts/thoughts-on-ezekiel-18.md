@@ -6,7 +6,7 @@ reading:
   - "2 Corinthians 13"
 passages:
   - "Ezekiel 18"
-summary: "It’s passages like this one, in Ezekiel 18, that have changed the way I think about the cross."
+summary: "If Ezekiel 18 says God will not punish one person for another's sin, how can Jesus bear our sin on the cross? Working through the atonement in terms of debt — Jesus accumulating human death of His own that He can then choose to spend covering ours."
 ---
 
 It’s passages like this one, in Ezekiel 18, that have changed the way I think about the cross.

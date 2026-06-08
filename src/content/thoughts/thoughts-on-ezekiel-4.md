@@ -6,7 +6,7 @@ reading:
   - "1 Corinthians 14"
 passages:
   - "Ezekiel 4"
-summary: "I’m impressed and challenged by Ezekiel’s heart of faithful obedience to the Lord in Ezekiel 4. God goes through a whole list of signs Ezekiel is to…"
+summary: "Ezekiel's readiness to obey God's strange and uncomfortable sign-acts in chapter 4 — lying on his side for 390 days, eating siege rations — raising only the gentlest objection, as a challenge to our own instinct to find excuses when God calls us to hard things."
 ---
 
 I’m impressed and challenged by Ezekiel’s heart of faithful obedience to the Lord in Ezekiel 4. God goes through a whole list of signs Ezekiel is to perform, which will not be fun or comfortable, and the only complaint he raises is about having to defile himself with unclean food, and even then, he doesn’t refuse, he just responds in alarm.

@@ -6,7 +6,7 @@ reading:
   - "1 Corinthians 11"
 passages:
   - "1 Corinthians 11"
-summary: "I’m pretty sure I’ve brought this up before, but when I read about the Lord’s supper, I can’t help but think we have something wrong when it comes to how we…"
+summary: "Paul's rebuke of the Corinthians for some going hungry while others got drunk suggests the Lord's supper was a full shared meal — and a reflection on how far quiet, solemn modern Communion may be from that intimate communal table."
 ---
 
 I’m pretty sure I’ve brought this up before, but when I read about the Lord’s supper, I can’t help but think we have something wrong when it comes to how we celebrate Communion today.

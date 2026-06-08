@@ -6,7 +6,7 @@ reading:
   - "Hebrews 3-4"
 passages:
   - "Nahum"
-summary: "For as much as we have seen and discussed lately the fact that God is not sitting up in heaven, excitedly looking around for an opportunity to judge, He is…"
+summary: "Nahum's oracle against Nineveh was written not for Assyria but to reassure a battered Israel that the God of justice is neither impotent nor finished with His people — He will punish Assyria's prideful cruelty and rescue a faithful remnant."
 ---
 
 For as much as we have seen and discussed lately the fact that God is not sitting up in heaven, excitedly looking around for an opportunity to judge, He is a God of justice and will not let evil go unpunished.

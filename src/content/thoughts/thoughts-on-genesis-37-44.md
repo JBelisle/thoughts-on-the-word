@@ -5,7 +5,7 @@ reading:
   - "Genesis 37-44"
 passages:
   - "Genesis 37-44"
-summary: "Reading this section of Genesis, the contrast between Reuben and Judah always stands out incredibly starkly to me."
+summary: "The stark contrast between Reuben and Judah across the Joseph narrative — Reuben's self-serving ineptitude set against Judah's transformation from callous selfishness into a man willing to trade his own life for his brother's."
 ---
 
 Reading this section of Genesis, the contrast between Reuben and Judah always stands out incredibly starkly to me.

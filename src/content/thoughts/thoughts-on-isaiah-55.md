@@ -6,7 +6,7 @@ reading:
   - "Revelation 19"
 passages:
   - "Isaiah 55"
-summary: "This is one of those truths that is easy to understand and acknowledge, but difficult to actually live out of day in and day out."
+summary: "Isaiah 55's declaration that God's thoughts and ways are higher than ours as the heavens are above the earth — a truth easy to acknowledge but hard to live, since sin is, at root, trusting our own wisdom over his moment by moment."
 ---
 
 > *For my thoughts are not your thoughts,*

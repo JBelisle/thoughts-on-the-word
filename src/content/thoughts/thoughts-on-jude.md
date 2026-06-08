@@ -6,7 +6,7 @@ reading:
   - "Jude 1"
 passages:
   - "Jude"
-summary: "Jude was not afraid to harshly call out those “Christians” who were leading others astray for the sake of personal gain, and we need to not be afraid to do…"
+summary: "Jude's unflinching condemnation of those who exploit the church for personal gain — not honest pastors with doctrinal differences — and why believers today must be unafraid to name false teaching and protect the flock from being led astray."
 ---
 
 Jude was not afraid to harshly call out those “Christians” who were leading others astray for the sake of personal gain, and we need to not be afraid to do the same today.

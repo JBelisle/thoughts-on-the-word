@@ -6,7 +6,7 @@ reading:
   - "1 Corinthians 13"
 passages:
   - "1 Corinthians 13"
-summary: "Fun fact: This was one of the first passages of Scripture I ever translated."
+summary: "Reading the love chapter alongside a personal translation, drawing out how Paul implicitly affirms the diversity of human gifting and drive — and how being refined by God's love does not erode individuality but lets it come fully into focus."
 ---
 
 Fun fact: This was one of the first passages of Scripture I ever translated.

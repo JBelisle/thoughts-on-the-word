@@ -6,7 +6,7 @@ reading:
   - "2 Corinthians 7"
 passages:
   - "2 Corinthians 7"
-summary: "I struggled with verses like this opening verse of 2 Corinthians 7 for a long time. I would read these verses and feel pretty far from any kind of…"
+summary: "On Paul's call to bring holiness to completion — why many activist evangelical churches, reacting against empty pietism, neglect the active pursuit of holiness, and why faithful service and a visibly distinct life of holiness both belong together."
 ---
 
 > *“Since we have these promises, beloved, let us cleanse ourselves from every defilement of body and spirit, bringing holiness to completion in the fear of God.”*

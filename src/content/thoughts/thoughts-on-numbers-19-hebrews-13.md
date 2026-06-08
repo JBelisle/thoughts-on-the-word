@@ -7,7 +7,7 @@ reading:
 passages:
   - "Numbers 19"
   - "Hebrews 13"
-summary: "Hebrews 13 is the kind of chapter I expect to write something different about any and every time we run into it in the reading plan because it is just a…"
+summary: "Why the uniquely strict cleansing rituals for corpse-contact in Numbers 19 teach that death itself is the essence of corruption with no place in Yahweh's domain — and how Hebrews 13's no lasting city should free modern Christians from building their kingdom here."
 ---
 
 Hebrews 13 is the kind of chapter I expect to write something different about any and every time we run into it in the reading plan because it is just a scatter shot of instructions and ideas as the author is wrapping up the letter, so I have a lot to pick from. Since I'm not trying to be exhaustive in these daily posts, that really means I'm just going to be writing about whatever piece of that scatter shot most strikes me that day. And this morning, what strikes me most is driven by what we also read this morning in Numbers 19, so let's start with that today.

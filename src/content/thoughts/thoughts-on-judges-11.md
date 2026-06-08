@@ -6,7 +6,7 @@ reading:
   - "Acts 23"
 passages:
   - "Judges 11"
-summary: "I have heard a lot of people struggle with Jephthah before, and I certainly get why; he starts out so strong and faithful to the Lord, but then his story…"
+summary: "Distinguishing a good example of faith from a good moral example — Jephthah genuinely trusts Yahweh yet sacrifices his daughter, and like David he shows that God works through deeply flawed people whose sins remain cautionary tales."
 ---
 
 I have heard a lot of people struggle with Jephthah before, and I certainly get why; he starts out so strong and faithful to the Lord, but then his story ends tragically with him actively sacrificing his daughter to God...  How could God choose someone like *THAT* to raise up as a judge??? What kind of example is he??

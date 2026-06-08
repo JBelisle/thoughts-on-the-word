@@ -6,7 +6,7 @@ reading:
   - "Romans 15"
 passages:
   - "Jeremiah 40"
-summary: "There is a bit near the end of Jeremiah 40 that is a great example of why we should be reading the Bible like we read fiction. I don’t say “like fiction” in…"
+summary: "Why we should read Scripture like fiction — watching for woven themes and payoffs — using the small regathering of Judeans at the end of Jeremiah 40, which Jeremiah frames in his return-from-exile language as a first installment of the greater regathering God promised."
 ---
 
 There is a bit near the end of Jeremiah 40 that is a great example of why we should be reading the Bible like we read fiction. I don’t say “like fiction” in terms of not believing these are actual events that actually occurred, but in terms of watching for and seeing the themes and ideas the authors are weaving into the broader story they are telling.

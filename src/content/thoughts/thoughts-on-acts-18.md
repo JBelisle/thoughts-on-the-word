@@ -6,7 +6,7 @@ reading:
   - "Acts 18"
 passages:
   - "Acts 18"
-summary: "The last couple chapters of Acts have had me thinking about how the willing suffering of a few faithful believers can open the door to the flourishing of…"
+summary: "How the willing suffering of a few faithful believers opens doors for the gospel to flourish — Paul and Silas accepting an illegal beating in Philippi, the scattering that brought Priscilla and Aquila into the story, and how our own afflictions can become others' path to grace."
 ---
 
 The last couple chapters of Acts have had me thinking about how the willing suffering of a few faithful believers can open the door to the flourishing of the gospel in the broader community.

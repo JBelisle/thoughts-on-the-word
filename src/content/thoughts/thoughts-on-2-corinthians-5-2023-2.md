@@ -6,7 +6,7 @@ reading:
   - "2 Corinthians 5"
 passages:
   - "2 Corinthians 5"
-summary: "It struck me today just how much my perspective has changed to align with Paul’s over the years when I read his statement in 2 Corinthians 5, “\\[We\\] would…"
+summary: "How Paul's longing to be away from the body and at home with the Lord shifted over fifteen years from intellectual assent to heartfelt yearning — driven by a deepening awareness of personal sin and the brokenness of the world."
 ---
 
 It struck me today just how much my perspective has changed to align with Paul’s over the years when I read his statement in 2 Corinthians 5, “\[We\] would prefer to be away from the body and at home with the Lord.”

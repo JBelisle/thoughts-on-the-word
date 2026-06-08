@@ -7,7 +7,7 @@ reading:
 passages:
   - "Numbers 15"
   - "Hebrews 9"
-summary: "Today’s reading is a great example of why I really like reading different parts of Scripture simultaneously. There are just certain connections that are so…"
+summary: "Numbers 15's lack of any sacrifice for high-handed sin clarifies Hebrews 9 — the Levitical system only cleansed ritual impurity, never moral guilt, so Jesus' once-for-all sacrifice is not merely longer-lasting but categorically greater, making us morally clean."
 ---
 
 Today’s reading is a great example of why I really like reading different parts of Scripture simultaneously. There are just certain connections that are so much clearer when you are reading two passages at the same time, and today’s combination of Numbers 15 and Hebrews 9 is actually a pretty important one.

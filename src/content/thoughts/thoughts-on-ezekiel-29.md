@@ -6,7 +6,7 @@ reading:
   - "Ephesians 5"
 passages:
   - "Ezekiel 29"
-summary: "Pharaoh being described in Leviathan imagery is really fascinating as the torch of being the primary agent of chaos passes from Egypt to Babylon."
+summary: "Pharaoh cast as Leviathan, the sea-dragon of chaos opposing God's ordered creation, in Ezekiel 29 — tracing the imagery from the Exodus through Egypt's role as enemy of God's people, and the surprising mercy of Egypt's promised restoration."
 ---
 
 Pharaoh being described in Leviathan imagery is really fascinating as the torch of being the primary agent of chaos passes from Egypt to Babylon.

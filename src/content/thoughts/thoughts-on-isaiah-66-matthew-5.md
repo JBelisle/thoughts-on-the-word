@@ -7,7 +7,7 @@ reading:
 passages:
   - "Isaiah 66"
   - "Matthew 5"
-summary: "God is primarily interested in the alignment of our hearts with Him, rather than in our compliance with or avoidance of a certain set of actions or activities."
+summary: "How Isaiah 66 and Matthew 5 together address both sides of religious self-deception — heartless ritual compliance and the false confidence of merely avoiding sin — to show that God cares first about the alignment of the heart with Him."
 ---
 
 God is primarily interested in the alignment of our hearts with Him, rather than in our compliance with or avoidance of a certain set of actions or activities.

@@ -6,7 +6,7 @@ reading:
   - "2 Peter 2"
 passages:
   - "2 Peter 2"
-summary: "Reading 2 Peter 2 this morning really just makes me sad for the state of the church today, at least in the US."
+summary: "The greed, lust, and contempt for authority that Peter in 2 Peter 2 expected to be the sneaking exception in his churches have become the accepted norm in many churches today — and a lament over congregations that no longer ask whether the Bible or the culture holds final authority."
 ---
 
 Reading 2 Peter 2 this morning really just makes me sad for the state of the church today, at least in the US.

@@ -6,7 +6,7 @@ reading:
   - "1 Corinthians 13"
 passages:
   - "1 Corinthians 13"
-summary: "I feel like 1 Corinthians 13 is a truth that I am only now really starting to understand."
+summary: "A candid reflection on drawing identity from performance even in godly pursuits, and the freedom of realizing that knowing the Bible or praying well counts for nothing without love — the very thing God prizes most highly."
 ---
 
 I feel like 1 Corinthians 13 is a truth that I am only now really starting to understand.

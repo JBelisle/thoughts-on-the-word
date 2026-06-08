@@ -6,7 +6,7 @@ reading:
   - "2 Timothy 4"
 passages:
   - "1 Kings 20"
-summary: "As I was reading 1 Kings 20, there was a part of me screaming, “What?? Why would you give a miraculous victory to such a faithless and degenerate king as…"
+summary: "Why God grants the faithless Ahab victory over Syria not as a blessing but to defend His own glory — refuting the Syrians' belief that Yahweh was merely a god of the hills, a jealous guarding of His name He later extends even to the Babylonians."
 ---
 
 As I was reading 1 Kings 20, there was a part of me screaming, “What?? Why would you give a miraculous victory to such a faithless and degenerate king as Ahab??”

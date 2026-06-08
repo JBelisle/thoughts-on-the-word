@@ -6,7 +6,7 @@ reading:
   - "1 Peter 1"
 passages:
   - "1 Peter 1"
-summary: "Given how comfort-seeking and suffering-averse our culture is, it cuts a sharp contrast to read Peter, along with so many other New Testament authors,…"
+summary: "Peter calls not faith itself but the tested genuineness of faith more precious than gold — echoed by James and Paul, the New Testament's counter-cultural insistence that suffering refines faith, and an honest admission of needing God to reshape that perspective."
 ---
 
 Given how comfort-seeking and suffering-averse our culture is, it cuts a sharp contrast to read Peter, along with so many other New Testament authors, writing that the testing of our faith through suffering is incredibly valuable.

@@ -6,7 +6,7 @@ reading:
   - "Ephesians 2"
 passages:
   - "Ecclesiastes 12"
-summary: "When we get to the end of Ecclesiastes, once the words of the Preacher are finished, we hear again from the author why he chose to write these words down."
+summary: "The epilogue of Ecclesiastes ties its cynicism to a single Shepherd — wisdom as goads that keep us on course rather than a checklist, and the closing call to fear God and keep his commandments because every deed will face judgment and faithfulness will be rewarded."
 ---
 
 When we get to the end of Ecclesiastes, once the words of the Preacher are finished, we hear again from the author why he chose to write these words down.

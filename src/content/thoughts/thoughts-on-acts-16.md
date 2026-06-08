@@ -6,7 +6,7 @@ reading:
   - "Acts 16"
 passages:
   - "Acts 16"
-summary: "Acts 16 opens kind of oddly given what we just read in Acts 15..."
+summary: "Why Paul circumcised Timothy in Acts 16 right after the Jerusalem council ruled circumcision unnecessary for salvation — not a contradiction, but a strategic move so the gospel would gain a proper hearing among the Jews they were trying to reach."
 ---
 
 Acts 16 opens kind of oddly given what we just read in Acts 15...

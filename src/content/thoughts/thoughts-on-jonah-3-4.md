@@ -6,7 +6,7 @@ reading:
   - "Mark 13"
 passages:
   - "Jonah 3-4"
-summary: "The end of the book of Jonah is a great reminder that God has a very different perspective than we do."
+summary: "Jonah was right that Assyria deserved judgment, yet God's mercy toward 120,000 Ninevite image-bearers reframes the problem of evil — and challenges us to trust God's goodness even when we get no peek behind the curtain."
 ---
 
 The end of the book of Jonah is a great reminder that God has a very different perspective than we do.

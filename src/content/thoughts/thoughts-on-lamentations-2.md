@@ -6,7 +6,7 @@ reading:
   - "2 Corinthians 9-10"
 passages:
   - "Lamentations 2"
-summary: "There are two things Lamentations has gotten me thinking about this morning: (1) the nature of God’s judgement, and (2) the danger of spiritual authorities…"
+summary: "Two reflections from Lamentations 2 — that God's judgement often works by withdrawing protection and giving people over to natural consequences rather than actively striking them, and the danger of prophets and pastors who flatter rather than expose sin."
 ---
 
 There are two things Lamentations has gotten me thinking about this morning: (1) the nature of God’s judgement, and (2) the danger of spiritual authorities being unwilling to stand on the truth.

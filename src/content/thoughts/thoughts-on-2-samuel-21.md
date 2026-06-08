@@ -6,7 +6,7 @@ reading:
   - "Ephesians 4"
 passages:
   - "2 Samuel 21"
-summary: "There are two things that come up in 2 Samuel 21 that I want to talk about this morning: The famine being God’s judgement as a result of sin in Israel, and…"
+summary: "Why the three-year famine in 2 Samuel 21 was legitimate ground for David to seek God's verdict given the covenant promises to Israel in the land — though that pattern cannot be used to read disasters as judgment elsewhere — plus a look at why Saul's whole house shared the Gibeonite bloodguilt."
 ---
 
 There are two things that come up in 2 Samuel 21 that I want to talk about this morning: The famine being God’s judgement as a result of sin in Israel, and the way that sin is atoned for.

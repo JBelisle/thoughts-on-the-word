@@ -6,7 +6,7 @@ reading:
   - "James 2"
 passages:
   - "James 2"
-summary: "I want to talk about the infamous faith and works section of James 2 this morning."
+summary: "Reading James 2 as Jewish wisdom literature to argue that James does not teach works-based salvation but that genuine saving faith will be evidenced by works — and why Evangelicals too quickly skip the passage's real challenge."
 ---
 
 I want to talk about the infamous faith and works section of James 2 this morning.

@@ -7,7 +7,7 @@ reading:
 passages:
   - "Exodus 24"
   - "Galatians 2"
-summary: "Normally when I have thoughts on both passages, they are separate thoughts/posts, they just get put together because it’s one day’s reading, but today,…"
+summary: "Israel at Sinai in Exodus 24 had the most powerful spiritual experiences imaginable yet still made the golden calf — proof, read alongside Galatians 2, that a spiritual high cannot change the heart, since what we need is not a visitation but a new heart in Christ."
 ---
 
 Normally when I have thoughts on both passages, they are separate thoughts/posts, they just get put together because it’s one day’s reading, but today, Galatians 2 kind of finished my thoughts on Exodus 24.

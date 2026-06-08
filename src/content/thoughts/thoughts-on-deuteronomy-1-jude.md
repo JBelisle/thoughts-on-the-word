@@ -7,7 +7,7 @@ reading:
 passages:
   - "Deuteronomy 1"
   - "Jude"
-summary: "I don’t really have thoughts on Deuteronomy 1 this morning so much as I have a question that I’m trying to figure out."
+summary: "Wrestling with why Deuteronomy 1 credits the people for the idea to send spies while Numbers 13 presents it as God's command — plus the striking, near-plagiaristic overlap between Jude and 2 Peter 2 and what it suggests about the two writers."
 ---
 
 ## Question on Deuteronomy 1

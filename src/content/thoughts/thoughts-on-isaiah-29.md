@@ -6,7 +6,7 @@ reading:
   - "1 John 5"
 passages:
   - "Isaiah 29"
-summary: "God is not primarily concerned with our knowing and following the rules. Yes, He does call us to obedience, but His primary concern is our hearts."
+summary: "Israel honoring God with their lips while their hearts are far from him, their reverence a commandment taught by men — and how the church errs both by reducing faith to rule-keeping and by dismissing obedience, when God wants obedience that springs from the heart."
 ---
 
 God is not primarily concerned with our knowing and following the rules. Yes, He does call us to obedience, but His primary concern is our hearts.

@@ -7,7 +7,7 @@ reading:
 passages:
   - "Exodus 37"
   - "Philippians 3"
-summary: "My thoughts on the passages today are unrelated, and my Exodus thoughts are short, but I think helpful, so I’m just going to get that out of the way first."
+summary: "How the slow pacing of Hebrew narrative (like the tabernacle construction) signals importance rather than tedium — paired with Paul's claim in Philippians 3 that knowing Christ surpasses all things, and what that means for striving after righteousness without fear of losing salvation."
 ---
 
 My thoughts on the passages today are unrelated, and my Exodus thoughts are short, but I think helpful, so I’m just going to get that out of the way first.

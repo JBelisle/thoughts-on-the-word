@@ -6,7 +6,7 @@ reading:
   - "1 Corinthians 7"
 passages:
   - "Jeremiah 48"
-summary: "Why is Jeremiah pronouncing an oracle against Moab when Moab has nothing to do with Israel’s current situation?"
+summary: "Why God pronounces judgment on Moab — and promises to restore it — because the Abrahamic nations beyond Israel, roped in through Lot, were also meant to belong to Yahweh and not chase after gods like Chemosh."
 ---
 
 Why is Jeremiah pronouncing an oracle against Moab when Moab has nothing to do with Israel’s current situation?

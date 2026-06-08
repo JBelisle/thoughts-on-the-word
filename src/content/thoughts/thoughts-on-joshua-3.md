@@ -6,7 +6,7 @@ reading:
   - "Luke 16"
 passages:
   - "Joshua 3"
-summary: "I have never really thought before about just how important of a miracle the crossing of the Jordan must have been for Israel."
+summary: "Beyond validating Joshua and easing Israel's crossing, the parting of the Jordan may have most importantly assured a people who had repeatedly provoked Yahweh that He would not abandon them now that Moses, their intercessor, was gone."
 ---
 
 I have never really thought before about just how important of a miracle the crossing of the Jordan must have been for Israel.

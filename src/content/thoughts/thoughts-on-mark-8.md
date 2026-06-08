@@ -6,7 +6,7 @@ reading:
   - "Mark 8"
 passages:
   - "Mark 8"
-summary: "I really love and deeply appreciate how ordinary Jesus' disciples were."
+summary: "Finding encouragement in how ordinary and faithless the disciples often were — forgetting the feeding of the 5000 even as they fretted over bread — proof that God uses messy, fickle people who keep placing their hearts in his hands."
 ---
 
 I really love and deeply appreciate how ordinary Jesus' disciples were.

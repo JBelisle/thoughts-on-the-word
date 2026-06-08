@@ -6,7 +6,7 @@ reading:
   - "Hebrews 12"
 passages:
   - "Zechariah 1"
-summary: "I’m not entirely sure if I’m thinking about this the right way, so I would love peoples’ thoughts on today’s post even more than normal, but I have been…"
+summary: "Wrestling with God's anger in Zechariah 1 at the nations that went too far in punishing Israel — proposing that when God fully gives a people over to their rebellion, he stops throttling the consequences, a sobering warning for believers who ignore his repeated calls to repent."
 ---
 
 I’m not entirely sure if I’m thinking about this the right way, so I would love peoples’ thoughts on today’s post even more than normal, but I have been hung up all day on this verse:

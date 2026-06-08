@@ -6,7 +6,7 @@ reading:
   - "1 Corinthians 9"
 passages:
   - "1 Corinthians 9"
-summary: "I strongly dislike 1 Corinthians 9:8-10…"
+summary: "Agreeing that Christian workers deserve support but wrestling with how Paul argues it — his claim that the do-not-muzzle-the-ox command of Deuteronomy 25 was not really about oxen, read instead as an a fortiori from animal to human labor."
 ---
 
 I strongly dislike 1 Corinthians 9:8-10…

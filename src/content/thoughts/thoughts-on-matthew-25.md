@@ -6,7 +6,7 @@ reading:
   - "Matthew 25"
 passages:
   - "Matthew 25"
-summary: "Comparing yourself, your progress, or your \"output\" to other Christians is never a good measure of spiritual health."
+summary: "In the parable of the talents the master praises both faithful servants equally despite different returns — a reminder that God measures faithfulness with what we have been given, not our output compared to other Christians."
 ---
 
 Comparing yourself, your progress, or your "output" to other Christians is never a good measure of spiritual health.

@@ -6,7 +6,7 @@ reading:
   - "Titus 1-2"
 passages:
   - "1 Kings 21"
-summary: "I have never really considered before how much Ahab killing Naboth for his vineyard mirrors David killing Uriah for his wife."
+summary: "How Ahab's murder of Naboth for his vineyard mirrors David's murder of Uriah — and the more startling truth that God accepts the faithless Ahab's repentance just as He did David's, since forgiveness rests on His mercy, not on accrued merit."
 ---
 
 I have never really considered before how much Ahab killing Naboth for his vineyard mirrors David killing Uriah for his wife.

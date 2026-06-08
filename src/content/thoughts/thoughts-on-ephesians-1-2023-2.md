@@ -6,7 +6,7 @@ reading:
   - "Ephesians 1"
 passages:
   - "Ephesians 1"
-summary: "Ephesians 1 is densely packed with important theological truths. Paul goes on and on and on about all that is true of us and all that we now have in Christ.…"
+summary: "It is easy to read Ephesians 1 mining it for all that is true of us in Christ and miss that Paul frames the whole list as praise to God — our excitement over identity truths should overflow back to the One who gave them."
 ---
 
 Ephesians 1 is densely packed with important theological truths. Paul goes on and on and on about all that is true of us and all that we now have in Christ. This chapter an incredible and exciting list of truths that would be easy to spend weeks or months just thinking about and meditating on. But because of that, there is one important thing that is easy, for me at least, to gloss over and completely miss: Paul writes all of this as praise to God.

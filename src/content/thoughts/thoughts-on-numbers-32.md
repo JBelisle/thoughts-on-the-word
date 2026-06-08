@@ -6,7 +6,7 @@ reading:
   - "1 John 3"
 passages:
   - "Numbers 32"
-summary: "The interaction we see in Numbers 32 this morning is really interesting to me because we see an unexpected humility from the Israelites."
+summary: "When Reuben, Gad, and half-Manasseh ask to settle east of the Jordan, Moses assumes rebellion — but their humble, non-defensive response to his harsh rebuke signals a new, faithful generation of Israel, and models receiving hard words without retaliating."
 ---
 
 The interaction we see in Numbers 32 this morning is really interesting to me because we see an unexpected humility from the Israelites.

@@ -6,7 +6,7 @@ reading:
   - "Titus 1-2"
 passages:
   - "Ezra 6"
-summary: "Were something similar to happen today, would you see the actions and response of Darius as the movement of God on your behalf, or simply as government…"
+summary: "Would we see Darius funding the temple in Ezra 6 as God's hand or just bureaucracy doing its job? A reflection on how the safety nets of modern Western life crowd out prayer, and on bringing God into even the areas we think we have under control."
 ---
 
 Were something similar to happen today, would you see the actions and response of Darius as the movement of God on your behalf, or simply as government processes doing their thing, and you’d just be glad Darius had actually checked the archives to find Cyrus’ decree?

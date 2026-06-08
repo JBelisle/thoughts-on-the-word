@@ -6,7 +6,7 @@ reading:
   - "Romans 9"
 passages:
   - "Job 4-5"
-summary: "Job and his friends all believe that God runs the world as a closed system of just retribution, and Job’s situation essentially polarizes them into a couple…"
+summary: "How Eliphaz's gentle accusation flows naturally from the shared belief that God runs the world by strict just retribution — and why Job's calamity, which also killed innocent children and servants, should make us doubt the world works that way at all."
 ---
 
 Job and his friends all believe that God runs the world as a closed system of just retribution, and Job’s situation essentially polarizes them into a couple camps as to how they are going to fit all that is happening into that framework.

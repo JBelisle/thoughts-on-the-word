@@ -6,7 +6,7 @@ reading:
   - "Luke 21"
 passages:
   - "Psalm 110"
-summary: "Reading Psalm 110 this morning just makes me wonder if Israel would have fared any better spiritually if Moses had listened when God first called him and…"
+summary: "Wondering whether Israel would have fared better had the priesthood never been split from the throne — a division born of Moses' reluctance, and one that Psalm 110's priest-king Messiah after the order of Melchizedek ultimately undoes."
 ---
 
 Reading Psalm 110 this morning just makes me wonder if Israel would have fared any better spiritually if Moses had listened when God first called him and the priesthood had never been split out from the throne.

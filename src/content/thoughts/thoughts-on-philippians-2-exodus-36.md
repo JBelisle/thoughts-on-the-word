@@ -7,7 +7,7 @@ reading:
 passages:
   - "Philippians 2"
   - "Exodus 36"
-summary: "What would it look like if God’s people took the first paragraph of Philippians 2 to heart and lived it out faithfully?"
+summary: "Counting others more important than ourselves, with Christ's self-emptying as the model — and how the building of the tabernacle in Exodus 36 pictures a community whose interdependent gifts meet needs no individual could meet alone."
 ---
 
 What would it look like if God’s people took the first paragraph of Philippians 2 to heart and lived it out faithfully?

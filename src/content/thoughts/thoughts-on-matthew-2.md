@@ -6,7 +6,7 @@ reading:
   - "Matthew 2"
 passages:
   - "Matthew 2"
-summary: "I have never thought about this before, but I was realizing this morning that the events of Matthew 2, the wise men bringing gifts and finding Jesus, and…"
+summary: "How Joseph's trade as a craftsman may explain why the family lingered in Bethlehem long enough for the wise men to arrive a year or more later — and how his portable skills equipped them for the flight to Egypt."
 ---
 
 I have never thought about this before, but I was realizing this morning that the events of Matthew 2, the wise men bringing gifts and finding Jesus, and then Herod killing all the male babies under 2 around Bethlehem, only really happen because Joseph is a craftsman.

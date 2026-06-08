@@ -6,7 +6,7 @@ reading:
   - "John 14"
 passages:
   - "2 Kings 15"
-summary: "It kind of feels a little wrong to not write about John 14 this morning. It is such an important passage of Scripture, and has so much weighty truth in it,…"
+summary: "God's faithfulness to His promise that Jehu's sons would hold Israel's throne to the fourth generation — kept in full even as every one of those kings did evil, and what that guarantees about God's promises to us in Christ."
 ---
 
 It kind of feels a little wrong to not write about John 14 this morning. It is such an important passage of Scripture, and has so much weighty truth in it, but as I’ve prayed about what to write about, my thoughts just keep coming back to the same thing in 2 Kings 15. No matter how many times I’ve said, “No, the stuff in John 14 is more important, what should I write about out of there?” I still come back to 2 Kings. So I guess I’m writing about 2 Kings 15 this morning 🤷‍♂️

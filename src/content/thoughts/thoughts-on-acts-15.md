@@ -6,7 +6,7 @@ reading:
   - "Acts 15"
 passages:
   - "Acts 15"
-summary: "I’m struck this morning in Acts 15 by both the fight for unity in ministry, as well as the willingness to separate in disagreement in ministry, and I think…"
+summary: "How Acts 15 holds together two things that both come from the Lord — the Jerusalem council fighting for unity on whether Gentiles must be circumcised to be saved, and Paul and Barnabas splitting over John Mark — and why God may genuinely want believers to want opposing things."
 ---
 
 I’m struck this morning in Acts 15 by both the fight for unity in ministry, as well as the willingness to separate in disagreement in ministry, and I think it’s important to recognize that both can be from the Lord.

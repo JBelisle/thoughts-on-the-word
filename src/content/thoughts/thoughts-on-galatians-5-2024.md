@@ -6,7 +6,7 @@ reading:
   - "Galatians 5"
 passages:
   - "Galatians 5"
-summary: "I have spent a lot more time, in my Christian life, contemplating the technical structure of the fruit of the Spirit than I have contemplating whether or…"
+summary: "Confessing a tendency to fixate on the grammar of the fruit of the Spirit — singular, not plural — while avoiding the harder question of whether that fruit is actually present, and a call to expect real, supernatural transformation from the Spirit within."
 ---
 
 I have spent a lot more time, in my Christian life, contemplating the technical structure of the fruit of the Spirit than I have contemplating whether or not it is actually present in my life…

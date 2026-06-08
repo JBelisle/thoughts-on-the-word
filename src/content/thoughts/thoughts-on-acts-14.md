@@ -6,7 +6,7 @@ reading:
   - "Acts 14"
 passages:
   - "Acts 14"
-summary: "Today’s post would probably be better named “Confusion on Fasting,” because that’s really what I’m stuck on out of the passage."
+summary: "Sitting in honest confusion about fasting — how often the early church in Acts fasted at major decisions, yet Scripture never commands it or explains its purpose, leaving open questions about what it accomplishes and how it should be practiced."
 ---
 
 Today’s post would probably be better named “Confusion on Fasting,” because that’s really what I’m stuck on out of the passage.

@@ -6,7 +6,7 @@ reading:
   - "Revelation 22"
 passages:
   - "Deuteronomy 20"
-summary: "Moses' instructions for Israel about going to battle have an important challenge for us today in them."
+summary: "Deuteronomy 20's command not to fear a larger army rests entirely on Yahweh being real and supreme over every other nation's gods — posing a question of faith that still challenges believers to step out and trust God's promises today."
 ---
 
 Moses' instructions for Israel about going to battle have an important challenge for us today in them.

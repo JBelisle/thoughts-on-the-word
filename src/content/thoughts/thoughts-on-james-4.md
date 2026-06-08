@@ -6,7 +6,7 @@ reading:
   - "James 3-4"
 passages:
   - "James 4"
-summary: "James’ command not to judge our neighbors is not an instruction to refuse to call sin sin."
+summary: "Arguing that James 4's command not to judge our neighbor concerns who enters Heaven, which belongs to God alone — not a license for churches to refuse to call sin what God calls sin, since James himself does so freely."
 ---
 
 James’ command not to judge our neighbors is not an instruction to refuse to call sin sin.

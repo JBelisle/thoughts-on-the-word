@@ -6,7 +6,7 @@ reading:
   - "Acts 13"
 passages:
   - "Judges 1"
-summary: "Judges 1 is really important context to keep in mind as we start making our way into this book."
+summary: "The opening catalog of peoples Israel failed to drive out sets up the whole book — their partial, unexcused faithlessness, even Judah's fear of iron chariots, is the root from which all of Judges' coming cycles of trouble grow."
 ---
 
 Judges 1 is really important context to keep in mind as we start making our way into this book.

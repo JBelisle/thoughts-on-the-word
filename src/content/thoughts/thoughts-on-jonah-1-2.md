@@ -6,7 +6,7 @@ reading:
   - "Mark 12"
 passages:
   - "Jonah 1-2"
-summary: "Jonah gives us a really potent picture of how spiritual rebellion leads us to act and operate in ways that directly contradict what we would know and desire…"
+summary: "Jonah, a prophet who knew Yahweh as creator of sea and dry land, still fled — illustrating the insanity of rebellion, where sin leads us to abandon what we know to be true and try to hide from a God who pursues us anyway."
 ---
 
 Jonah gives us a really potent picture of how spiritual rebellion leads us to act and operate in ways that directly contradict what we would know and desire in any other circumstance.

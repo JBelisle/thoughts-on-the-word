@@ -7,7 +7,7 @@ reading:
 passages:
   - "2 Chronicles 1"
   - "2 Peter 1"
-summary: "I always feel like Solomon should have finished better than he did, and I think 2 Peter 1 gives us a good indication as to why he didn’t."
+summary: "Why Solomon, granted unmatched wisdom and knowledge, still failed to finish well — read through 2 Peter 1, where knowledge is only one of several qualities to be supplemented by virtue, self-control, and love, and a sobering caution against treating Bible knowledge as a substitute for faithful living."
 ---
 
 I always feel like Solomon should have finished better than he did, and I think 2 Peter 1 gives us a good indication as to why he didn’t.

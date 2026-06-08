@@ -6,7 +6,7 @@ reading:
   - "2 Corinthians 4"
 passages:
   - "2 Corinthians 4"
-summary: "This passage always amazes me when I stop and think about what Paul is saying. In one breath he tells the Corinthians, “ We are afflicted in every way, but…"
+summary: "How Paul can call his afflictions light and momentary — not toughness or temperament, but a perspective fixed on the unseen and eternal, where the weight of coming glory dwarfs even the worst temporal suffering."
 ---
 
 This passage always amazes me when I stop and think about what Paul is saying. In one breath he tells the Corinthians, “ We are afflicted in every way, but not crushed; perplexed, but not driven to despair; persecuted, but not forsaken; struck down, but not destroyed…” and then in the next breath he refers to these things as, “light momentary affliction.” Especially when you know the kinds of experiences Paul is referring to when he says they were afflicted, perplexed, persecuted, and struck down, to call them light and momentary afflictions makes it seem like Paul has lost his mind.

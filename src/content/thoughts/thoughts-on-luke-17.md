@@ -6,7 +6,7 @@ reading:
   - "Luke 17"
 passages:
   - "Luke 17"
-summary: "One of the parables Jesus tells in Luke 17 has, for a very long time, been a strong check on my pride and entitlement. Actually, I'm not sure if it…"
+summary: "Jesus' image of the unworthy servant in Luke 17 as a check on spiritual pride — we are God's servants, not His employees, and even our best work is only our duty, a response to grace rather than a favor that earns His thanks."
 ---
 
 One of the parables Jesus tells in Luke 17 has, for a very long time, been a strong check on my pride and entitlement. Actually, I'm not sure if it technically counts as a parable... maybe just a metaphor? Either way, this is the paragraph I'm talking about:

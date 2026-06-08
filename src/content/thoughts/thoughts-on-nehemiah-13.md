@@ -6,7 +6,7 @@ reading:
   - "John 14"
 passages:
   - "Nehemiah 13"
-summary: "Nehemiah 13 is a really important reminder of how much of an influence one person’s choice to live faithfully for the Lord can have."
+summary: "As priests house Tobiah in the temple and the people abandon the Sabbath, Nehemiah 13 shows how one ordinary layman's faithfulness rights a spiritually collapsed Jerusalem — a case for every believer, not just clergy, standing in the gap."
 ---
 
 Nehemiah 13 is a really important reminder of how much of an influence one person’s choice to live faithfully for the Lord can have.

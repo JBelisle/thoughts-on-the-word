@@ -6,7 +6,7 @@ reading:
   - "Luke 5"
 passages:
   - "Luke 5"
-summary: "Luke 5 strikes me this morning with the different ways we allow our hearts to respond to Jesus; either letting our hearts be softened and swayed by…"
+summary: "Two heart responses to Jesus in Luke 5 — Peter, James, and John, who weigh real evidence and radically change their lives, against the scribes and Pharisees, who harden against the evidence to protect their expectations. Pushes back on the idea that the disciples followed in blind faith."
 ---
 
 Luke 5 strikes me this morning with the different ways we allow our hearts to respond to Jesus; either letting our hearts be softened and swayed by evidence, or hardening our hearts to the evidence having already decided what we will or won’t believe.

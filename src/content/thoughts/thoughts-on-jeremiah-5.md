@@ -6,7 +6,7 @@ reading:
   - "Matthew 10"
 passages:
   - "Jeremiah 5"
-summary: "When people talk disparagingly about God in the Old Testament seeming too harsh and ready to judge, I wonder if they really understand what people were…"
+summary: "Challenging the caricature of a harsh, judgment-hungry Old Testament God — Jeremiah 5 shows God seeking just one just person to spare Israel, and indicts the nations for idolatry, sexual immorality, and injustice toward the vulnerable, not petty offenses."
 ---
 
 When people talk disparagingly about God in the Old Testament seeming too harsh and ready to judge, I wonder if they really understand what people were being judged for...

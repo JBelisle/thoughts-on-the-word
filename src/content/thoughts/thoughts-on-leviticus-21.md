@@ -6,7 +6,7 @@ reading:
   - "Mark 2"
 passages:
   - "Leviticus 21"
-summary: "Leviticus 21 doesn’t sit well with me. Intellectually, I get it, and I don’t take issue with it, but it honestly takes a bit of an act of will to think…"
+summary: "Wrestling with the priesthood's exclusion of the disabled, infirm, and widows — arguing it was not a judgment on their worth but a way the priesthood taught truths about a God of wholeness and life, while He still explicitly included and provided for those same people."
 ---
 
 Leviticus 21 doesn’t sit well with me. Intellectually, I get it, and I don’t take issue with it, but it honestly takes a bit of an act of will to think about it properly.

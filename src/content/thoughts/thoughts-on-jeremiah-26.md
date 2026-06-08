@@ -6,7 +6,7 @@ reading:
   - "Romans 2"
 passages:
   - "Jeremiah 26"
-summary: "Our reading today in Jeremiah 26 highlights the importance of faithful spiritual leadership."
+summary: "Jeremiah 26 — where Jeremiah stands almost alone against Israel's priests and prophets — as a window into why the Old Testament holds leaders so accountable, and a challenge to Christians who, despite abundant access to Scripture, remain at the mercy of whatever they are taught."
 ---
 
 Our reading today in Jeremiah 26 highlights the importance of faithful spiritual leadership.

@@ -6,7 +6,7 @@ reading:
   - "Revelation 8"
 passages:
   - "Deuteronomy 8"
-summary: "First off, can I just say how satisfying it is to me whenever I am on a reading plan and the chapter numbers I am reading line up with one another??? It’s…"
+summary: "Moses warns Israel not to forget the Lord once they are rich and satisfied — and while Christians are not under Israel's land promises, the call to cultivate a remembered backlog of God's faithfulness and to steward everything as his gift still holds."
 ---
 
 First off, can I just say how satisfying it is to me whenever I am on a reading plan and the chapter numbers I am reading line up with one another??? It’s not quite as satisfying as when the chapter numbers line up with one another and with the day number, but that generally only happens for a bit when you start a new plan in January and you get that sweet sweet couple weeks of reading chapter 1 on January 1st, chapter 2 on January 2nd, and so on until the inevitable, sad day when you have to read two chapters from the same book in a day and your plan just might as well be over for all the joy that is lost that day… Anybody else? Or is this just a me thing…?

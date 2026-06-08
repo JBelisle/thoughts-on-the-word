@@ -6,7 +6,7 @@ reading:
   - "Titus 3"
 passages:
   - "Titus 3"
-summary: "The opening sentences of Titus chapter 3 are both really challenging, and also really convicting…"
+summary: "Working through the convicting commands of Titus 3 — submission to authorities, readiness for good works, speaking evil of no one, avoiding quarrels — and how remembering we were once just as lost dismantles any sense that some people are unworthy of God's grace."
 ---
 
 The opening sentences of Titus chapter 3 are both really challenging, and also really convicting…

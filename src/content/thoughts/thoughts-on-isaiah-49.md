@@ -6,7 +6,7 @@ reading:
   - "Revelation 15-16"
 passages:
   - "Isaiah 49"
-summary: "First of all, it’s December 25th, so Merry Christmas!"
+summary: "Isaiah 49's image of a nursing mother who could not forget her child — and how God promises that even were that possible, he would never forget Israel, an assurance Christians as his adopted children can lean on even more fully."
 ---
 
 First of all, it’s December 25th, so Merry Christmas!

@@ -6,7 +6,7 @@ reading:
   - "Ephesians 5"
 passages:
   - "2 Samuel 22"
-summary: "This song David sings to the Lord in 2 Samuel 22 is a really encouraging example of faithful humility."
+summary: "David's song in 2 Samuel 22 as a model of biblical humility that owns his accomplishments while crediting God's power behind them — and the self-reinforcing cycle in which trusting God and stepping out in faith deepens faith and yields still more."
 ---
 
 This song David sings to the Lord in 2 Samuel 22 is a really encouraging example of faithful humility.

@@ -6,7 +6,7 @@ reading:
   - "1 John 5"
 passages:
   - "1 John 5"
-summary: "I started this blog with the hope that it would help other people engage more with the Word, make a few more connections between various passages and ideas,…"
+summary: "An honest admission that 1 John 5 remains cryptic even after years of study — and an encouragement that not understanding a passage is fine, because the gospel John proclaims, that whoever has the Son has life, stays abundantly clear."
 ---
 
 I started this blog with the hope that it would help other people engage more with the Word, make a few more connections between various passages and ideas, and just generally come to enjoy the Word more than they have before. Maybe more than for anybody who reads these daily posts though, writing these has forced me deeper into the Scriptures than I would have otherwise gone. Today is the 95th day in a row putting one of these posts out, and while some days there is something in the reading that jumps off the page that I am excited to write about, other days are like today…

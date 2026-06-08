@@ -6,7 +6,7 @@ reading:
   - "Luke 18"
 passages:
   - "Joshua 5"
-summary: "Joshua’s interaction with the commander of the Lord’s army at the end of Joshua 5 is really interesting."
+summary: "The commander of the Lord's army accepts Joshua's worship, marking one of the Old Testament glimpses of two Yahwehs that predates the Trinity — and his answer of neither for nor against reveals God's heart for all nations, not just Israel."
 ---
 
 Joshua’s interaction with the commander of the Lord’s army at the end of Joshua 5 is really interesting.

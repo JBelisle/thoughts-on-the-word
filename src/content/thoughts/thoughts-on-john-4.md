@@ -6,7 +6,7 @@ reading:
   - "John 4"
 passages:
   - "John 4"
-summary: "The Samaritan woman at the well was exactly the kind of person we would likely write off as uninterested in Christianity, but she was one of the only people…"
+summary: "That Jesus made his most direct declaration of being the Messiah not to a learned Jew but to a sinful Samaritan woman at the well — a reminder not to decide in advance who will be open to the gospel, since the unlikeliest hearts are often the readiest."
 ---
 
 The Samaritan woman at the well was exactly the kind of person we would likely write off as uninterested in Christianity, but she was one of the only people that Jesus directly revealed His identity to, and she responded immediately and in a big way!

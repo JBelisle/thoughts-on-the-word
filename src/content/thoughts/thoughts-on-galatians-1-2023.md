@@ -6,7 +6,7 @@ reading:
   - "Galatians 1"
 passages:
   - "Galatians 1"
-summary: "There are a few things I wanted to write about this morning out of both of today’s passages. I love where we see God’s justice and mercy drawn out in His…"
+summary: "Wrestling with Galatians 1:10 and the impossibility of serving two masters — how the pull to please people rather than God divides the heart, and a longing for affections rooted more deeply in what Christ has done."
 ---
 
 > Am I now seeking the approval of men, or of God? Or am I trying to please men? If I were still trying to please men, I would not be a bondservant of Christ. (Galatians 1:10)

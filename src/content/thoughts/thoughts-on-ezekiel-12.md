@@ -6,7 +6,7 @@ reading:
   - "2 Corinthians 6"
 passages:
   - "Ezekiel 12"
-summary: "Today’s reading in Ezekiel puts me in mind of 2 Peter 3:9, where Peter says, “The Lord is not slow to fulfill his promise as some count slowness, but is…"
+summary: "The exiles in Ezekiel 12 dismissing God's word as empty talk even while living out the very judgment He warned of — read alongside 2 Peter 3 as a warning that God's patience is mercy, not impotence, and will not delay forever."
 ---
 
 Today’s reading in Ezekiel puts me in mind of 2 Peter 3:9, where Peter says, “The Lord is not slow to fulfill his promise as some count slowness, but is patient toward you, not wishing that any should perish, but that all should reach repentance.”

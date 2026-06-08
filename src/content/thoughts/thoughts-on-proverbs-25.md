@@ -6,7 +6,7 @@ reading:
   - "Romans 1"
 passages:
   - "Proverbs 25"
-summary: "Reading through Proverbs chapters 25 and 26 this morning I found it encouraging to consider how much of Jesus' wisdom came from this book."
+summary: "How much of Jesus' wisdom was drawn straight from Proverbs — challenging the instinct to credit his quick wit to his divinity rather than to a life so steeped in Scripture that believers, with the same Word and Spirit, can grow into the same wisdom."
 ---
 
 Reading through Proverbs chapters 25 and 26 this morning I found it encouraging to consider how much of Jesus' wisdom came from this book.

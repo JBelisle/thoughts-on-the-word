@@ -6,7 +6,7 @@ reading:
   - "James 3-4"
 passages:
   - "James 3"
-summary: "Especially since starting this blog, I think about James 3 a lot…"
+summary: "A personal reflection on James 3's warning that teachers will be judged with greater strictness — weighing the responsibility of writing daily public posts on Scripture, and an invitation to pray for humility and faithfulness in the task."
 ---
 
 Especially since starting this blog, I think about James 3 a lot…

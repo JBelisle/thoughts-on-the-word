@@ -6,7 +6,7 @@ reading:
   - "James 2"
 passages:
   - "James 2"
-summary: "How good is good enough to get to Heaven without Jesus?"
+summary: "Using James 2 to answer how good is good enough to reach Heaven on our own merit — that breaking the law at any single point makes one a transgressor, leaving everyone but Jesus dependent on grace through faith."
 ---
 
 How good is good enough to get to Heaven without Jesus?

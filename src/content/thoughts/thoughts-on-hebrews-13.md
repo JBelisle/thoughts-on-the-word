@@ -6,7 +6,7 @@ reading:
   - "Hebrews 13"
 passages:
   - "Hebrews 13"
-summary: "The life I default to wanting is not the life God is calling us to as Christians."
+summary: "Hebrews 13 as a foil to the American Dream and prosperity preaching — because God promises never to leave us, we can be free from the love of money and content with what we have, recognizing our deepest longings await the lasting city to come."
 ---
 
 The life I default to wanting is not the life God is calling us to as Christians.

@@ -6,7 +6,7 @@ reading:
   - "John 3"
 passages:
   - "2 Kings 4"
-summary: "It is fascinating to me to see God continue to work throughout the Biblical story in the same (or similar) ways to validate His prophets."
+summary: "How Elisha's miracles in 2 Kings 4 — purifying the stew, raising the boy, feeding a hundred from twenty loaves — echo Moses and prefigure Jesus, who performs the same wonders at far greater scale to validate His identity."
 ---
 
 It is fascinating to me to see God continue to work throughout the Biblical story in the same (or similar) ways to validate His prophets.

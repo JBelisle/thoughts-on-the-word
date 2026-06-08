@@ -6,7 +6,7 @@ reading:
   - "2 Corinthians 7"
 passages:
   - "Exodus 16"
-summary: "I never noticed before, until I was reading it this morning, that the instruction for the Israelites to gather twice as much manna on the 6th day doesn’t…"
+summary: "The double portion of manna on the sixth day arriving before the instruction to gather it — a picture of how God most often provides not while we sit waiting but as we faithfully move on what he has already given us."
 ---
 
 I never noticed before, until I was reading it this morning, that the instruction for the Israelites to gather twice as much manna on the 6th day doesn’t come until after they have already done it and come to Moses confused about it.

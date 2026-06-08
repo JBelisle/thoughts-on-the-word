@@ -6,7 +6,7 @@ reading:
   - "2 Peter 3"
 passages:
   - "2 Peter 3"
-summary: "The beginning of 2 Peter 3 points us to one reason why it is beyond important that we, as Christians, are regularly exposing ourselves to the Scriptures."
+summary: "Peter writes to remind his readers of the prophets and Christ's return because daily life makes eternity feel unreal — and how the distractions of modern life make regular time in Scripture even more vital for keeping our eyes fixed on what is unseen."
 ---
 
 The beginning of 2 Peter 3 points us to one reason why it is beyond important that we, as Christians, are regularly exposing ourselves to the Scriptures.

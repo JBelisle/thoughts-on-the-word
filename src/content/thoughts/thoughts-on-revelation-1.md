@@ -6,7 +6,7 @@ reading:
   - "Revelation 1"
 passages:
   - "Revelation 1"
-summary: "I don’t think there is any Christian doctrine I struggle to wrap my head around more than the Trinity. It is very clear from Scripture that the one true God…"
+summary: "Revelation 1:1 — God giving Jesus a revelation to pass on — reopens the puzzle of the Trinity, alongside Jesus not knowing the day or hour in Matthew 24, and why our inability to comprehend a transcendent God does not make what he reveals untrue."
 ---
 
 I don’t think there is any Christian doctrine I struggle to wrap my head around more than the Trinity. It is very clear from Scripture that the one true God exists eternally as the three persons of the Trinity; the Father, the Son (Jesus), and the Holy Spirit. All three are fully God, and yet each is distinct with separate roles and functions in their relationship. I have read multiple books on the Trinity, trying to understand how better to think about it, but every time I think I am starting to understand more clearly, I run across a passage that just reminds me that there are some things God simply has not revealed to us this side of Heaven, and I need to be okay with that.

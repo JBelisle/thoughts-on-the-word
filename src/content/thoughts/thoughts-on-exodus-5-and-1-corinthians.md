@@ -7,7 +7,7 @@ reading:
 passages:
   - "Exodus 5"
   - "1 Corinthians 11"
-summary: "My thoughts on Exodus though are mostly just how quickly and easily we get discouraged and give up."
+summary: "How quickly we grow discouraged in God's work — Moses and Aaron departing from God's instructions before Pharaoh, then despairing at the expected resistance — alongside a reflection sparked by the death of Michael Heiser on the joy of one day knowing God fully."
 ---
 
 ## Thoughts on Exodus 5

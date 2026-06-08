@@ -7,7 +7,7 @@ reading:
 passages:
   - "Numbers 26"
   - "1 Peter 3"
-summary: "Reading Numbers 26 this morning, I realized I made a mistake in my post on Numbers 17 that I need to correct."
+summary: "A correction to an earlier claim about Korah's rebels being Levites, plus a case that 1 Peter 3's baptism now saves you points not to water baptism but to being placed into Christ — the spiritual alignment with God that Noah's deliverance pictures."
 ---
 
 ## Thoughts on Numbers 26

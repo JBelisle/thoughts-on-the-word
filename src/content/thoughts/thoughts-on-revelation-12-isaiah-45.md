@@ -7,7 +7,7 @@ reading:
 passages:
   - "Revelation 12"
   - "Isaiah 45"
-summary: "I’m pretty sure I linked to this same podcast episode last time we read Revelation 12 in this plan, but with Christmas in only a couple days, it seemed like…"
+summary: "A Christmas-season pointer to using Revelation 12 to date Jesus' actual birth, paired with a reading of Isaiah 45 — God forming the earth not empty but to be inhabited — as a statement of intent that lends weight to a young-earth view."
 ---
 
 # Thoughts on Revelation 12

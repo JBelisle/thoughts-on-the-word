@@ -7,7 +7,7 @@ reading:
 passages:
   - "Numbers 36"
   - "3 John"
-summary: "I’ve been thinking a lot lately about how the Scriptures were transmitted to us, an how a flimsy view of that makes the Bible incredibly vulnerable to…"
+summary: "Against the idea that Scripture was dictated in a divine data-dump — Numbers 36's case law developing in real time and 3 John's missing personal context both show God inspiring His Word through real people and circumstances, not by overriding them."
 ---
 
 I’ve been thinking a lot lately about how the Scriptures were transmitted to us, an how a flimsy view of that makes the Bible incredibly vulnerable to criticism, and I feel like both of the passages today are good examples in this discussion.

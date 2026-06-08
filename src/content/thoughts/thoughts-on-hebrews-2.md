@@ -6,7 +6,7 @@ reading:
   - "Hebrews 1-2"
 passages:
   - "Hebrews 2"
-summary: "Jesus had to become perfect."
+summary: "What Hebrews 2 means in saying Jesus had to be made perfect — not a flaw in His moral nature, but His stepping into flesh, suffering, temptation, and death to become perfectly fitted as the founder of our salvation and a merciful high priest."
 ---
 
 Jesus had to become perfect.

@@ -6,7 +6,7 @@ reading:
   - "Hebrews 7"
 passages:
   - "Habakkuk"
-summary: "Habakkuk should be an incredibly affirming and encouraging book for anybody who has ever struggled with reconciling the goodness of God with the evil and…"
+summary: "Habakkuk as comfort for anyone wrestling to reconcile God's goodness with the world's evil — the prophet boldly questions God over injustice and over using wicked Babylon as judgement, and God answers rather than rebukes, leaving Habakkuk to rest on God's character."
 ---
 
 Habakkuk should be an incredibly affirming and encouraging book for anybody who has ever struggled with reconciling the goodness of God with the evil and hardship of this world.

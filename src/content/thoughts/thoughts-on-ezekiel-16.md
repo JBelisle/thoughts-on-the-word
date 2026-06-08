@@ -6,7 +6,7 @@ reading:
   - "2 Corinthians 11"
 passages:
   - "Ezekiel 16"
-summary: "As graphic as it is, I don't know that there is any more damning condemnation of Israel than Ezekiel 16..."
+summary: "Why Ezekiel 16's deliberately shocking imagery of an adulterous wife captures Israel's idolatry so precisely — and how it reveals a God who lavished blessing on an undeserving people and sought again and again to turn them back rather than judge."
 ---
 
 As graphic as it is, I don't know that there is any more damning condemnation of Israel than Ezekiel 16...

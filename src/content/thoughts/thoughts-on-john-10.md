@@ -6,7 +6,7 @@ reading:
   - "John 10"
 passages:
   - "John 10"
-summary: "I know I just wrote about this in my post on John 7, but if Jesus felt the need to talk about it again, and John felt the need to record Jesus talking about…"
+summary: "Why the crowd demanding Jesus declare himself the Christ then tries to stone him — people prefer a theoretical Jesus they can mold to their own preferences over the real Jesus whose identity exposes their need for a savior and their condemnation without him."
 ---
 
 I know I just wrote about this in my post on John 7, but if Jesus felt the need to talk about it again, and John felt the need to record Jesus talking about it again, I guess maybe we should talk about it again as well.

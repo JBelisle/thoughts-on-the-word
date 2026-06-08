@@ -6,7 +6,7 @@ reading:
   - "Luke 10"
 passages:
   - "Luke 10"
-summary: "I assume there are different things like this for everyone, but there are a few teachings or events from the gospel accounts that always jump out at me…"
+summary: "Jesus' woes over Chorazin and Bethsaida in Luke 10 imply people respond differently depending on what they are given — meaning someone's eternity may hinge on our faithfulness to the opportunities the Spirit puts before us, against excuses that God will get it done either way."
 ---
 
 I assume there are different things like this for everyone, but there are a few teachings or events from the gospel accounts that always jump out at me every time I come across them, and one of them is here in Luke 10.

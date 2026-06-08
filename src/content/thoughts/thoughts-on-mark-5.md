@@ -6,7 +6,7 @@ reading:
   - "Mark 5"
 passages:
   - "Mark 5"
-summary: "Are you ever afraid that Jesus, if given free rein, might want to change something you’ve already decided you don’t want touched?"
+summary: "Why the people of the Gerasenes begged Jesus to leave after he freed the demon-possessed man — fear of what his power might demand — and how the same fear keeps people from letting Jesus too deep into their lives today."
 ---
 
 Are you ever afraid that Jesus, if given free rein, might want to change something you’ve already decided you don’t want touched?

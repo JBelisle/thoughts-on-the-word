@@ -6,7 +6,7 @@ reading:
   - "1 Corinthians 10"
 passages:
   - "Jeremiah 51"
-summary: "We’ve talked a lot, over the past year, about the popular conception of God in the Old Testament as a God of judgement, wrath, vengeance, etc., generally as…"
+summary: "Reading God's judgment on Babylon alongside the book of Daniel — a reminder that even with nations whose downfall Scripture records, God was actively revealing Himself and offering chances to repent, never judging out of nowhere."
 ---
 
 We’ve talked a lot, over the past year, about the popular conception of God in the Old Testament as a God of judgement, wrath, vengeance, etc., generally as opposed to God in the New Testament being all about love, grace, and mercy. Reading His decrees against Babylon though, I’m reminded of just how much we don’t get to see on the other side of His judgement.

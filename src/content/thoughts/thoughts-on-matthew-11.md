@@ -6,7 +6,7 @@ reading:
   - "Matthew 11"
 passages:
   - "Matthew 11"
-summary: "Having doubts or questioning what God is doing is not wrong or sinful, but there may be times we need to consider and accept the evidence God gives us,…"
+summary: "John the Baptist's prison doubts about whether Jesus was the one show that questioning God is not sinful — and that God often gives us enough evidence to trust him without the full explanation we want."
 ---
 
 Having doubts or questioning what God is doing is not wrong or sinful, but there may be times we need to consider and accept the evidence God gives us, rather than the evidence we want.

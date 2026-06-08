@@ -6,7 +6,7 @@ reading:
   - "Revelation 9"
 passages:
   - "2 Chronicles 24"
-summary: "One person’s choice to be faithful to the Lord can have much a much broader impact than we tend to give it credit for."
+summary: "How Jehoiada, an ordinary priest, anchored the faith of an entire nation simply through a faithful life and his influence over King Joash — challenging an overly individualistic view of faith and suggesting God may want to use our quiet faithfulness to steady many others."
 ---
 
 One person’s choice to be faithful to the Lord can have much a much broader impact than we tend to give it credit for.

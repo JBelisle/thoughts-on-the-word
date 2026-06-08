@@ -6,7 +6,7 @@ reading:
   - "Matthew 19"
 passages:
   - "Matthew 19"
-summary: "I can’t help but notice how different Jesus’ approach to calling sinners to Himself is than so many Christians and churches today."
+summary: "How Jesus' encounter with the rich young ruler differs from modern evangelism — he meets the man where he is, calls him to radical change, and lets him walk away, caring about genuine disciples rather than conversion counts."
 ---
 
 *Today’s reading; [Jeremiah 14; Matthew 19](https://www.biblegateway.com/passage/?search=Jeremiah+14%3B+Matthew+19)*

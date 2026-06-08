@@ -6,7 +6,7 @@ reading:
   - "1 Thessalonians 3-4"
 passages:
   - "1 Thessalonians 4"
-summary: "What does it say about the Godliness of the current American lifestyle of busyness that Paul was telling his readers, 2000 years ago, to aspire to live quietly?"
+summary: "Paul's exhortation to aspire to live quietly, read against the frantic busyness of modern American life — wondering what a genuinely quiet life looks like today and suspecting it would have to depart radically from the cultural norm."
 ---
 
 What does it say about the Godliness of the current American lifestyle of busyness that Paul was telling his readers, 2000 years ago, to aspire to live quietly?

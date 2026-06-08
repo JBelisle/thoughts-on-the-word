@@ -6,7 +6,7 @@ reading:
   - "1 Corinthians 5-6"
 passages:
   - "Jeremiah 47"
-summary: "How incredibly ironic is it that God uses Egypt, not Israel, to finally wipe out the Philistines??"
+summary: "Why God uses Egypt — the prototypical agent of chaos opposed to His people — rather than Israel to finally destroy the Philistines, the last remnant of the Nephilim clans Israel had failed to wipe out, exposing how far gone Israel was spiritually."
 ---
 
 How incredibly ironic is it that God uses Egypt, not Israel, to finally wipe out the Philistines??

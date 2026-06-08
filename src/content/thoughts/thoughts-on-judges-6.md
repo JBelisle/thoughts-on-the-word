@@ -6,7 +6,7 @@ reading:
   - "Acts 18"
 passages:
   - "Judges 6"
-summary: "There is an interesting detail at the beginning of the story of Gideon that I have never really paid much attention to before, but as I've been thinking…"
+summary: "The easily-overlooked unnamed prophet God sends before raising up Gideon — a glimpse of divine patience, since God Himself initiates the call for a complaining, unrepentant Israel to turn back so He can rescue them."
 ---
 
 There is an interesting detail at the beginning of the story of Gideon that I have never really paid much attention to before, but as I've been thinking about the patience and kindness of God lately, especially despite the fickleness and faithlessness of His people, it just makes details like this stand out.

@@ -6,7 +6,7 @@ reading:
   - "Galatians 6"
 passages:
   - "2 Samuel 17"
-summary: "I like 2 Samuel 17 because it is one of a handful of places where we get to see a very practical way in which God exercises His sovereignty."
+summary: "Absalom favoring Hushai's counsel over Ahithophel's against his own self-interest as a rare glimpse of how God works his sovereignty — not by angelic armies but by quietly nudging human choices to protect David and fulfill the judgment of 2 Samuel 12."
 ---
 
 I like 2 Samuel 17 because it is one of a handful of places where we get to see a very practical way in which God exercises His sovereignty.

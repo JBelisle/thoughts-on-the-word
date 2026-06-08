@@ -6,7 +6,7 @@ reading:
   - "Revelation 18"
 passages:
   - "Psalm 62"
-summary: "Does my soul ever actually wait for God in silence?"
+summary: "Psalm 62's opening line prompts an honest reckoning with whether the soul ever truly waits for God in silence — and a recommitment to setting aside distraction-free, undistracted time to sit quietly before the Lord."
 ---
 
 Does my soul ever actually wait for God in silence?

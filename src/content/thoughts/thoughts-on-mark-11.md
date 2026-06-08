@@ -6,7 +6,7 @@ reading:
   - "Mark 11"
 passages:
   - "Mark 11"
-summary: "Are you allowed to be wrong about God? What about your theology? Can you be wrong about how you interpret or think about the Bible?"
+summary: "Using the Jewish leaders confronting Jesus over his authority, a reflection on whether Christians can be wrong about secondary theology — and the humility needed to let God surprise us beyond our expectations."
 ---
 
 Are you allowed to be wrong about God? What about your theology? Can you be wrong about how you interpret or think about the Bible?

@@ -6,7 +6,7 @@ reading:
   - "2 Corinthians 5"
 passages:
   - "2 Corinthians 5"
-summary: "I’ve long said, “You’re never more naked than when you’re naked with socks on.”"
+summary: "Using an offbeat image to read Paul's longing to be further clothed in our heavenly dwelling — a gut check on whether living too comfortably in step with the world keeps us from noticing our spiritual nakedness and yearning for heaven."
 ---
 
 I’ve long said, “You’re never more naked than when you’re naked with socks on.”

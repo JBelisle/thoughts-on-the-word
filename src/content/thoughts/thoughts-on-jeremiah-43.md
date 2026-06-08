@@ -6,7 +6,7 @@ reading:
   - "1 Corinthians 2"
 passages:
   - "Jeremiah 43"
-summary: "If I have already decided what the Lord is allowed to say, I shouldn’t bother asking Him for input. Instead, I should ask the Holy Spirit to change my heart…"
+summary: "On the Jews who promised Jeremiah they would obey whatever the Lord said, then went to Egypt anyway — and why, when our hearts are already set, we should pray first for willingness to obey rather than seeking direction we have no intention of following."
 ---
 
 If I have already decided what the Lord is allowed to say, I shouldn’t bother asking Him for input. Instead, I should ask the Holy Spirit to change my heart to be willing to hear the Lord’s voice, whether I like His answer or not.

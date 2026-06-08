@@ -6,7 +6,7 @@ reading:
   - "James 5"
 passages:
   - "Zechariah 12"
-summary: "I’m not sure how many times I’ve read Zechariah 12 today, trying to wrap my head around it, and just feeling like I’m completely missing something. But the…"
+summary: "How Zechariah 12 turns from an oracle of Judah's glorious restoration to unprecedented mourning at the single pivot of Yahweh declaring they will look on me, whom they have pierced — a missing piece that only makes sense in hindsight of Jesus, fully God and fully man, crucified."
 ---
 
 I’m not sure how many times I’ve read Zechariah 12 today, trying to wrap my head around it, and just feeling like I’m completely missing something. But the more I’ve read it, thought about it, and prayed about it, I think that was kind of the point, because Zechariah’s audience *was* missing something.

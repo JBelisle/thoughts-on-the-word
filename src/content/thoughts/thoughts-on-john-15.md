@@ -6,7 +6,7 @@ reading:
   - "John 15"
 passages:
   - "John 15"
-summary: "As someone who likes to be liked, Jesus’ words in John 15 are sobering and personally challenging…"
+summary: "Jesus warns that the world will hate his followers as it hated him — a count-the-cost reflection for those who dislike being disliked, weighing the world's fleeting disdain against the enduring pleasure of Christ and the eternity that follows this brief life."
 ---
 
 As someone who likes to be liked, Jesus’ words in John 15 are sobering and personally challenging…

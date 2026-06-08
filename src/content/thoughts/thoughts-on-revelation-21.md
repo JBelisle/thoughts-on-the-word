@@ -6,7 +6,7 @@ reading:
   - "Revelation 21"
 passages:
   - "Revelation 21"
-summary: "Heaven is not some ethereal existence “out there” somewhere, floating among the clouds, but is a physical life on a recreated earth, with Jesus living and…"
+summary: "Heaven as physical life on a recreated earth rather than a disembodied existence in the clouds — reading the new earth's absence of sea as the end of chaos, and the cube-shaped new Jerusalem as a vast mountain-city radiating God's glory over the world."
 ---
 
 Heaven is not some ethereal existence “out there” somewhere, floating among the clouds, but is a physical life on a recreated earth, with Jesus living and reigning among us.

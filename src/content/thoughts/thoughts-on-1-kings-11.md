@@ -6,7 +6,7 @@ reading:
   - "1 Thessalonians 5"
 passages:
   - "1 Kings 11"
-summary: "1 Kings 11 is an important warning about the slow spiritual decay caused by \"little\" disobediences over time."
+summary: "How Solomon's many wives — a 'little' disobedience against Deuteronomy 17 that seemed harmless for years — illustrate the slow, imperceptible spiritual decay of indulged sin, and why taking sin seriously and staying rooted in Christian community matter."
 ---
 
 1 Kings 11 is an important warning about the slow spiritual decay caused by "little" disobediences over time.

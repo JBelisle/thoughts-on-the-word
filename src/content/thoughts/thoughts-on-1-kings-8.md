@@ -6,7 +6,7 @@ reading:
   - "1 Thessalonians 1"
 passages:
   - "1 Kings 8"
-summary: "I don’t remember if I have talked about this on here before or not, but 1 Kings 8 brings up something that I have been wondering about for a little while…"
+summary: "Using Solomon's temple-dedication prayer to ask whether prayers recorded in Scripture, like the imprecatory Psalms, should be treated as necessarily righteous — narrative describes what was prayed without endorsing every theological assumption behind it."
 ---
 
 I don’t remember if I have talked about this on here before or not, but 1 Kings 8 brings up something that I have been wondering about for a little while now, and that is what, if anything, we should assume about the prayers we come across in the Bible.

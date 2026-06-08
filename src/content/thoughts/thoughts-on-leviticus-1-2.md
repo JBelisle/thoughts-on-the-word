@@ -6,7 +6,7 @@ reading:
   - "Colossians 3"
 passages:
   - "Leviticus 1-2"
-summary: "My thoughts on Leviticus 1 and 2 are not really thoughts on the content of these first two chapters so much as they are important things to realize and pay…"
+summary: "Two framing keys for reading Leviticus — that the offerings were not about forgiving sin but about gratitude and maintaining sacred space, which clarifies how Jesus' sacrifice is qualitatively greater, and that burning the offerings set Yahweh apart from gods thought to be fed by them."
 ---
 
 My thoughts on Leviticus 1 and 2 are not really thoughts on the content of these first two chapters so much as they are important things to realize and pay attention to as we are going through Leviticus. The first one, and probably most important to understand, is that none of these offerings or sacrifices were for the forgiveness of sin, and the second is that there are important distinctions between how Israel was to make these offerings and how other cultures around them made offerings to their gods.

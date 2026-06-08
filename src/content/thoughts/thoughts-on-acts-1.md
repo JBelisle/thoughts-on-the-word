@@ -6,7 +6,7 @@ reading:
   - "Acts 1"
 passages:
   - "Acts 1"
-summary: "I don’t know who needs to hear this, but angels don’t have wings…"
+summary: "Using the two men at Jesus' ascension in Acts 1 to argue that the Bible almost never gives angels wings — only the throne guardians and carved cherubim — and how easily extra-biblical art and literature get mistaken for Scripture itself."
 ---
 
 I don’t know who needs to hear this, but angels don’t have wings…

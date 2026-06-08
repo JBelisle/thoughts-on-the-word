@@ -6,7 +6,7 @@ reading:
   - "Acts 6"
 passages:
   - "Joshua 18"
-summary: "I have never really thought too much about it before, but Joshua’s words to the seven tribes at the beginning on Joshua 18 this morning got me thinking,…"
+summary: "The seven tribes who lingered in their tents rather than claim their inheritance picture the Christian who settles into comfortable complacency after coming to faith — a call to take the risk of moving into the fuller life God has promised."
 ---
 
 I have never really thought too much about it before, but Joshua’s words to the seven tribes at the beginning on Joshua 18 this morning got me thinking, what have those tribes been doing?

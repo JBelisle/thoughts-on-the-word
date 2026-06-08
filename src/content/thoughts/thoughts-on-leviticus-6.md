@@ -6,7 +6,7 @@ reading:
   - "1 Thessalonians 5"
 passages:
   - "Leviticus 6"
-summary: "With Easter coming up and this being Holy Week, I thought it would be a good time to talk about Leviticus 6 in terms of communion as Jesus instituted it at…"
+summary: "Reading Leviticus 6 alongside the Last Supper — how the priestly offerings and the strict ban on consuming blood make Jesus giving His disciples His body and blood a declaration that He is inaugurating them as priests of a new covenant, cleansed to become God's dwelling."
 ---
 
 With Easter coming up and this being Holy Week, I thought it would be a good time to talk about Leviticus 6 in terms of communion as Jesus instituted it at The Last Supper.

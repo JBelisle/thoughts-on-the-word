@@ -6,7 +6,7 @@ reading:
   - "2 Corinthians 1"
 passages:
   - "Song of Solomon"
-summary: "I have a very difficult time with Biblical poetry…"
+summary: "A personal struggle with the imagery of biblical poetry like the Song of Solomon — possibly tied to aphantasia — becomes an encouragement that God reveals himself in varied ways, so it is okay to find some parts of the Bible harder than others."
 ---
 
 I have a very difficult time with Biblical poetry…

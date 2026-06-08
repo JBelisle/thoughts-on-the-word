@@ -6,7 +6,7 @@ reading:
   - "2 Peter 1"
 passages:
   - "2 Peter 1"
-summary: "Do you want your life to matter for Christ? Then you would do well to pay attention to what Peter has for us in 2 Peter 1."
+summary: "Why Peter answers the question of how to make your life count for Christ not with a list of effective works but with a chain of character qualities in 2 Peter 1:5-7 — faith, virtue, knowledge, self-control, and on to love — that every believer can pursue."
 ---
 
 Do you want your life to matter for Christ? Then you would do well to pay attention to what Peter has for us in 2 Peter 1.

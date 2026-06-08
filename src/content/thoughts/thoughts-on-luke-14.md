@@ -6,7 +6,7 @@ reading:
   - "Luke 14"
 passages:
   - "Luke 14"
-summary: "I don’t have much to say about Luke 14 this morning, I mostly am just realizing how much I can be like the foolish man at the table that ignores all of the…"
+summary: "The man at the table in Luke 14 who ignores Jesus' uncomfortable indictments and latches only onto the mention of the resurrection — a mirror for how easily we skip past convicting teachings, and why daily time in the Word matters for a fickle heart."
 ---
 
 I don’t have much to say about Luke 14 this morning, I mostly am just realizing how much I can be like the foolish man at the table that ignores all of the uncomfortable words of Jesus and tries to just latch on to what he already knows and likes.

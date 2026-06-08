@@ -6,7 +6,7 @@ reading:
   - "Galatians 6"
 passages:
   - "Galatians 6"
-summary: "Galatians 6 is really interesting to me in that it is the only place in this letter than Paul gets “practical,” and he doesn’t spill that much ink on it.…"
+summary: "Why Paul devotes only two short paragraphs to practical instruction in Galatians 6 — a sign of how central the gospel is, and how the few priorities he does name (restoring the fallen gently, bearing burdens, giving generously) define a thriving Christian community."
 ---
 
 Galatians 6 is really interesting to me in that it is the only place in this letter than Paul gets “practical,” and he doesn’t spill that much ink on it. Now, to be fair, this whole letter is practical in the sense that it is addressing a very real and very serious issue of theology and practice going on in the Galatian church, and that is the reason he wrote the letter in the first place, but after 5 chapters of systematically tearing down the bogus theology they are being led into and building up a proper understanding of the gospel, Paul gives them only two short paragraphs on what the Christian life in community should look like.

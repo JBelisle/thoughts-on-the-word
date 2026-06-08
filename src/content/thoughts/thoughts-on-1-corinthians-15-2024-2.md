@@ -6,7 +6,7 @@ reading:
   - "1 Corinthians 15"
 passages:
   - "1 Corinthians 15"
-summary: "Reading 1 Cor. 15 this morning sparked a conversation with my kids about whether we “go to heaven” when we die, or whether we are “asleep in Christ” until…"
+summary: "Questioning the assumption that we go to heaven at death rather than sleep in Christ until the bodily resurrection on a renewed Earth — and a wider reflection on how unexamined we let inherited teaching filter our reading of Scripture."
 ---
 
 Reading 1 Cor. 15 this morning sparked a conversation with my kids about whether we “go to heaven” when we die, or whether we are “asleep in Christ” until we are resurrected to a renewed life on the Earth.

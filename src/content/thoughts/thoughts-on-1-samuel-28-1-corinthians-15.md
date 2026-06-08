@@ -7,7 +7,7 @@ reading:
 passages:
   - "1 Samuel 28"
   - "1 Corinthians 15"
-summary: "This is really just a follow-up thought to my post yesterday about whether David's policy of not killing Saul because he is the Lord's anointed is godly or…"
+summary: "Samuel's word to Saul through the medium at Endor strengthens the case that David's refusal to remove Saul may have been misguided rather than exemplary — paired with 1 Corinthians 15 on assurance grounded in present faith in Christ, not a once-prayed sinner's prayer."
 ---
 
 ## Thoughts on 1 Samuel 28

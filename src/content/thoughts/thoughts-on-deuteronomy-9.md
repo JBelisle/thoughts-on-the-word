@@ -6,7 +6,7 @@ reading:
   - "Revelation 9"
 passages:
   - "Deuteronomy 9"
-summary: "In Deuteronomy 9, Moses again warns the Israelites not to become haughty when they are settled and at peace in the land. In chapter 8 he warned them not to…"
+summary: "Moses warns Israel not to credit their own righteousness for the land, recalling the golden calf — drawing out two lessons: the sacrificial leadership of Moses fasting forty days to intercede, and the fickleness of a human heart that rebels even after witnessing such devotion."
 ---
 
 In Deuteronomy 9, Moses again warns the Israelites not to become haughty when they are settled and at peace in the land. In chapter 8 he warned them not to forget God and start to think that they had accomplished it all by their own power, but in chapter 9 he warns them, as they remember it is all from God, not to get haughty and think it was because of their righteousness that God gave it to them. As a case-study of just how much this is not the result of their own personal righteousness, Moses reminds them of the golden calf incident at Mount Sinai, and two things stood out to me as I was thinking about this: (1) The willingness a good spiritual leader should have to sacrifice for his or her people, and (2) the absolutely incredible fickleness of the human heart…

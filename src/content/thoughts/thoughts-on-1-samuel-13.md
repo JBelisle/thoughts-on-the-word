@@ -6,7 +6,7 @@ reading:
   - "Romans 15"
 passages:
   - "1 Samuel 13"
-summary: "What was so bad about Saul making the offering in 1 Samuel 13? When Samuel confronts him about it his response is that he felt it was necessary to seek the…"
+summary: "Why Saul's offering cost him the throne — not a well-meaning act of seeking the Lord's favor but unauthorized, non-priestly disobedience that treated God as a good-luck charm to rally frightened troops rather than the God who delivers by faith."
 ---
 
 What was so bad about Saul making the offering in 1 Samuel 13? When Samuel confronts him about it his response is that he felt it was necessary to seek the favor of the Lord before going to battle, but Samuel had not shown up yet, so he took the initiative himself. Certainly this is good and right, to seek the Lord's favor before leading His people to battle, isn't it? And yet, despite this good sounding motivation, the result is that the throne is stripped from Saul's lineage and given to another. So what gives??

@@ -6,7 +6,7 @@ reading:
   - "Hebrews 10"
 passages:
   - "1 Chronicles 15"
-summary: "It is not honoring to God to accomplish God-honoring work in a non-God-honoring way."
+summary: "David's failed first attempt to move the ark by cart, then his obedient transport by the Levites, illustrates that God is not served by good ends pursued through unfaithful means — the best outcomes flow from the greatest faithfulness."
 ---
 
 It is not honoring to God to accomplish God-honoring work in a non-God-honoring way.

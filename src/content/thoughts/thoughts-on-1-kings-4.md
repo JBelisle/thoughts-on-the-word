@@ -6,7 +6,7 @@ reading:
   - "Colossians 1"
 passages:
   - "1 Kings 4"
-summary: "1 Kings 4 gives us the most pure glimpse into God’s desire for Israel than we find anywhere other than His initial descriptions of His desire when He makes…"
+summary: "1 Kings 4's picture of Israel at peace under Solomon, every man under his vine and fig tree, as the clearest glimpse of God's promised abundance — yet Solomon's forbidden multiplying of horses already hints at the unfaithfulness that will undo it."
 ---
 
 1 Kings 4 gives us the most pure glimpse into God’s desire for Israel than we find anywhere other than His initial descriptions of His desire when He makes His promises to Israel about the land, and the amazing thing is, this still isn’t all that God intended it to be!

@@ -6,7 +6,7 @@ reading:
   - "Romans 16"
 passages:
   - "1 Samuel 14"
-summary: "Everything about 1 Samuel 14 goes wrong for Saul as he tries to be the tough, worldly king Israel wanted, and this cuts a sharp contrast against how things…"
+summary: "Saul's every attempt to be the strong, worldly king Israel wanted backfires — the rash oath, the near-execution of Jonathan — set against his son's quiet faith that the Lord, not the size of an army, gives victory. Israel needed reliance on God, not imposing strength."
 ---
 
 Everything about 1 Samuel 14 goes wrong for Saul as he tries to be the tough, worldly king Israel wanted, and this cuts a sharp contrast against how things go for his son who trusts in God rather than his own strength for deliverance.

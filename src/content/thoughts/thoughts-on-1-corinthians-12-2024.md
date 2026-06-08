@@ -6,7 +6,7 @@ reading:
   - "1 Corinthians 12"
 passages:
   - "1 Corinthians 12"
-summary: "I will probably write about the same thing every time we pass this chapter (along with a few others), because this is honestly something that is just…"
+summary: "Paul's picture of the church as a body, where each member's distinct gifting is vital and no individual constitutes the whole — and how far Sunday-only, independently lived Christianity in the West falls from that interdependent design."
 ---
 
 I will probably write about the same thing every time we pass this chapter (along with a few others), because this is honestly something that is just constantly on my heart and mind; how far the church in the West is from the picture Paul paints of Christian community in 1 Corinthians 12.

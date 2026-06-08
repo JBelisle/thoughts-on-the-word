@@ -6,7 +6,7 @@ reading:
   - "Luke 8"
 passages:
   - "Luke 8"
-summary: "It has been a number of years since I have become convinced that the “once saved, always saved” view of salvation was not the view of the biblical authors,…"
+summary: "Reading the parable of the soils in Luke 8 against once-saved-always-saved — arguing Jesus has a category for people who truly believe and are saved yet later fall away, while clarifying that lost salvation comes from abandoning belief, not from being cast out for sin."
 ---
 
 It has been a number of years since I have become convinced that the “once saved, always saved” view of salvation was not the view of the biblical authors, and the more I read the Scriptures without that presupposition, the more convinced I become that, if you weren’t taught that perspective up front, you wouldn’t come to it on your own, unless you are narrowly focusing on only a small portion of the Scriptural witness. Certainly there are verses that, on their own, seem to imply exactly that, but the broader teaching of the Word really doesn’t seem to fit with that perspective.

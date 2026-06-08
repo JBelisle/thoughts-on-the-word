@@ -7,7 +7,7 @@ reading:
 passages:
   - "Exodus 31"
   - "Ephesians 3"
-summary: "My thoughts on these passages are kind of the same thought, but don’t really tie together. What I find most striking in both of these passages is just how…"
+summary: "Why God makes the Sabbath his above all else command in Exodus 31, and why Paul's prayer in Ephesians 3 is simply that believers grasp Christ's love — both reveal that God values trust in him above doing the right things, simple yet far from easy."
 ---
 
 My thoughts on these passages are kind of the same thought, but don’t really tie together. What I find most striking in both of these passages is just how simple the start of representing God well is, and yet how difficult that simplicity can be…

@@ -6,7 +6,7 @@ reading:
   - "Ephesians 4"
 passages:
   - "Ezekiel 28"
-summary: "I was taught, years ago, that Ezekiel 28 was about one of two figures, Satan, or the literal king of Tyre, but reading through it today, especially in light…"
+summary: "Arguing the king of Tyre in Ezekiel 28 is neither Satan nor merely the human ruler but a third figure — the god of Tyre, one of the divine council members set over the nations at Babel, judged like the gods of Psalm 82 for overstepping into God's domain."
 ---
 
 I was taught, years ago, that Ezekiel 28 was about one of two figures, Satan, or the literal king of Tyre, but reading through it today, especially in light of what I wrote about yesterday, I don’t think either of those fits the bill nearly as well as a third figure.

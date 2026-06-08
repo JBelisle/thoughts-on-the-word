@@ -6,7 +6,7 @@ reading:
   - "Mark 6"
 passages:
   - "Amos 1-2"
-summary: "Even during the period of the divided monarchy, where Israel split off from Judah, I personally still think of them as one nation, so it’s interesting to…"
+summary: "How Amos arranges his opening oracles geographically into a target with the Northern Kingdom at the bullseye — listing Judah as just another condemned nation — and why remembering that Israel and Judah saw themselves as separate nations sharpens the focus of Amos's charges."
 ---
 
 Even during the period of the divided monarchy, where Israel split off from Judah, I personally still think of them as one nation, so it’s interesting to read Amos, focusing on Israel (the Northern Kingdom), and considering Judah like just another nation.

@@ -7,7 +7,7 @@ reading:
 passages:
   - "Numbers 7"
   - "Mark 15"
-summary: "Numbers 7 and Mark 15 are really perfect chapters to be reading on the same day as they give us both the inauguration and the fulfillment of the sacrificial…"
+summary: "The deliberately slow dedication of the tabernacle in Numbers 7 inaugurates the sacrificial system that Mark 15 fulfills — the torn temple curtain marking not sacred space defiled but God's Spirit now free to make every believing heart sacred space."
 ---
 
 Numbers 7 and Mark 15 are really perfect chapters to be reading on the same day as they give us both the inauguration and the fulfillment of the sacrificial system in Israel.

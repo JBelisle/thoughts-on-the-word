@@ -6,7 +6,7 @@ reading:
   - "Matthew 9"
 passages:
   - "Jeremiah 4"
-summary: "It will always be better to submit to the disciple of the Lord and let Him do His work than it will be to buck against His hand and try to fight or ignore…"
+summary: "Reading Jeremiah 4's coming destruction — and Israel adorning itself in denial rather than repenting — as a lesson that God's discipline escalates to bring us back, and that submitting to it, though costly, is always better than stiffening our necks against Him."
 ---
 
 It will always be better to submit to the disciple of the Lord and let Him do His work than it will be to buck against His hand and try to fight or ignore what He is doing.

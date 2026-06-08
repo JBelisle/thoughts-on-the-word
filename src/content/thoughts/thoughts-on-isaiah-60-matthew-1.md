@@ -7,7 +7,7 @@ reading:
 passages:
   - "Isaiah 60"
   - "Matthew 1"
-summary: "While Isaiah is looking forward to the day the nations would flood into God’s people en masse, God has always welcomed those willing to turn from their gods…"
+summary: "Isaiah 60 anticipates the nations flooding into God's people, while Matthew 1's genealogy shows the principle already at work — foreign women like Rahab and Ruth, from peoples under judgment, welcomed into the very line of the Messiah."
 ---
 
 While Isaiah is looking forward to the day the nations would flood into God’s people en masse, God has always welcomed those willing to turn from their gods and align themselves with Him. 

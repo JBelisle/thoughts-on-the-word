@@ -6,7 +6,7 @@ reading:
   - "Colossians 4"
 passages:
   - "Colossians 4"
-summary: "The way Paul talks about prayer at the end of Colossians 4 is really challenging to me."
+summary: "How Paul's description of Epaphras at the close of Colossians 4 — always struggling and working hard in prayer for others — exposes a casual approach to prayer and stirs a longing for that same passion and intensity."
 ---
 
 The way Paul talks about prayer at the end of Colossians 4 is really challenging to me.

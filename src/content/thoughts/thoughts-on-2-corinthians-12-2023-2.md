@@ -6,7 +6,7 @@ reading:
   - "2 Corinthians 12"
 passages:
   - "2 Corinthians 12"
-summary: "If I’m being honest, 2 Corinthians 12 has some very difficult instruction for me."
+summary: "Wrestling with Paul's call to boast in weakness so Christ's power may rest on us — why a lifetime spent proving one's own sufficiency makes admitting weakness grate, and how God reshapes an identity rooted in achievement into one rooted in Christ."
 ---
 
 If I’m being honest, 2 Corinthians 12 has some very difficult instruction for me.

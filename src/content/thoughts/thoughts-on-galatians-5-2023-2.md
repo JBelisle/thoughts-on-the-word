@@ -6,7 +6,7 @@ reading:
   - "Galatians 5"
 passages:
   - "Galatians 5"
-summary: "I know I have talked about this quite a few times already in this series, but can you really talk about the gospel too much? So even though we just talked…"
+summary: "Weighing two flawed views of salvation against Galatians 5 — works-based righteousness that severs one from Christ, and fire-insurance assurance from a sinner's prayer — arguing the biblical gospel is purely a matter of present faith in Jesus."
 ---
 
 I know I have talked about this quite a few times already in this series, but can you really talk about the gospel too much? So even though we just talked about this topic a couple days ago, we’re going to talk about it again today because I feel a burden that many in the broader Christian community would come to a more accurate understanding of the gospel.

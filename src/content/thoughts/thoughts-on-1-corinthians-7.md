@@ -6,7 +6,7 @@ reading:
   - "1 Corinthians 7"
 passages:
   - "1 Corinthians 7"
-summary: "I don't have too much to say about this passage, but it can honestly be a kind of odd passage, especially depending on which translation you are reading,…"
+summary: "Working through the puzzling features of Paul's teaching on marriage and singleness — the concession of verse 6, his distinction between his own words and the Lord's, the mistranslated virgin daughter, and why his counsel is shaped by Corinth's present distress."
 ---
 
 I don't have too much to say about this passage, but it can honestly be a kind of odd passage, especially depending on which translation you are reading, and it's one I've taught a few times over the years so I've had to work through and study some of that oddness, so it seemed like a good one to talk about.

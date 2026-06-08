@@ -6,7 +6,7 @@ reading:
   - "Hebrews 7"
 passages:
   - "Numbers 13"
-summary: "I could be wrong about this, but I think Numbers 13 is a test. I think the entire reason God has Moses send spies into the land, and specifically spies…"
+summary: "Arguing the spying mission of Numbers 13 was never fact-finding but a test of trust — the spies found exactly what God had promised in Exodus 3, yet ten balked, raising the hard question of whether we act on faith when the theoretical becomes practical."
 ---
 
 I could be wrong about this, but I think Numbers 13 is a test. I think the entire reason God has Moses send spies into the land, and specifically spies chosen from among the leaders of the people, is to see if Israel will trust Him.

@@ -4,7 +4,7 @@ date: 2024-02-21
 reading:
   - "Jeremiah 50"
   - "1 Corinthians 9"
-summary: "Today officially marks one year since I started this project!"
+summary: "A reflection marking one year and 356 posts of writing daily alongside a two-year reading plan — how the discipline of writing forced real engagement with Scripture even on the hardest, busiest, most draining days."
 ---
 
 Today officially marks one year since I started this project!

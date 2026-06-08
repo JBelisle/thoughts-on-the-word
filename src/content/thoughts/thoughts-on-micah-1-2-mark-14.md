@@ -7,7 +7,7 @@ reading:
 passages:
   - "Micah 1-2"
   - "Mark 14"
-summary: "I have short thoughts on both of our chapters this morning."
+summary: "Micah 1-2 shows God judging Israel not for ritual lapses but for the powerful exploiting the poor — and Mark 14 captures the leaders condemning Jesus before any testimony, rejecting him for the implications of his claims rather than the evidence."
 ---
 
 I have short thoughts on both of our chapters this morning.

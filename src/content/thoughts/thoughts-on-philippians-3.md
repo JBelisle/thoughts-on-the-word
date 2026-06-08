@@ -6,7 +6,7 @@ reading:
   - "Philippians 3"
 passages:
   - "Philippians 3"
-summary: "We need to be careful and intentional about where, and to whom, we are looking for an example of how to live our lives."
+summary: "Paul's call in Philippians 3 to choose carefully whose example we follow — warning that the most dangerous bad examples are not the obvious failures but the kind, decent people whose citizenship is not in heaven and whose minds are set on earthly things."
 ---
 
 We need to be careful and intentional about where, and to whom, we are looking for an example of how to live our lives.

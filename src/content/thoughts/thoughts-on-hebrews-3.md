@@ -6,7 +6,7 @@ reading:
   - "Hebrews 3-4"
 passages:
   - "Hebrews 3"
-summary: "Is, “Once saved, always saved,” really what the Bible teaches about salvation?"
+summary: "Challenging once-saved-always-saved and fire-insurance views from Hebrews 3 — salvation is present faith in Christ rather than a prayer once prayed, and the warnings against sin target its power to harden the heart, making real Christian community essential."
 ---
 
 Is, “Once saved, always saved,” really what the Bible teaches about salvation?

@@ -6,7 +6,7 @@ reading:
   - "Revelation 1"
 passages:
   - "2 Chronicles 16"
-summary: "It doesn’t matter how faithful you’ve been in the past, if you don’t continuously choose to remain faithful, sin will creep in and lead you astray from the…"
+summary: "King Asa, who once trusted God against overwhelming odds, later leaning on Syria rather than the Lord and hardening against rebuke — a warning that past faithfulness cannot be coasted on, since the faithful life is made of continued daily choices that keep the heart anchored."
 ---
 
 It doesn’t matter how faithful you’ve been in the past, if you don’t continuously choose to remain faithful, sin will creep in and lead you astray from the Lord.

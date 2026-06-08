@@ -6,7 +6,7 @@ reading:
   - "1 John 4"
 passages:
   - "Isaiah 28"
-summary: "God knows perfectly what He is doing when He brings discipline on us, and it will always be better to go His way, accepting His discipline, than it will be…"
+summary: "Isaiah 28's farming images — plowing, and threshing dill, cumin, and grain each according to its need — as assurance that God's discipline is purposeful and measured, never for destruction, and better submitted to than resisted."
 ---
 
 God knows perfectly what He is doing when He brings discipline on us, and it will always be better to go His way, accepting His discipline, than it will be trying to dodge it and go our own way.

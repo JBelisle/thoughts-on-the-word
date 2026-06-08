@@ -7,7 +7,7 @@ reading:
 passages:
   - "2 Timothy 4"
   - "Leviticus 15"
-summary: "What kind of teaching do you want to hear?"
+summary: "Paul's warning in 2 Timothy 4 about people who want their ears tickled rather than sound teaching, applied to a culture of pick-your-own-facts — paired with Leviticus 15 and the crucial distinction between ritual uncleanness and sin."
 ---
 
 ## Thoughts on 2 Timothy 4

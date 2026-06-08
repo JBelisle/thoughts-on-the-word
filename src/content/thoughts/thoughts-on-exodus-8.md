@@ -6,7 +6,7 @@ reading:
   - "1 Corinthians 14"
 passages:
   - "Exodus 8"
-summary: "It’s kind of crazy to me that Moses still isn’t bold enough to just declare what Yahweh says to Pharaoh and let that stand. Even four plagues in, when…"
+summary: "Moses's timidity before Pharaoh even four plagues in, despite holding the winning hand — and how that mirrors our own reluctance to speak boldly about a faith we are fully convinced of when we fear opposition."
 ---
 
 It’s kind of crazy to me that Moses still isn’t bold enough to just declare what Yahweh says to Pharaoh and let that stand. Even four plagues in, when Pharaoh gives a minor concession that they can go sacrifice in the land, Moses doesn’t say, “No, God told us to go worship him in the wilderness, three days’ journey out,” Instead he says, “But the Egyptians won’t like our sacrifices and will stone us if we do it here, so I guess that one probably won’t work…”

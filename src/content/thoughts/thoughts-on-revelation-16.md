@@ -6,7 +6,7 @@ reading:
   - "Revelation 15-16"
 passages:
   - "Revelation 16"
-summary: "The response of the people of the earth to the plagues of Revelation 16 is interesting to me, and it reminds me a lot of the Pharaoh’s response to the…"
+summary: "Why those who curse God for the plagues of Revelation 16 expose a hardness of heart deeper than Pharaoh's — they recognize his presence and power, have no rival god to turn to, and still refuse to submit, choosing to be their own god rather than see their need."
 ---
 
 The response of the people of the earth to the plagues of Revelation 16 is interesting to me, and it reminds me a lot of the Pharaoh’s response to the plagues in Egypt.

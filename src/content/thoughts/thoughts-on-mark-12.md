@@ -6,7 +6,7 @@ reading:
   - "Mark 12"
 passages:
   - "Mark 12"
-summary: "The parable of the vineyard Jesus tells at the beginning of Mark 12 used to bother me because of how much sense it doesn’t make. Normally, when Jesus tells…"
+summary: "The parable of the vineyard tenants is deliberately absurd — because killing the heir to claim the inheritance mirrors the folly of the Jewish leaders rejecting Jesus, acting as though their expectations, not God, decide who the Messiah is."
 ---
 
 The parable of the vineyard Jesus tells at the beginning of Mark 12 used to bother me because of how much sense it doesn’t make. Normally, when Jesus tells a parable, the imagery He chooses makes sense in its own right apart from the spiritual truth or lesson attached to it, but this one really doesn’t, and that seems like it undermines His point a bit. Specifically I am talking about when the tenants see the owner’s son coming and say, “This is the heir. Come, let us kill him, and the inheritance will be ours.” Clearly there is no world in which, if you kill someone’s heir, you become their heir instead.

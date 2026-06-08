@@ -1,7 +1,7 @@
 ---
 title: "Want to follow along with our Bible reading plan?"
 date: 2023-02-21
-summary: "I posted a year-long Bible reading plan a couple year ago that was made to level out the amount of time spent reading each day rather than the number of…"
+summary: "An invitation to follow along with the 2023-2024 Bible reading plan, explaining the shift to posting short daily thoughts sparked by the readings rather than the longer theological essays long planned for the blog."
 ---
 
 I posted a year-long Bible reading plan a couple year ago that was made to level out the amount of time spent reading each day rather than the number of chapters read per day. Last year we made and followed a different plan, and this year we have yet another, that I never got around to posting…

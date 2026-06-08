@@ -6,7 +6,7 @@ reading:
   - "Romans 13"
 passages:
   - "1 Samuel 11"
-summary: "The beginning of 1 Samuel 11 is really sticking out to me today and I’m not entirely sure why. I know why it strikes me, and we’ll get to that in a second,…"
+summary: "The men of Jabesh-gilead, backed by the God who crushed Egypt, were ready to sell themselves into slavery to Nahash rather than trust Yahweh — a mirror for how readily we settle for the world's enslaving substitutes instead of the freedom God offers."
 ---
 
 The beginning of 1 Samuel 11 is really sticking out to me today and I’m not entirely sure why. I know why it strikes me, and we’ll get to that in a second, but as I’ve been praying about the reading today and what the Lord would have me write about, this is what keeps coming up. So I’m not sure if He will give me something to say as I write, or maybe He has something in this for someone reading this post. I don’t really know, so I’m just going to start writing it and I guess we will find out together.

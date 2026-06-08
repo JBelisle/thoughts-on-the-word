@@ -6,7 +6,7 @@ reading:
   - "Revelation 19"
 passages:
   - "Deuteronomy 17"
-summary: "In Deuteronomy 17 Moses gives the Israelites instructions from God for setting a king over themselves once they are settled in the land."
+summary: "If God gave instructions for a king in Deuteronomy 17, why was Israel's request for one in 1 Samuel 8 a rejection of God? The answer lies in motive — and in how the office of king lays the foundation for the coming Messiah who unites priest and king."
 ---
 
 In Deuteronomy 17 Moses gives the Israelites instructions from God for setting a king over themselves once they are settled in the land.

@@ -6,7 +6,7 @@ reading:
   - "John 21"
 passages:
   - "2 Kings 22"
-summary: "Ignorance does not excuse us from the judgement of God…"
+summary: "Josiah's discovery of the lost Book of the Law shows that ignorance does not excuse anyone from judgment — drawing out two implications: the urgency of sharing the gospel with all people, and the believer's own need to know the Word."
 ---
 
 Ignorance does not excuse us from the judgement of God…

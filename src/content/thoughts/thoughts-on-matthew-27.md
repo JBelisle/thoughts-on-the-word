@@ -6,7 +6,7 @@ reading:
   - "Matthew 27"
 passages:
   - "Matthew 27"
-summary: "The words of the Jewish leaders, as Jesus is hanging on the cross, exemplify just how self-deceptive our hearts can be."
+summary: "The leaders mocking Jesus at the cross admit He saved others — testifying to three years of miracles even as they reject Him — showing that a hardened heart, unlike the centurion's, will never find any evidence enough."
 ---
 
 The words of the Jewish leaders, as Jesus is hanging on the cross, exemplify just how self-deceptive our hearts can be.

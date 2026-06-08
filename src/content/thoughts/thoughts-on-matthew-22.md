@@ -6,7 +6,7 @@ reading:
   - "Matthew 22"
 passages:
   - "Matthew 22"
-summary: "Jesus was not afraid to call out wrong and damaging theology from mainstream religious teachers of His day."
+summary: "Jesus rarely confronted theology head-on, but he publicly told the Sadducees they knew neither the Scriptures nor God's power — because the resurrection is too central to the gospel to get wrong, a model for confronting genuine heresy today."
 ---
 
 Jesus was not afraid to call out wrong and damaging theology from mainstream religious teachers of His day.

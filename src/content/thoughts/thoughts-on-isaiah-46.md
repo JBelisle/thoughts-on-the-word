@@ -6,7 +6,7 @@ reading:
   - "Revelation 13"
 passages:
   - "Isaiah 46"
-summary: "Two important questions Isaiah 46 puts before us are, (1) In what are you placing your hope for security? and (2) Is it actually able to give you the…"
+summary: "Bel and Nebo carried off into captivity alongside Israel, idols that cannot even carry themselves, contrasted with the Yahweh who has borne his people from birth — plus a caution against the modern habit of labeling everything an idol."
 ---
 
 Two important questions Isaiah 46 puts before us are, (1) In what are you placing your hope for security? and (2) Is it actually able to give you the security you’re looking for from it?

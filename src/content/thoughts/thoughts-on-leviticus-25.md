@@ -6,7 +6,7 @@ reading:
   - "Mark 6"
 passages:
   - "Leviticus 25"
-summary: "Leviticus 25 is such an important chapter in understanding the heart of God."
+summary: "The Jubilee as a social and financial reset button every fifty years — forgiving debts, freeing slaves, and returning land — revealing God's compassion for the vulnerable, and how Israel's neglect of these very protections, not just idolatry, brought judgment."
 ---
 
 Leviticus 25 is such an important chapter in understanding the heart of God. 

@@ -6,7 +6,7 @@ reading:
   - "Philippians 4"
 passages:
   - "Philippians 4"
-summary: "In a time of endless social media and 24-hour news, Paul’s admonition to be proactive in what we think about seems especially pertinent."
+summary: "Why Philippians 4's call to dwell on what is good lands harder today than for its first readers — modern minds must first relearn how to dwell at all before they can reclaim what they dwell on, against a global firehose of distraction and negativity."
 ---
 
 In a time of endless social media and 24-hour news, Paul’s admonition to be proactive in what we think about seems especially pertinent.

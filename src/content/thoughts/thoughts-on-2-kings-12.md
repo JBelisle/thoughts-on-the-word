@@ -6,7 +6,7 @@ reading:
   - "John 11"
 passages:
   - "2 Kings 12"
-summary: "Jehoiada is a great example of a man who loved the Lord, tried to follow Him faithfully, had a huge impact through his faithfulness, and yet was still…"
+summary: "How even faithful Jehoiada the priest had blind spots — the unmade temple repairs in 2 Kings 12 as a reminder that everyone needs people who know them well enough and love them enough to call out their sin."
 ---
 
 Jehoiada is a great example of a man who loved the Lord, tried to follow Him faithfully, had a huge impact through his faithfulness, and yet was still sinful and needed to be called out where he was falling short.

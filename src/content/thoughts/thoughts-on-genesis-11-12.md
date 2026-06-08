@@ -5,7 +5,7 @@ reading:
   - "Genesis 11-12"
 passages:
   - "Genesis 11-12"
-summary: "It was at Babel that humanity, as a whole, first stopped belonging to God."
+summary: "Babel as the moment God disinherited the nations and handed them over to lesser elohim — and how his call of Abram begins the plan to bless those nations and bring them back into his family."
 ---
 
 It was at Babel that humanity, as a whole, first stopped belonging to God.

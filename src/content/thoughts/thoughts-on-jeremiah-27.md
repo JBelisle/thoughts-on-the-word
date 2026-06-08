@@ -6,7 +6,7 @@ reading:
   - "Romans 3"
 passages:
   - "Jeremiah 27"
-summary: "God may use people or nations to great effect without them being good, godly, or worth emulating in any way."
+summary: "From Jeremiah 27's naming of Nebuchadnezzar as God's servant — that God may use and even bless a nation like Babylon for His purposes without it being good or godly, and may still judge it afterward for what it does with that blessing."
 ---
 
 God may use people or nations to great effect without them being good, godly, or worth emulating in any way.

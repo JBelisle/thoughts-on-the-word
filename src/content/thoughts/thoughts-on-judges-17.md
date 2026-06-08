@@ -6,7 +6,7 @@ reading:
   - "Acts 28"
 passages:
   - "Judges 17"
-summary: "Judges 17 is a great presentation of something I think a lot of people forget when reading the Old Testament; that the people in the Old Testament were…"
+summary: "Micah's homemade idol and self-appointed Levite priest illustrate how an Israel without Scripture or central teaching drifted into sincere but false worship — a warning that well-meaning Christians today can likewise dedicate idols to God in ignorance."
 ---
 
 Judges 17 is a great presentation of something I think a lot of people forget when reading the Old Testament; that the people in the Old Testament were often very ignorant about what God wanted from Israel.

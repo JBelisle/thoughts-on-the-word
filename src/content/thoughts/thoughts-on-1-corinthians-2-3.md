@@ -6,7 +6,7 @@ reading:
   - "1 Corinthians 2-3"
 passages:
   - "1 Corinthians 2-3"
-summary: "I have been sitting here for a little while now trying to figure out what to write about out of today’s reading. Some days I have a hard time because…"
+summary: "The difference between exhaustive knowledge of the Word and genuine spiritual understanding — how the natural person cannot grasp the things of the Spirit, so that even gifted non-Christian scholars miss what a new believer sees plainly."
 ---
 
 I have been sitting here for a little while now trying to figure out what to write about out of today’s reading. Some days I have a hard time because there’s just not too much to write about, but this definitely isn’t one of those days. There is a lot going on in all three of today’s chapters that would be good fodder for a quick post, but for some reason I just didn’t want to write about any of those obvious topics. Instead, as I was praying about it, asking God what He wanted me to write about, and reading through the passages again, what struck me was the difference between a vast, even exhaustive, knowledge of the Word, and a mature Christian understanding of it.

@@ -6,7 +6,7 @@ reading:
   - "2 Corinthians 6"
 passages:
   - "Exodus 15"
-summary: "Today’s Exodus reading goes well with the 2 Corinthians 4 reading from a couple days ago, specifically in terms of the “light momentary afflictions” we…"
+summary: "Israel trapped against the sea by Egypt's army as a light momentary affliction — God deliberately led them into a danger they could not flee so that his miraculous deliverance would become the bedrock memory emboldening them to take the promised land."
 ---
 
 Today’s Exodus reading goes well with the 2 Corinthians 4 reading from a couple days ago, specifically in terms of the “light momentary afflictions” we discussed.

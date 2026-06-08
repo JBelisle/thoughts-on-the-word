@@ -7,7 +7,7 @@ reading:
 passages:
   - "Isaiah 53"
   - "Revelation"
-summary: "Isaiah 53 is a really interesting piece of Scripture because if you gave it to someone, even many non-Christians, without telling them that it was from the…"
+summary: "How Isaiah 53 describes Jesus so plainly that even non-Christians would name him, yet no one grasped it until after the resurrection — and how the same intentional ambiguity in Revelation should keep us from claiming to have the end times all figured out."
 ---
 
 Isaiah 53 is a really interesting piece of Scripture because if you gave it to someone, even many non-Christians, without telling them that it was from the Old Testament, and asked them who it was about, they would probably tell you Jesus, and yet, despite being so clear, nobody put it together until after Jesus rose from the dead and pointed them back to it.

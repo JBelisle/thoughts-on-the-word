@@ -6,7 +6,7 @@ reading:
   - "James 1"
 passages:
   - "1 Chronicles 20-21"
-summary: "The omission and inclusion of content in today’s chapters is what first drew my attention, reading through Chronicles in the past, to something being “off”…"
+summary: "Chronicles deliberately evokes the David and Bathsheba story only to omit it, while including the census — because, in tracking the messianic promise, David's sin against God matters more than his sin against people."
 ---
 
 The omission and inclusion of content in today’s chapters is what first drew my attention, reading through Chronicles in the past, to something being “off” about these books.

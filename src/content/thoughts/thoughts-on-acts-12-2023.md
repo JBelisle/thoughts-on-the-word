@@ -6,7 +6,7 @@ reading:
   - "Acts 12"
 passages:
   - "Acts 12"
-summary: "Prayer is not always nearly as straightforward and simple as I would personally like it to be."
+summary: "Wrestling with why God rescued Peter from prison in Acts 12 but let James be executed, and why deliverance came only at the last minute — and finding that the church kept praying anyway, choosing to trust God's faithfulness even without answers to the hardest questions about prayer."
 ---
 
 Prayer is not always nearly as straightforward and simple as I would personally like it to be.

@@ -6,7 +6,7 @@ reading:
   - "Romans 7"
 passages:
   - "Romans 7"
-summary: "In my experience, there are few things more frustrating in trying to follow God than my own sin. You would think that the longer you walk with God the less…"
+summary: "Why feeling more burdened by sin the longer you follow God is a sign of spiritual growth, not failure — as Paul's struggle in Romans 7 reflects a conscience growing more sensitive, shifting from asking what is allowed to what pleases the Lord."
 ---
 
 In my experience, there are few things more frustrating in trying to follow God than my own sin. You would think that the longer you walk with God the less sinful you would be, but it just seems like the longer I follow Him and the more I try to give of myself to Him, the worse and more frustrating my sin becomes...

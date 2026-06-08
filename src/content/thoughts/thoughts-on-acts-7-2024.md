@@ -6,7 +6,7 @@ reading:
   - "Acts 7"
 passages:
   - "Acts 7"
-summary: "I wonder if part of the reason Luke incudes Stephen’s speech, with all the detail that he does, is to give his non-Jewish readers a bit of a background in…"
+summary: "Why Luke records Stephen's lengthy speech in Acts 7 in full rather than summarizing it — perhaps to give his Gentile readers an introduction to the key figures of Jewish history, from Abraham to Moses, and whet their appetite to learn the foundations of their faith."
 ---
 
 I wonder if part of the reason Luke incudes Stephen’s speech, with all the detail that he does, is to give his non-Jewish readers a bit of a background in some of the most important stories of the Jewish Scriptures.

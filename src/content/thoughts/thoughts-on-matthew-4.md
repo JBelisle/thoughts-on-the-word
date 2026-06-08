@@ -6,7 +6,7 @@ reading:
   - "Matthew 4"
 passages:
   - "Matthew 4"
-summary: "When Jesus started His ministry by preaching that the kingdom of heaven was at hand, He wasn't talking about what we see at the end of Revelation, where the…"
+summary: "Jesus preaching that the kingdom of heaven is at hand pointed not to a far-off future but to the kingdom inaugurated in him and poured out at Pentecost — a present reality in the church that should reshape where our true citizenship lies."
 ---
 
 When Jesus started His ministry by preaching that the kingdom of heaven was at hand, He wasn't talking about what we see at the end of Revelation, where the kingdom comes in it's fullness, but about the inaugurated kingdom present on earth in Him and His followers.

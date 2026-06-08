@@ -7,7 +7,7 @@ reading:
 passages:
   - "Jeremiah 45"
   - "1 Corinthians 4"
-summary: "If you are following the Lord to have a pain free life of health, wealth, and influence, you are bound to be sorely disappointed…"
+summary: "Using God's word to Baruch and Paul's account of apostolic suffering to confront both health-and-wealth teaching and the quieter assumption that faithfulness should at least spare us life's extremes — faithfulness produces an eternal weight of glory, not exemption from suffering."
 ---
 
 If you are following the Lord to have a pain free life of health, wealth, and influence, you are bound to be sorely disappointed…

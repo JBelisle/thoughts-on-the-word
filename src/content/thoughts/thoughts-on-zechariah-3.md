@@ -6,7 +6,7 @@ reading:
   - "Hebrews 13"
 passages:
   - "Zechariah 3"
-summary: "I’m incredibly curious if Joshua was experiencing the vision Zechariah saw of him in Zechariah 3, or if that was only a vision rather than happening in reality."
+summary: "Zechariah 3 as a courtroom scene where ha-satan, the adversary, is a prosecutorial role rather than a proper name — and how the high priest Joshua is acquitted and clothed in purity not by his own righteousness but by God's mercy, a vivid picture of the gospel."
 ---
 
 I’m incredibly curious if Joshua was experiencing the vision Zechariah saw of him in Zechariah 3, or if that was only a vision rather than happening in reality.

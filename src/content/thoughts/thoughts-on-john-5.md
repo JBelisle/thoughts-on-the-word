@@ -6,7 +6,7 @@ reading:
   - "John 5"
 passages:
   - "John 5"
-summary: "If Jesus was sinless, how can John tell us that the Jews were seeking to kill Him because He was breaking the Sabbath? Wouldn’t breaking the sabbath have…"
+summary: "Jesus never actually broke the Sabbath — the Jews only thought he did, judging him by man-made rules added atop God's command — and a warning that we still reject the Lord's clear work today when it fails to fit artificial frameworks like the sinner's prayer."
 ---
 
 If Jesus was sinless, how can John tell us that the Jews were seeking to kill Him because He was breaking the Sabbath? Wouldn’t breaking the sabbath have been considered sinful since observing it was a direct command of God?

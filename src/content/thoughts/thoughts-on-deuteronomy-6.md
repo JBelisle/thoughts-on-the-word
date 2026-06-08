@@ -6,7 +6,7 @@ reading:
   - "Revelation 6"
 passages:
   - "Deuteronomy 6"
-summary: "I think we see something really important in understanding the heart of God in Deuteronomy 6 that a lot of people get wrong, and that is what God expects…"
+summary: "Pushing back on the idea that God keeps a checklist of infractions waiting to punish — the commandments Moses has in view in Deuteronomy 6 are the simple ten of chapter 5, and what God truly wants is believing loyalty, not flawless compliance."
 ---
 
 I think we see something really important in understanding the heart of God in Deuteronomy 6 that a lot of people get wrong, and that is what God expects from His people.

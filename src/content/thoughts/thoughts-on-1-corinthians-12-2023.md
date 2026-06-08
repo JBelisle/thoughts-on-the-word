@@ -6,7 +6,7 @@ reading:
   - "1 Corinthians 12"
 passages:
   - "1 Corinthians 12"
-summary: "Western individualism really gets in the way of 1 Corinthians 12."
+summary: "How Western individualism distorts Paul's vision of the Body of Christ — where every role matters in its own right rather than serving as a stepping stone to the top, and both members and church leaders must make room for each gift God provides."
 ---
 
 Western individualism really gets in the way of 1 Corinthians 12.

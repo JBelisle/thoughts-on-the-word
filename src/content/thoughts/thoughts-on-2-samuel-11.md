@@ -6,7 +6,7 @@ reading:
   - "2 Corinthians 13"
 passages:
   - "2 Samuel 11"
-summary: "Today’s post is mostly just another book recommendation for a book I’ve talked about a handful of times on here already called Misreading Scripture with…"
+summary: "Drawing on Misreading Scripture with Western Eyes to argue that David and Bathsheba was not a secret affair but brazen, public adultery a king could take openly — recasting Uriah's refusal to go home as a pointed refusal to play along."
 ---
 
 Today’s post is mostly just another book recommendation for a book I’ve talked about a handful of times on here already called *Misreading Scripture with Western Eyes.* The book is all about, as the title suggests, the way that our modern Western worldview causes us to misunderstand what is happening in the Scriptures. Some of it is the individualistic way we think and process events, some of it is context and understanding that we just don’t have anymore, etc. I highly suggest the book. It’s a relatively quick read, and it’s written for the average person, not the scholar, so it’s easy to consume as well, but it had a huge impact for me on how I thought about Scripture.

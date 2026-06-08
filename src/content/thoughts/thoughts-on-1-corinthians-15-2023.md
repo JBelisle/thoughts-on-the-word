@@ -6,7 +6,7 @@ reading:
   - "1 Corinthians 15"
 passages:
   - "1 Corinthians 15"
-summary: "The more I think about it this morning, the more I think that Paul's analogy from 1 Cor. 15 of our physical bodies being to our heavenly bodies what a seed…"
+summary: "Paul's seed-and-plant analogy for the resurrection body explains why setting our affections on eternity is so hard — we are acorns who cannot conceive of the oak, left to live by faith in a Father who has promised to carry us through."
 ---
 
 The more I think about it this morning, the more I think that Paul's analogy from 1 Cor. 15 of our physical bodies being to our heavenly bodies what a seed is to a plant helps explain why it is just so difficult to keep our eyes and affections set on the things that matter most rather than getting bogged down in the mundane that God says doesn't need to be our priority.

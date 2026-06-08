@@ -9,7 +9,7 @@ interface Props {
   chapters?: number[];
 }
 const { article, chapters } = Astro.props;
-const { title, passages, titleImage } = article.data;
+const { title, passages, titleImage, summary } = article.data;
 const dateStr = article.data.date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
 const base = { thoughts: 'thoughts', translations: 'translations' }[article.collection] ?? 'articles';
 const href = `/${base}/${article.id}`;
@@ -34,6 +34,7 @@ const subdued =
     <span class="card-title">{title}</span>
     <span class="card-date">{dateStr}</span>
     {passages && passages.length ? <p class="card-meta">Covers {passages.join(' · ')}</p> : null}
+    {summary ? <p class="card-summary">{summary}</p> : null}
     <span class={`tag${subdued ? ' tag-note' : ''}`}>{tag}</span>
   </span>
 </a>

@@ -6,7 +6,7 @@ reading:
   - "Titus 1-2"
 passages:
   - "Leviticus 16"
-summary: "Leviticus 16 outlines the rituals (and their meanings) for the Day of Atonement. There is a pretty pervasive misunderstanding among Christians that the Day…"
+summary: "The Day of Atonement read not as forgiveness of sins but as a yearly reset button for Israel — blood cleansing sacred space, and the scapegoat carrying sin out to Azazel in the chaos beyond Yahweh's ordered domain — with a note on how its meaning shifted after the temple fell."
 ---
 
 Leviticus 16 outlines the rituals (and their meanings) for the Day of Atonement. There is a pretty pervasive misunderstanding among Christians that the Day of Atonement was about forgiveness of sins, but if you pay attention as you read this chapter, that’s not really the point of the Day of Atonement. Instead, the Day of Atonement is a ritual reset button for Israel.

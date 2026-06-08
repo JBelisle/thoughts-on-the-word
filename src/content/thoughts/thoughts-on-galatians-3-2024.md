@@ -6,7 +6,7 @@ reading:
   - "Galatians 3"
 passages:
   - "Galatians 3"
-summary: "There are some truths, and some passages, which I understand so much better now that I am a parent, and the end of Galatians 3 is one of them."
+summary: "How becoming a parent illuminates the end of Galatians 3 — the move from law as guardian to sonship in Christ, and the steadier assurance that comes from grasping that a child remains a child no matter the day's performance."
 ---
 
 There are some truths, and some passages, which I understand so much better now that I am a parent, and the end of Galatians 3 is one of them.

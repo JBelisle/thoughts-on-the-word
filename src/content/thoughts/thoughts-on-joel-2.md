@@ -6,7 +6,7 @@ reading:
   - "Mark 4"
 passages:
   - "Joel 2"
-summary: "The imagery Joel puts to the day of the Lord really helps drive home the contrast. There will be no middle ground on that day. For those opposed to the…"
+summary: "Joel's imagery of the day of the Lord draws a stark contrast with no middle ground — terror and unrelenting destruction for those opposed to the Lord, but for his people the same day brings green pastures, restoration, and blessing to be celebrated above all else."
 ---
 
 The imagery Joel puts to the day of the Lord really helps drive home the contrast. There will be no middle ground on that day. For those opposed to the Lord, it will be a day of absolute terror and unrelenting destruction, but for the Lord’s people, it will be a day of celebration, joy, peace, and unrelenting hope.

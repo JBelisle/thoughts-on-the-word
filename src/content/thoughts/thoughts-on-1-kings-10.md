@@ -6,7 +6,7 @@ reading:
   - "1 Thessalonians 3-4"
 passages:
   - "1 Kings 10"
-summary: "I know I wrote about this the other day as well, but reading about the incredible wealth of Israel in 1 Kings 10 just leaves my jaw on the floor thinking…"
+summary: "Solomon's staggering wealth and Israel's peace in 1 Kings 10 as only a taste of what God promised a faithful Israel — and a foreshadowing of the new Jerusalem in Revelation 21, where nations bring tribute to the true righteous king."
 ---
 
 I know I wrote about this the other day as well, but reading about the incredible wealth of Israel in 1 Kings 10 just leaves my jaw on the floor thinking about what things would have looked like if Israel had stayed faithful to Yahweh.

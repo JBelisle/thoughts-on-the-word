@@ -6,7 +6,7 @@ reading:
   - "2 Peter 2"
 passages:
   - "2 Peter 2"
-summary: "It is kind of crazy to me just how much ink Peter spills on false teachers here…"
+summary: "Reading 2 Peter 2 as a warning not about outsiders but about former believers who turn back to sin for gain and draw new converts after them — and how the prosperity gospel and culturally accommodating teaching fill that same role in the church today."
 ---
 
 It is kind of crazy to me just how much ink Peter spills on false teachers here…

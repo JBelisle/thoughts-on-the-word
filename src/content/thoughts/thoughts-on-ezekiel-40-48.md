@@ -6,7 +6,7 @@ reading:
   - "1 Timothy 5"
 passages:
   - "Ezekiel 40-48"
-summary: "Now that we are near the end of these nine chapters, I’m lumping Ezekiel 40-48 all together in a single post about how we should think about/understand this…"
+summary: "Wrestling with how to read Ezekiel's detailed temple vision in chapters 40-48 — the problems a literal interpretation creates (reinstated sacrifices, a non-Messianic prince) and the case, drawn from Michael Heiser, for reading it as figurative."
 ---
 
 Now that we are near the end of these nine chapters, I’m lumping Ezekiel 40-48 all together in a single post about how we should think about/understand this section of Scripture.

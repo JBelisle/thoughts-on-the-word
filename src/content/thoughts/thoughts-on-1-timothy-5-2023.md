@@ -6,7 +6,7 @@ reading:
   - "1 Timothy 5"
 passages:
   - "1 Timothy 5"
-summary: "The thing that really sticks out to me in 1 Timothy 5 this morning is not so much the content of the chapter, but the need for real community and…"
+summary: "How Paul's directions about widows and elders presuppose deep, ongoing knowledge of people's lives — community that was simply normative then but which the church today, drifting with a busy and isolated culture, must now actively fight to recover."
 ---
 
 The thing that really sticks out to me in 1 Timothy 5 this morning is not so much the content of the chapter, but the need for real community and relationships that the content implies. 

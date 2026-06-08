@@ -6,7 +6,7 @@ reading:
   - "Romans 11"
 passages:
   - "1 Samuel 9"
-summary: "The last few days I keep feeling like I should be writing about Romans, just because Romans is so theologically dense, but on this plan we read Romans twice…"
+summary: "Saul setting out merely to find lost donkeys yet arriving exactly where God had foretold he would meet Samuel — a meditation on how divine sovereignty works through ordinary free choices, and why those genuinely seeking God need not fear missing some single ideal path for their lives."
 ---
 
 The last few days I keep feeling like I should be writing about Romans, just because Romans is so theologically dense, but on this plan we read Romans twice a year and we are taking two years to go through the Old Testament, so I’m going to keep putting off the theologically dense for the fun of our Old Testament reading for now 😁

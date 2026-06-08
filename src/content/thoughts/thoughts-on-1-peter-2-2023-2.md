@@ -6,7 +6,7 @@ reading:
   - "1 Peter 2"
 passages:
   - "1 Peter 2"
-summary: "A lot of Christians today, both individually and as churches, are bowing to cultural pressure rather than standing on the clear teaching of the Word. Rather…"
+summary: "Peter's call to live so honorably that good deeds put to silence the ignorance of foolish people — with Daniel as the model whose enemies could find no fault but his prayers, framing how Christians should stand for biblical truth in a hostile culture."
 ---
 
 A lot of Christians today, both individually and as churches, are bowing to cultural pressure rather than standing on the clear teaching of the Word. Rather than submitting to the whims of our culture though, we should be looking to Peter’s words here in 1 Peter 2, and seeking to live such honorable, upright lives, and doing such good, that by our lives we “put to silence the ignorance of foolish people.”

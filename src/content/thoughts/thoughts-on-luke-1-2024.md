@@ -6,7 +6,7 @@ reading:
   - "Luke 1"
 passages:
   - "Luke 1"
-summary: "I’ve never really considered before how illegitimate it was for Zechariah to ask for a sign from Gabriel."
+summary: "Why Zechariah's request for a sign from Gabriel was so out of place — standing in the holiest part of the temple, he had no grounds to doubt the messenger — and how it warns against asking God for signs to dodge a will He has already made clear."
 ---
 
 I’ve never really considered before how illegitimate it was for Zechariah to ask for a sign from Gabriel.

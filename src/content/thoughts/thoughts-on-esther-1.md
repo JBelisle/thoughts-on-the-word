@@ -6,7 +6,7 @@ reading:
   - "Ephesians 3"
 passages:
   - "Esther 1"
-summary: "I personally appreciate the portrait that the book of Esther gives us of how God works through His ordinary people to accomplish His purposes via ordinary…"
+summary: "Esther showcases how God works not chiefly through dramatic prophetic miracles but through ordinary people shaped by their circumstances — Esther and Mordecai acting on wisdom and opportunity, with God's hand visible only in hindsight, much as Moses was prepared by his eighty years before the call."
 ---
 
 I personally appreciate the portrait that the book of Esther gives us of how God works through His ordinary people to accomplish His purposes via ordinary means.

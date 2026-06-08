@@ -6,7 +6,7 @@ reading:
   - "1 Corinthians 11"
 passages:
   - "1 Corinthians 11"
-summary: "Does anybody know when communion moved from being a large (and evidently not quiet/solemn) meal shared together to being a quiet, primarily personal thing…"
+summary: "Asking when Communion shifted from a full shared meal to a quiet, personal ritual — reading Paul's correction of the Corinthians not as ending the common meal but as curbing those who took more than their share while others went hungry."
 ---
 
 Does anybody know when communion moved from being a large (and evidently not quiet/solemn) meal shared together to being a quiet, primarily personal thing with a small bit of bread and wine?

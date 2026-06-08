@@ -6,7 +6,7 @@ reading:
   - "Revelation 22"
 passages:
   - "Revelation 22"
-summary: "Revelation 22 always gets me excited for eternity."
+summary: "Why the concrete, physical vision of Revelation 22 — the river of life and the trees of life — makes eternity tangible and exciting in a way the common ethereal, cloud-floating picture of heaven never could."
 ---
 
 Revelation 22 always gets me excited for eternity.

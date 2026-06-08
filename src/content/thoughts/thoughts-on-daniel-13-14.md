@@ -6,7 +6,7 @@ reading:
   - "1 Timothy 3-4"
 passages:
   - "Daniel 13-14"
-summary: "It has been a long time since I have read the apocryphal chapters of Daniel, but reading them this morning, they just really don’t fit with the rest of the…"
+summary: "Why the apocryphal chapters of Daniel 13-14, found in the Septuagint and held canonical by Catholic tradition, read like poorly written fan-fiction — failing to match the style and characterization of the rest of the book."
 ---
 
 It has been a long time since I have read the apocryphal chapters of Daniel, but reading them this morning, they just really don’t fit with the rest of the book.

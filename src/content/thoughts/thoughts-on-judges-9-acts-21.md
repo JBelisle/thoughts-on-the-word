@@ -7,7 +7,7 @@ reading:
 passages:
   - "Judges 9"
   - "Acts 21"
-summary: "I don't have much to say about Judges 9 this morning other than to point out that there is no judge in it."
+summary: "Judges 9 has no judge and no outside enemy — only Abimelech's fratricidal grab for power, a window into how quickly Israel degenerated in the promised land — paired with Acts 21 on faithful believers reaching opposite conclusions from the same Spirit about Paul going to Jerusalem."
 ---
 
 ### Thoughts on Judges 9

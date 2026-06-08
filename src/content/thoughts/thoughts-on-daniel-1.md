@@ -6,7 +6,7 @@ reading:
   - "Colossians 1"
 passages:
   - "Daniel 1"
-summary: "While I can't speak for Christians in the rest of the world, I really feel like Christians in America need to pay more attention to the example of Daniel…"
+summary: "Daniel and his friends as a model for American Christians under pagan government — quietly faithful to Yahweh and willing to compromise where they can, serving a brutal king well without ever justifying or validating his character or policies."
 ---
 
 While I can't speak for Christians in the rest of the world, I really feel like Christians in America need to pay more attention to the example of Daniel and his friends in how they interact with pagan governments and policies.

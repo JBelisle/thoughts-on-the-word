@@ -6,7 +6,7 @@ reading:
   - "Revelation 14"
 passages:
   - "Deuteronomy 13"
-summary: "Deuteronomy 13 is intense…"
+summary: "Deuteronomy 13's startling severity — putting to death even a prophet, a family member, or a whole city that entices Israel to other gods — is meant to be uncomfortable, revealing how seriously God takes faithfulness to Him."
 ---
 
 Deuteronomy 13 is intense…

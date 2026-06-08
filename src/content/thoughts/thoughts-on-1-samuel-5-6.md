@@ -6,7 +6,7 @@ reading:
   - "Romans 9"
 passages:
   - "1 Samuel 5-6"
-summary: "1 Samuel 5-6 gives us a really helpful insight into how ancient people thought about and interacted with deities, and this insight helps us understand why…"
+summary: "How Dagon falling before the ark and the Philistines' plague illuminate the ancient view that all gods were real but territorial — and why the Philistines stayed faithful to Dagon even after Yahweh's dominance, making Israel's repeated turning from Yahweh all the more shameful."
 ---
 
 1 Samuel 5-6 gives us a really helpful insight into how ancient people thought about and interacted with deities, and this insight helps us understand why God gets so frustrated with Israel continuously turning from Him to other gods.

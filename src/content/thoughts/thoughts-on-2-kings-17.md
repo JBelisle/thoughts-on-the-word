@@ -6,7 +6,7 @@ reading:
   - "John 16"
 passages:
   - "2 Kings 17"
-summary: "Despite the fact that it contains His judgement against Israel, 2 Kings 17 just screams to me of God’s incredible patience for His deeply undeserving people."
+summary: "Reading the fall of Samaria and Israel's exile in 2 Kings 17 as a testament to God's centuries of patience — pushing back on the caricature of an angry Old Testament God against the prophets He sent again and again to call His people back."
 ---
 
 Despite the fact that it contains His judgement against Israel, 2 Kings 17 just screams to me of God’s incredible patience for His deeply undeserving people.

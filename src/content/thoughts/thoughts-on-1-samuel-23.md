@@ -6,7 +6,7 @@ reading:
   - "1 Corinthians 11"
 passages:
   - "1 Samuel 23"
-summary: "1 Samuel 23 includes a passage which has significantly changed my understanding of God's omniscience."
+summary: "David asking God whether Saul will come to Keilah, and the men give him up, prompts a rethinking of God's omniscience — proposing that the future may genuinely not yet exist, so God knows all that is possible rather than seeing a fixed future, reframing prophecy and the cosmic conflict."
 ---
 
 1 Samuel 23 includes a passage which has significantly changed my understanding of God's omniscience.

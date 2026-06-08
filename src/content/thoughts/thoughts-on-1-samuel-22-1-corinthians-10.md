@@ -7,7 +7,7 @@ reading:
 passages:
   - "1 Samuel 22"
   - "1 Corinthians 10"
-summary: "Saul is such a great cautionary tale on the insidiousness of sin."
+summary: "Saul's slaughter of the priests at Nob as a cautionary tale on how small indulged sins callous the heart and lead far beyond where we ever imagined — paired with Paul on idol-meat in 1 Corinthians 10, where intent, not just the act, determines sin."
 ---
 
 ## Thoughts on 1 Samuel 22

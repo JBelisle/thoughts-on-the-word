@@ -7,7 +7,7 @@ reading:
 passages:
   - "Judges 16"
   - "Acts 27"
-summary: "I have wondered, for a while now, if Samson’s strength was actually tied to his hair."
+summary: "Arguing that Samson's strength was tied not to his hair itself but to his faith — losing it through a breach of trust and regaining it by turning back to God — paired with Acts 27 on how God's way is always best even when the practical route looks wiser."
 ---
 
 ## Thoughts on Judges 16

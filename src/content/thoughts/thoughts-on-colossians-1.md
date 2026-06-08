@@ -6,7 +6,7 @@ reading:
   - "Colossians 1"
 passages:
   - "Colossians 1"
-summary: "Reading Colossians 1 this morning, I am just so grateful for the gospel."
+summary: "Walking through Colossians 1 along the root, means, impact, and final result of the gospel — Jesus as the uncreated Creator who humbled Himself to the cross, reconciliation received by faith alone, the transformation it produces, and the assurance of eternity with God."
 ---
 
 Reading Colossians 1 this morning, I am just so grateful for the gospel.

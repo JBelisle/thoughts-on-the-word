@@ -6,7 +6,7 @@ reading:
   - "1 Timothy 5"
 passages:
   - "1 Timothy 5"
-summary: "I wonder how much paper work and red tape the average church today would have to put in place to try to take 1 Timothy 5 seriously."
+summary: "How Paul's instructions about supporting widows assume an intimacy of shared life that a modern church would likely replace with forms and committees — a challenge to recover the radical, mutually known community the New Testament treats as baseline."
 ---
 
 I wonder how much paper work and red tape the average church today would have to put in place to try to take 1 Timothy 5 seriously.

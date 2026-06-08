@@ -6,7 +6,7 @@ reading:
   - "Revelation 2"
 passages:
   - "Revelation 2"
-summary: "There are two things that stand out to me this morning in Jesus’ words to the church in Thyatira: God’s patient mercy, and how much this sounds like the…"
+summary: "Jesus' words to the church in Thyatira draw out two threads — the depth of God's patient mercy toward the struggling believer, and a warning that faithful churches today risk tolerating a modern Jezebel by failing to call sin sin."
 ---
 
 There are two things that stand out to me this morning in Jesus’ words to the church in Thyatira: God’s patient mercy, and how much this sounds like the broader church in American today.

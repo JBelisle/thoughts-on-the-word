@@ -6,7 +6,7 @@ reading:
   - "1 Timothy 1-2"
 passages:
   - "1 Kings 14"
-summary: "I know that this is not the point of 1 Kings 14, but there is something in this chapter that I think is important context for how we think about God's…"
+summary: "God letting Jeroboam's son Abijah die because He was pleased with him reframes how we read divine judgment in the Old Testament — death viewed from eternity can be mercy, sparing the young from being raised into rebellion and condemnation."
 ---
 
 I know that this is not the point of 1 Kings 14, but there is something in this chapter that I think is important context for how we think about God's judgements on people in the Old Testament.

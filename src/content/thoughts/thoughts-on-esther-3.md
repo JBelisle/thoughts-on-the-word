@@ -6,7 +6,7 @@ reading:
   - "Ephesians 5"
 passages:
   - "Esther 3"
-summary: "The last sentence of Esther 3 is amazing to me in just how effective the author is at communicating so much, and so well, with so few words."
+summary: "How the closing line of Esther 3 — the king and Haman sitting down to drink while Susa is thrown into confusion — exposes an innocent king and a seared-conscience Haman, possibly echoing Joseph's brothers eating beside the pit and hinting at God's coming rescue."
 ---
 
 The last sentence of Esther 3 is amazing to me in just how effective the author is at communicating so much, and so well, with so few words.

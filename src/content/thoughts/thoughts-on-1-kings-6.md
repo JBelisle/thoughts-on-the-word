@@ -6,7 +6,7 @@ reading:
   - "Colossians 3"
 passages:
   - "1 Kings 6"
-summary: "This is pure musing on my part, but I can’t help but wonder how God felt about the temple Solomon built."
+summary: "Musing on whether Solomon's opulent temple, so unlike the plain tabernacle God prescribed, truly drew Israel to Yahweh or resembled the manufactured grandeur of pagan temples — and how God's chosen reminders, like stacked stones and the Passover, differed."
 ---
 
 This is pure musing on my part, but I can’t help but wonder how God felt about the temple Solomon built. 

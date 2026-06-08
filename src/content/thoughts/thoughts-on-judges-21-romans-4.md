@@ -7,7 +7,7 @@ reading:
 passages:
   - "Judges 21"
   - "Romans 4"
-summary: "For all the trouble Israel was getting themselves in during the period of the judges, I feel like their concern and compassion for Benjamin is one thing…"
+summary: "Israel's grief over nearly losing Benjamin models the right posture toward sin and discipline — mourning rather than rejoicing — paired with a reading of Romans 4 arguing that Abraham fathering Ishmael through Hagar was faith expressed in its cultural setting, not unbelief."
 ---
 
 ## Thoughts on Judges 21

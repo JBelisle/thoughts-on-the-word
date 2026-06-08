@@ -6,7 +6,7 @@ reading:
   - "Hebrews 8"
 passages:
   - "Numbers 14"
-summary: "God is good, patient, loving, and desires the best for us, but that does not mean that He will always protect us, or the people around us, from the…"
+summary: "Israel's refusal to enter the land in Numbers 14 cost them the promise permanently — a sobering warning that God may not always send someone else or grant a next time, and that our faithfulness in the works He prepares carries real, eternal weight."
 ---
 
 God is good, patient, loving, and desires the best for us, but that does not mean that He will always protect us, or the people around us, from the consequences of our faithlessness.
