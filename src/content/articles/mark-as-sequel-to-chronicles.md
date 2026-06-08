@@ -3,7 +3,7 @@ title: "The Gospel of Mark as the Sequel to Chronicles: A Theory on the Abrupt E
 date: 2023-03-14
 type: "Theology"
 summary: "In case you are not familiar with the questions around the ending of The Gospel of Mark, the quick summary is that it seemingly ends very abruptly. Chapter…"
-titleImage: "/images/reuben-juarez-unsplash.jpg"
+titleImage: "/images/to-be-continued.jpg"
 ---
 
 In case you are not familiar with the questions around the ending of The Gospel of Mark, the quick summary is that it seemingly ends very abruptly. Chapter 16 starts with the women bringing spices to Jesus' tomb, finding it open, being told that Jesus has risen, and then fleeing in trembling and astonishment, and that is very likely where it originally ended. The earliest manuscripts do not include any of the rest of chapter 16, and there are some unique elements in the remaining verses that aren’t found in the other gospels, which is especially unexpected if Matthew and Luke used Mark as a primary source when writing their gospels.

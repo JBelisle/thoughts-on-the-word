@@ -21,7 +21,7 @@ const dateStr = thought.data.date.toLocaleDateString('en-US', { year: 'numeric',
   <article class="prose-wrap" data-pagefind-body>
     <BackLink fallback={refs.length ? `/books/${refs[0].book.slug}` : '/browse'} />
     <h1>{thought.data.title}</h1>
-    <p class="muted small">{dateStr} &middot; Thoughts</p>
+    <p class="muted small" data-pagefind-meta={`date:${dateStr}`}>{dateStr} &middot; Thoughts</p>
     {readingRefs.length ? (
       <p class="reading">
         Today&rsquo;s reading: {readingRefs.map((r, i) => (

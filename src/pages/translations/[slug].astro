@@ -19,7 +19,7 @@ const dateStr = translation.data.date.toLocaleDateString('en-US', { year: 'numer
   <article class="prose-wrap" data-pagefind-body>
     <BackLink fallback={refs.length ? `/books/${refs[0].book.slug}` : '/browse'} />
     <h1>{translation.data.title}</h1>
-    <p class="muted small">{dateStr} &middot; Joe&rsquo;s Bible Translation</p>
+    <p class="muted small" data-pagefind-meta={`date:${dateStr}`}>{dateStr} &middot; Joe&rsquo;s Bible Translation</p>
     {refs.length ? (
       <p class="covers">
         Covers {refs.map((r, i) => (

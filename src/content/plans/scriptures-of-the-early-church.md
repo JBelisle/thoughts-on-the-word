@@ -1,5 +1,5 @@
 ---
-title: "Scriptures of the early church"
+title: "Scriptures of the Early Church"
 date: 2020-12-26
 summary: "A whole-Bible-in-a-year plan in early-church reading order: the Old Testament in the traditional Jewish order, the New Testament by date written."
 titleImage: "/images/early-church-bible.jpg"
@@ -8,7 +8,7 @@ sheet: "https://docs.google.com/spreadsheets/d/196YYXm2z_6OquVrDfq_GgvxaFelq9Eti
 
 With 2020 drawing to a close and a new year about to start, many people will be looking for a bible reading plan for 2021. With that in mind, I wanted to share this plan I recently created for the coming year that I’m calling, “The Scriptures of the Early Church”.
 
-You can find the plan [here on google drive](https://docs.google.com/spreadsheets/d/196YYXm2z_6OquVrDfq_GgvxaFelq9EtiRDmrono6jdk/edit). Just go to File > Make a Copy to save off a copy for yourself.
+You can open the plan with the Google Sheets button at the top of this page. Just go to File > Make a Copy to save off a copy for yourself.
 
 ## Some highlights of the plan…
 

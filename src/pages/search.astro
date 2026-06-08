@@ -12,7 +12,19 @@ import Base from '../layouts/Base.astro';
   <script is:inline>
     window.addEventListener('DOMContentLoaded', function () {
       if (window.PagefindUI) {
-        new window.PagefindUI({ element: '#search', showSubResults: true, showImages: true });
+        new window.PagefindUI({
+          element: '#search',
+          showSubResults: true,
+          showImages: true,
+          // Surface each result's date under the title so duplicate-named entries
+          // (e.g. multiple "Thoughts on Galatians 1") are distinguishable.
+          processResult: function (result) {
+            if (result && result.meta && result.meta.date) {
+              result.excerpt = '<span class="search-result-date">' + result.meta.date + '</span>' + result.excerpt;
+            }
+            return result;
+          },
+        });
       }
     });
   </script>
