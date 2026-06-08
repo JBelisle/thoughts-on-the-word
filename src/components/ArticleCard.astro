@@ -33,8 +33,8 @@ const subdued =
   <span class="card-body">
     <span class="card-title">{title}</span>
     <span class="card-date">{dateStr}</span>
-    {passages && passages.length ? <p class="card-meta">Covers {passages.join(' · ')}</p> : null}
     {summary ? <p class="card-summary">{summary}</p> : null}
+    {passages && passages.length ? <p class="card-meta">Covers {passages.join(' · ')}</p> : null}
     <span class={`tag${subdued ? ' tag-note' : ''}`}>{tag}</span>
   </span>
 </a>
