@@ -1,5 +1,5 @@
 ---
-title: "Scriptures of the Early Church"
+title: "Scriptures of the Early Church (Bible in a Year)"
 date: 2020-12-26
 summary: "A whole-Bible-in-a-year plan in early-church reading order: the Old Testament in the traditional Jewish order, the New Testament by date written."
 titleImage: "/images/early-church-bible.jpg"

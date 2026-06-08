@@ -1,5 +1,5 @@
 ---
-title: "Runway to Daily Bible Reading"
+title: "Runway to Daily Bible Reading (Bible in a Year)"
 date: 2026-06-06
 summary: "A gentle on-ramp into daily Bible reading that starts at five or six minutes a morning and builds to a steady twelve or thirteen over the first six months."
 titleImage: "/images/runway.jpg"

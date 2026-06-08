@@ -21,7 +21,7 @@ If I remember right, I was a couple chapters into my project to translate Galati
 > 
 > <sup>13</sup>So now these three remain: faith, hope and love, but the greatest of these is love.
 > 
-> 1 Corinthians 13 (JBT)
+> <span class="quote-source">1 Corinthians 13 (JBT)</span>
 
 The thing that struck me today as I was reading this passage though is the diversity we have in love.
 

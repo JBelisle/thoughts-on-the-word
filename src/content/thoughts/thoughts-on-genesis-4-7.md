@@ -36,7 +36,10 @@ For a little context, I came to faith in Christ through a church that generally 
 
 Well, a few years back I came across this video, and found it absolutely fascinating:
 
-  
+<div class="video-embed">
+  <iframe src="https://www.youtube.com/embed/n2ANUKSF2BE" title="Catastrophic Plate Tectonics lecture" loading="lazy" allowfullscreen></iframe>
+</div>
+
 The lecture is long, but worth the watch if you're at all curious about this topic. They present the idea of what they refer to as Catastrophic Plate Tectonics. In short, the idea is that the continents were in the Pangea formation as a single landmass before the flood, and that a plate subduction event triggered the flood and caused the rapid movement of the continents to their current positions, moving with enough momentum to cause/create mountain ranges when land masses collided with one another. There is a lot more to it than that, and the explanation also includes the global layering of sediment with varied flora and fauna being captured/fossilized in the process, changes to global weather patterns, etc.
 
 I obviously can't say for sure whether or not their model is the correct one, but it has a lot of explanatory power and definitely changed the way I think about the flood account and it's scale.
