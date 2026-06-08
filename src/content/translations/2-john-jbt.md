@@ -6,7 +6,7 @@ passages:
 summary: "Joe's Bible Translation — 2 John."
 ---
 
-[*Intro to the JBT*](https://www.thoughtsontheword.com/p/jbt-joes-bible-translation.html)
+[*Intro to the JBT*](/articles/jbt-joes-bible-translation)
 
 <sup>1</sup>The elder, to the chosen lady and her children, whom I love in truth (and not only I, but also all who know the truth), <sup>2</sup>because of the truth that abides in us and will be with us forever: <sup>3</sup>Grace, mercy and peace will be with us, from God the Father and from Jesus Christ, the Son of the Father, in truth and love.
 

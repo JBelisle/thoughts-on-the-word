@@ -524,6 +524,7 @@
 # Blogger static pages
 /p/about-this-site.html                  /about                                         301
 /p/discussion-starters.html              /discussion-starters                           301
+/p/jbt-joes-bible-translation.html       /articles/jbt-joes-bible-translation           301
 /p/runway-to-daily-bible-reading.html    /reading-plans/runway-to-daily-reading         301
 
 # Old Blogger label pages -> new sections

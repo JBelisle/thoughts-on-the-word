@@ -6,7 +6,7 @@ passages:
 summary: "Joe's Bible Translation — Philemon."
 ---
 
-[*Intro to the JBT*](https://www.thoughtsontheword.com/p/jbt-joes-bible-translation.html)
+[*Intro to the JBT*](/articles/jbt-joes-bible-translation)
 
 <sup>1</sup>Paul, a prisoner of Christ Jesus, and Timothy our brother, to Philemon our beloved friend and fellow worker, <sup>2</sup>to Apphia our sister, to Archippus our fellow soldier, and to the church in your house: <sup>3</sup>Grace to you and peace from God our Father and the Lord Jesus Christ.
 

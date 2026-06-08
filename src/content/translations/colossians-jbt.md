@@ -6,7 +6,7 @@ passages:
 summary: "Joe's Bible Translation — Colossians 1-2."
 ---
 
-[*Intro to the JBT*](https://www.thoughtsontheword.com/p/jbt-joes-bible-translation.html)
+[*Intro to the JBT*](/articles/jbt-joes-bible-translation)
 
 ## Chapter 1
 
