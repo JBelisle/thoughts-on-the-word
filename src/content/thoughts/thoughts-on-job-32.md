@@ -1,0 +1,26 @@
+---
+title: "Thoughts on Job 32"
+date: 2024-08-30
+reading:
+  - "Job 32-33"
+  - "1 Corinthians 9"
+passages:
+  - "Job 32"
+summary: "The introduction of Elihu into the story of Job is a good opportunity to talk about how often the Biblical authors, especially of the Old Testament, leave…"
+---
+
+The introduction of Elihu into the story of Job is a good opportunity to talk about how often the Biblical authors, especially of the Old Testament, leave out important details that leave you with questions like, “Wait, where’d he come from??”
+
+I still remember the time I tried really hard to figure out who Elihu was. I first thought that I must have missed him when Job’ friends came and sat down with him, but he isn’t mentioned, even though he has clearly been there with them the entire time. I then thought that maybe he was the son of one of Job’s three friends, but we are expressly told that he is not, because he is the son of Barachel the Buzite, not one of the three listed. So who is he, and why wasn’t he mentioned earlier? Is it more than Job’s three friends here present? Elihu admits he is much younger so he let age speak first, so maybe a crowd has gathered around Job and it’s just these three wise men who were put forth to speak? Is this an intervention of sorts where the wisest and most respectable men Job knew were brought from afar to try to talk sense into him while the men who sent for them are sitting around listening? Or is it that it’s just the five of them and the author didn’t bother mentioning Elihu to begin with? Or is it something else? I have no idea… but I do remember multiple days spent searching for the answer years ago, and being really uncomfortable with the fact that I could never find one.
+
+Recently though I heard Tim Mackie talking about this concept on [The Bible Project Podcast](https://bibleproject.com/podcasts/the-bible-project-podcast/), where the Biblical authors will leave out key details from their stories on purpose. There are some details that are left out simply because of writing styles and expectations (like detailed character development: in the modern West our writing includes a lot of character development and understanding of motivations, but in ancient Hebrew literature, these weren’t a focus). But other details, ones that seem like they are pretty important to properly understanding the story, are also routinely left out. One of the stories they brought up as an example is the story of Cain and Abel. We are never told, for example, why God had regard for Abel's offering and not Cain's, but shouldn't that be a kind of important detail? Then we are told that God marked Cain so that nobody would kill him, but how did He mark him? And how did people know how to interpret the mark and not kill him? Plus, we're then told that Cain got married, but where did his wife come from? Were there other humans running around? Is this another child of Adam and Eve? Did they maybe have kids in the garden before they were removed from it??? These simple omissions open up a world of speculation, and some of those possibilities have significant implications for how we should be reading the stories before and after this one!
+
+The point is that those ambiguities and uncertainties are important.
+
+We like to approach the Bible like it is a set of facts that we need to understand, memorize, internalize, and then live out, but the reality is that this is not how the Bible generally functions. Most of the Bible is stories with these kinds of ambiguities and missing details. The effect of those missing details is to keep the stories at the forefront of our thinking, postulating, hypothesizing, weighing those hypotheses and their implications against other stories to see what works or doesn't work, and to discuss and debate those ideas with others around us so that it keeps the stories at the forefront of their thinking as well.
+
+The more we have the Biblical stories bouncing around in our heads, the more those stories become the grid through which we view our lives, our relationships, our families, our careers, our possessions, our time, and everything else.
+
+So the Biblical authors, in genius fashion, leave out specific key details that don't inhibit our ability to understand the broad strokes of the story, while also leaving us unsatiated, needing to fill in the gaps, mulling over the story in question, as well as all the other Biblical stories that might play into how we are trying to fill in the gaps. The result should be a constant and shifting spiral of understanding as we ponder, make connections, draw conclusions, and then test those conclusions against a dozen other impacted stories and letters, all the while, without intentional effort or focus on our part, having our thoughts and worldview increasingly shaped by the very stories we are pondering.
+
+So as much as it used to bother me that Elihu pops up out of nowhere, I've come to really appreciate how much we aren't given, and how much that forces me to think, hypothesize, debate, etc. as I'm moving through the Biblical narrative, and it's also changed how I think about the Bible and what it means to "learn" the Bible and let my thinking be shaped by it.

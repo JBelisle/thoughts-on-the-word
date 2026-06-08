@@ -1,0 +1,35 @@
+---
+import Base from '../../layouts/Base.astro';
+import BackLink from '../../components/BackLink.astro';
+import { getCollection, render } from 'astro:content';
+import { articleRefs, refLabel } from '../../lib/passages';
+
+export async function getStaticPaths() {
+  const translations = await getCollection('translations', ({ data }) => !data.draft);
+  return translations.map((translation) => ({ params: { slug: translation.id }, props: { translation } }));
+}
+
+const { translation } = Astro.props;
+const { Content } = await render(translation);
+const refs = articleRefs(translation);
+const dateStr = translation.data.date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+---
+
+<Base title={translation.data.title} description={translation.data.summary}>
+  <article class="prose-wrap" data-pagefind-body>
+    <BackLink fallback={refs.length ? `/books/${refs[0].book.slug}` : '/browse'} />
+    <h1>{translation.data.title}</h1>
+    <p class="muted small">{dateStr} &middot; Joe&rsquo;s Bible Translation</p>
+    {refs.length ? (
+      <p class="covers">
+        Covers {refs.map((r, i) => (
+          <>{i > 0 ? ' · ' : ''}<a href={`/books/${r.book.slug}`}>{refLabel(r)}</a></>
+        ))}
+      </p>
+    ) : null}
+    {translation.data.titleImage ? (
+      <img class="title-image" src={translation.data.titleImage} alt={translation.data.title} data-pagefind-meta="image[src]" />
+    ) : null}
+    <div class="prose"><Content /></div>
+  </article>
+</Base>

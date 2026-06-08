@@ -1,0 +1,53 @@
+---
+import Base from '../layouts/Base.astro';
+import BookGrid from '../components/BookGrid.astro';
+import { getCollection } from 'astro:content';
+
+const articles = await getCollection('articles', ({ data }) => !data.draft);
+
+const plans = (await getCollection('plans', ({ data }) => !data.draft)).sort(
+  (a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
+);
+const theology = articles
+  .filter((a) => a.data.type === 'Theology')
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
+  .slice(0, 3);
+---
+
+<Base title="Thoughts on the Word">
+  <section class="hero">
+    <a class="search-field" href="/search">
+      <i class="ti ti-search" aria-hidden="true"></i>
+      <span>Search by passage, topic, or keyword&hellip;</span>
+    </a>
+  </section>
+
+  <section class="section">
+    <h2>Browse by book</h2>
+    <BookGrid />
+  </section>
+
+  <section class="section">
+    <div class="cards-2">
+      <div class="card">
+        <a class="card-head" href="/reading-plans"><i class="ti ti-map-2" aria-hidden="true"></i><span class="card-title">Reading Plans</span></a>
+        {plans.map((p) => (
+          <a class="card-link" href={`/reading-plans/${p.id}`}>
+            {p.data.titleImage ? <img class="link-thumb" src={p.data.titleImage} alt="" loading="lazy" /> : null}
+            <span>{p.data.title}</span>
+          </a>
+        ))}
+      </div>
+      <div class="card">
+        <a class="card-head" href="/theology"><i class="ti ti-book-2" aria-hidden="true"></i><span class="card-title">Theology Essays</span></a>
+        {theology.map((a) => (
+          <a class="card-link" href={`/articles/${a.id}`}>
+            {a.data.titleImage ? <img class="link-thumb" src={a.data.titleImage} alt="" loading="lazy" /> : null}
+            <span>{a.data.title}</span>
+          </a>
+        ))}
+        <a class="card-link muted" href="/theology">All essays &rarr;</a>
+      </div>
+    </div>
+  </section>
+</Base>

@@ -1,0 +1,22 @@
+---
+title: "Thoughts on Deuteronomy 4"
+date: 2023-06-01
+reading:
+  - "Deuteronomy 4"
+  - "Revelation 3"
+passages:
+  - "Deuteronomy 4"
+summary: "The notion of Israel being God's people is not generally a new concept to people with much biblical background. God chose Abraham and promised that He would…"
+---
+
+The notion of Israel being God's people is not generally a new concept to people with much biblical background. God chose Abraham and promised that He would make a great nation out of his descendants and that all the nations of the earth would be blessed through him, and most of the Old Testament is tracking the fulfillment of this promise in Israel. However, what a lot of people don't pay as much attention to is the context out of which God chose Abraham.
+
+Up until the dispersion at the Tower of Babel, all of humanity was God's possession. He was the one who created humanity in His own image, but humanity continued to turn from Him in rebellion and that finally came to a head at the Tower of Babel where God dispossessed the nations and gave them over to lesser divine beings (the sons of God) (Deut. 32:5-9). But then, in the midst of dispossessing humanity as a whole, Yahweh does not fully abandon His created imagers and selects one of them to reclaim as His own. So while the rest of the nations have been given over to lesser gods, Abraham and His family are not given over, and remain the sole possession of Yahweh.
+
+And what does this have to do with Deuteronomy 4? A decent bit actually! Most of the second half of the chapter has this reality as the backdrop.
+
+Starting in the third paragraph, Moses reminds them that when God spoke to them from Mount Sinai, they saw no form or image of Him, and so they are not to make any image or idol of Him to worship or bow down to. And then Moses says this to them, "And beware lest you raise your eyes to heaven, and when you see the sun and the moon and the stars, all the host of heaven, you be drawn away and bow down to them and serve them, things that the Lord your God has allotted to all the peoples under the whole heaven." Moses' warnings throughout the rest of this chapter to remain faithful to Yahweh and not go after other gods is not based on those gods not being real, but is based on those gods not being their allotment. The nations have those lesser gods as their allotment because God gave them over to them, but there is only one God like Yahweh, the preeminent creator of all that exists, include the lesser gods themselves, and He, and He alone, is Israel's allotment.
+
+This also helps us understand though what Israel is walking into and why they continue to have such trouble with worshipping these other gods in Canaan. In Deuteronomy 32, which I noted above and talks about the disinheritance of the nations, it says that when He scattered the people, He divided them up and set their borders, according to the number of the sons of God. So when the dispersion occurred, it was Yahweh who not only gave the nations over to the host of heaven, but He also set their boundaries. But the boundaries were not set based on the people, but based on the number of the sons of God, taking us back into the idea of cosmic geography that I mentioned a bit yesterday in talking about Mount Hermon. What this means is that Canaan is not unoccupied territory, spiritually speaking, when Yahweh leads Israel in to take possession. They are marching into enemy territory, both physically and spiritually, and Yahweh is carving out a boundary for Himself within territory already allotted to another divine being(s). This is not Yahweh's land, this is Baal's land (and maybe parts of it belong to Molech, Dagon, and Asherah), and just like the Canaanites are not happy about Israel coming in and taking their land, neither is Baal happy that Yahweh is taking what was allotted to him, and so he continuously struggles with Yahweh for the land in the battleground of Israelite loyalty and worship.
+
+This is the reason Moses spends so much time on this topic, reminding them that Yahweh alone is their allotment, and pointing them back to all He has done to ransom them and make them a people for His own possession. This is also why the prophets spend so much time on the same thing. Israel is not to worship these other gods because they belong to the God of gods, and He intends to use them to be a blessing to all the nations, but in order for Him to be able to use them as He intends, they need to continue on, distinct from the nations, in faithfulness to Him.

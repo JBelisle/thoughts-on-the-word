@@ -1,0 +1,31 @@
+---
+interface Props {
+  /** Where to go when there's no in-session history to step back to. */
+  fallback?: string;
+  label?: string;
+}
+const { fallback = '/', label = 'Back' } = Astro.props;
+---
+<a href={fallback} class="back-link" data-back>
+  <i class="ti ti-arrow-left" aria-hidden="true"></i><span>{label}</span>
+</a>
+
+<script is:inline>
+  (function () {
+    var link = document.currentScript.previousElementSibling;
+    while (link && !(link.matches && link.matches('[data-back]'))) link = link.previousElementSibling;
+    if (!link) return;
+    // Prefer returning to the exact prior page (preserving its chapter filter,
+    // which lives in the URL) when we got here from the same site.
+    if (history.length > 1 && document.referrer) {
+      try {
+        if (new URL(document.referrer).origin === window.location.origin) {
+          link.addEventListener('click', function (e) {
+            e.preventDefault();
+            history.back();
+          });
+        }
+      } catch (e) {}
+    }
+  })();
+</script>

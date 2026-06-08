@@ -1,0 +1,38 @@
+---
+title: "Thoughts on John 19"
+date: 2023-11-12
+reading:
+  - "2 Kings 20"
+  - "John 19"
+passages:
+  - "John 19"
+summary: "There is a fascinating exchange between Jesus and Pilate at the beginning of John 19 that sheds a lot of light on how people in Jesus’ day understood the…"
+---
+
+There is a fascinating exchange between Jesus and Pilate at the beginning of John 19 that sheds a lot of light on how people in Jesus’ day understood the spiritual world.
+
+Pilate was under no delusions about Jesus’ innocence when the Jewish leaders brought Him before him. It was clear from the outset that Jesus had done nothing wrong, but that the leaders were jealous of Him and had riled up the crowd against Him. So Pilate had Jesus flogged to placate the crowd, expecting they would back off once they saw He had been brutally punished, but it doesn’t work and the Jewish leaders redouble their efforts to rile up the crowd, calling for Jesus’ death. At that, Pilate gives up and says, “Fine, if you want him crucified, take him yourselves and do it.” But then, after Pilate had already given them permission to execute Jesus, John tell us:
+
+> *The Jews answered him, “We have a law, and according to that law he ought to die because he has made himself the Son of God.” When Pilate heard this statement, he was even more afraid. He entered his headquarters again and said to Jesus, “Where are you from?” But Jesus gave him no answer. So Pilate said to him, “You will not speak to me? Do you not know that I have authority to release you and authority to crucify you?” Jesus answered him, “You would have no authority over me at all unless it had been given you from above. Therefore he who delivered me over to you has the greater sin.” From then on Pilate sought to release him…*
+
+What happened? One minute Pilate was pretty carelessly handing Jesus over to His death, and the next he was afraid and then was trying to release Jesus. Why the sudden, and dramatic, change of heart?
+
+What happened was that Pilate found out Jesus claimed to be the son of God.
+
+To the modern mind, this is probably a, “So what?” kind of statement. Generally today, at least in the West, people believe that if their religion is true, that means other religions are false. So if Pilate is not a Jew, why would he care at all about claims related to the Jewish religion and/or the Jewish god? If Pilate follows the Roman pantheon, then why concern himself with anything Jewish?
+
+But we have to remember that Pilate was not a modern Westerner. In the ancient world, your god or your religion being true didn’t mean other gods or religions were false at all. In fact, the general assumption was that they were all true. When we, as Christians, talk about God, we are talking about the supreme creator of all that exists and to which everything, in heaven and on earth, is subject. But in the ancient world, gods were largely regional or national entities. A given god (or group of gods) would reign over a region, and those in that region would follow that god(s), but gods did not have unlimited range of power and influence, so as you moved around, you would eventually enter another god’s territory. The understanding, too, was that national power was tied to the power of the god(s) behind that nation, so a powerful empire like Rome had much more powerful gods than a tiny, backwater country like Israel.
+
+All this to say, as Jesus is standing before Pilate, while Pilate would have followed the Roman pantheon of gods, and would certainly have considered them significantly stronger than Israel’s god, he would have fully believed that Israel’s god was real. On top of that, there were stories of the Roman gods having human (or half human) children, so Jesus being the son of a god wouldn’t even be a far-fetched idea for a Roman.
+
+So when Pilate, after having already told the Jews they could crucify Jesus, hears that Jesus is claiming to be the son of a god, John tells us that he was afraid and took Jesus back in to question Him about it. When Jesus was just a random man, Pilate, brutal and calloused as he was, had no qualms handing Him over to His death despite His innocence, but when he finds out that He might be the son of a god, that fully changes the equation. Yes, the Roman gods are clearly much more powerful than the god of Israel (Pilate would have thought), but the seat of their power is in Rome, and Pilate is far from Rome. More than that, Pilate is down the street, probably within line of sight, from Yahweh’s temple, the seat of His power. So if he hands over to son of the local god to be killed for no reason, what power will he have to stand against that god when he comes after him?? None! If they were in Rome, he could expect his gods to be able to protect him from Israel’s god, but he is on Yahweh’s home turf right now, and his gods are too far away to be able to protect him if he kills this god’s son.
+
+Pilate is about to be stuck between a rock and a hard place here. When he brings Jesus back out, the Jews ultimately threaten him with sedition if he doesn’t kill Jesus since He was claiming to be a king, and Pilate was already on incredibly thin ice because his mentor, Sejanus, had attempted a coup not two years before.  So if he gives Jesus over to be crucified, he will have a god coming after him, but if he doesn’t, he could have the Roman government coming after him. Either way, Pilate has a hard time making it out of this with his head still attached to his shoulders…
+
+This is why Jesus, when Pilate takes Him back in to question Him, tells him, “You would have no authority over me at all unless it had been given you from above. Therefore he who delivered me over to you has the greater sin.”
+
+While Pilate would not have understood the full implications of Jesus’s words, given that He did not know that the god of Israel is the sovereign God of gods and Lord of lords, this statement ultimately loosens the noose around Pilate’s neck. Jesus tells him that God gave him the authority he has, so he is not unaware of the predicament Pilate is in at this moment, and then also tells him that, as a result, the Jews who are handing Jesus over to be killed will have the greater sin. Jesus does say Pilate will bear no responsibility, but if God starts moving against people for killing His son, He is going after the Jewish leaders first and foremost rather than holding Pilate primarily responsible.
+
+This is why Pilate, not wanting to be on the wrong side of a local deity, still tries to release Jesus. But eventually, when the Jews play the sedition card, Pilate has to make a choice, and Jesus’ words to him about who will bear the greater responsibility are what ultimately decide which choice he makes. Given that his mentor and many others were just killed for an attempted coup, a charge of sedition, no matter how baseless, is guaranteed to mean his death at the hands of Rome. So while killing a god’s son is never a smart move to make, in this case, given what Jesus told him, it is the safer choice in this circumstance, and so Pilate relents, despite his fear, and hands Jesus over for the Jews to kill Him.
+
+I personally find these few verses fascinating because they shine a light on just how differently ancient man thought about the spiritual world than we think about it today, and they are an important reminder that if we want to read and understand the Bible well, we have to read it, and think about it with the worldview of it’s authors and audience in mind, rather than simply processing it all through our own, modern, worldview.

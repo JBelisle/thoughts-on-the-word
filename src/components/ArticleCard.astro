@@ -1,0 +1,37 @@
+---
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  article:
+    | CollectionEntry<'articles'>
+    | CollectionEntry<'thoughts'>
+    | CollectionEntry<'translations'>;
+  chapters?: number[];
+}
+const { article, chapters } = Astro.props;
+const { title, passages, titleImage } = article.data;
+const base = { thoughts: 'thoughts', translations: 'translations' }[article.collection] ?? 'articles';
+const href = `/${base}/${article.id}`;
+const tag =
+  article.collection === 'thoughts'
+    ? 'Thoughts'
+    : article.collection === 'translations'
+      ? 'Translation'
+      : article.data.type;
+const subdued =
+  article.collection === 'thoughts' ||
+  article.collection === 'translations' ||
+  (article.collection === 'articles' && article.data.type === 'Reading notes');
+---
+<a
+  class="card article-card"
+  href={href}
+  data-chapters={chapters && chapters.length ? chapters.join(',') : undefined}
+>
+  {titleImage ? <img class="card-thumb" src={titleImage} alt={title} loading="lazy" /> : null}
+  <span class="card-body">
+    <span class="card-title">{title}</span>
+    {passages && passages.length ? <p class="card-meta">Covers {passages.join(' · ')}</p> : null}
+    <span class={`tag${subdued ? ' tag-note' : ''}`}>{tag}</span>
+  </span>
+</a>

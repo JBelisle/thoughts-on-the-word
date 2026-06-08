@@ -1,0 +1,24 @@
+---
+title: "Thoughts on Ezra 6"
+date: 2024-10-21
+reading:
+  - "Ezra 6"
+  - "Titus 1-2"
+passages:
+  - "Ezra 6"
+summary: "Were something similar to happen today, would you see the actions and response of Darius as the movement of God on your behalf, or simply as government…"
+---
+
+Were something similar to happen today, would you see the actions and response of Darius as the movement of God on your behalf, or simply as government processes doing their thing, and you’d just be glad Darius had actually checked the archives to find Cyrus’ decree?
+
+This is something I’ve been thinking a lot about lately. I recently taught at a men’s retreat on prayer, and, praying and preparing for that teaching, was reminded of a conversation I had years ago with a man who grew up as a missionary kid in the Congo, and whose family moved back when he was in middle school. I asked him what the hardest part of moving back was (thinking it would have something to do with culture and/or how terrible middle school boys can be, especially to a “weird” kid), and without missing a beat, he told me that the hardest part was prayer. He said that in the Congo they had to pray about everything, but when they moved back, there were so many social guardrails and safety nets in place that they didn’t need to pray about anything anymore. In the Congo, if they got hurt, there was no ambulance to come get them or hospital anywhere nearby, so every day that he and his brother went out to play, their mom would pray over them that they would be safe that day. Similarly, if someone broke into their house at night, the police wouldn’t be showing up anytime soon, so they would pray over their home and family each night before bed. But then, when they moved back to the U.S., they suddenly didn’t *need* to pray for much of anything anymore.
+
+It has gotten me thinking about how much we don’t include God in, in the modern West, when we only go to Him with the things we *need*. We have so much “under control,” what do we really need God to do for us? Often we are left praying for things like healing from sickness, a new job, a difficult family situation, etc. These are certainly things God wants us to bring to Him, but also aren’t things God has promised us, meaning the only things we’re praying about may very often go unanswered. Then, much of what God has promised us and told us to pray about (things like our daily bread), we don’t ask Him for because we’ve got ourselves covered.
+
+But how much is lost in this? How often are we seeing something like Darius furthering the building of the temple, and we only see it as a lucky break, or, like I said earlier, just as government functioning like it should? Instead of seeing the hand and provision of God Himself caring and providing for us, we see guard rails and safety nets doing their job.
+
+If we stopped just praying for what we *need* though, and started seeking to include God in more, even in the things that we think we’ve already got under control, how much more would we see His hand at work? If we truly prayed, each day, for Him to provide us our daily bread, would we start to see His hand in the good job that we have that gives us a consistent paycheck that lets us drive to a stocked grocery store to fill our working refrigerator with food for the family? If we prayed for the safety of our children playing in the back yard, would we start to see His hand at work every time they come into the house safely? Or every time a hospital trip is necessary and is close enough for us to be able to get the care we need?
+
+I have been feeling the conviction lately that I should start bringing the Lord into even those areas of life that I already feel like I have under control so that I start to see more of His hand at work in my life in the places I otherwise haven’t been looking. To that end, I found an app for my phone that lets me schedule random reminders, and I have it set to give me three reminders a day, at random times, to pray, and I have committed to finding something to pray about whatever I am doing when I get the notification. It has already been super helpful to me, just over the last couple months of doing it, where I find myself a lot more likely to pray about things that I never would have prayed about before, and, consequently, I’ve found myself thanking God a lot more for things that I otherwise wouldn’t have seen His hand in.
+
+I know that’s not really the point of the passage, but it just seems to me like not all that many modern Western Christians would see and celebrate the hand of God in something like the story we read in Ezra 6, but I want to be more alert and available to recognize and celebrate the works of the Lord that might otherwise look like mundane safety nets, government programs, bi-weekly paychecks, and so many other simple things.

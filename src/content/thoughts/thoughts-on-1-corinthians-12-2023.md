@@ -1,0 +1,30 @@
+---
+title: "Thoughts on 1 Corinthians 12"
+date: 2023-09-03
+reading:
+  - "1 Samuel 24"
+  - "1 Corinthians 12"
+passages:
+  - "1 Corinthians 12"
+summary: "Western individualism really gets in the way of 1 Corinthians 12."
+---
+
+Western individualism really gets in the way of 1 Corinthians 12.
+
+A number of years ago I read a book that I’ve mentioned on here a few times called, *Misreading Scripture Through Western Eyes*. There are a number of very helpful insights in that book, and I highly suggest it to anyone in the West who wants to understand their Bible a little better than they do today, but one of the big things they talk about is that the Bible was written from/to a collectivist culture rather than an individualistic one. The reason this is important to recognize is that if we read it as though the authors shared our same individualistic mindset and priorities, we can end up deeply misunderstanding parts of the Scriptures.
+
+One important difference between the two types of cultures is how decisions are made and roles are assigned/assumed. While this is obviously a broad generalization, in an individualistic culture you are encouraged to make whatever decision is best for you while in a collectivist culture your decisions are more geared around what is best for your family or community. As a result, in the West, we tend to value and desire the biggest roles. Are you good at your job and make a good living? Well, that’s not good enough if someone is higher up the totem pole than you are and making more money than you are. Oh, you got promoted to director? That’s nice, but but you’re still not the CEO, and even if you were, your company isn’t even in the Fortune 500, so does that really count as anything? There is this pervasive understanding in the West that the role you should be striving for is the biggest, best role there is. But things aren’t viewed the same way in a collectivist culture. What is best for the family or for the community might not be for you to be in the biggest and best role you could get, and so what is valued is less about personal achievement and more about filling your role and meeting the needs of the community around you.
+
+What Paul says in 1 Corinthians 12 about how God designed the Body of Christ fits really well with a collectivist culture, but really flies in the face of our Western individualism.
+
+By Western values, we should all really be striving to be the pastor. The pastor is the biggest and best role in the church, right? They get to teach, they get to tell people what to do and make the decisions about the church. Anything else we do should really just be stepping stones to get to the top, right?
+
+That’s not the picture Paul paints for us in 1 Corinthians 12. In our chapter today Paul tells us that God has placed the members of the Body together, exactly as He desires, to form a complete whole when everyone is playing their part. We aren’t all hands, and we aren’t all eyes, and we shouldn’t try to be. In order for the body to function properly it needs eyes and hands, but it also needs veins, knee caps, skin, and a thousand other things. And those other things the body needs aren’t all stepping stones to every other part eventually becoming a hand or an eye, but are important and highly valuable in their own right. And this is how we are to be thinking about the Body of Christ. We should not be showing up to church on Sunday as passive participants waiting to be served, we should be showing up as members of a functioning body ready to fulfill our role.
+
+But when I say this, I’m not only writing to other people like me who are not in a pastoral or teaching role in a church, but, in one sense, I’m maybe mostly writing to those who are in those roles. So many churches today are built upon structures that elevate one or two roles and often leave nothing else for anyone to meaningfully contribute. It becomes an afterthought at a church staff meeting, “For people who want to serve, what can they do?” “Umm… I guess we could start having ushers to tell people where to sit?” I don’t mean that to be demeaning to someone who genuinely enjoys serving in that way, but for many churches, that is the extent of the opportunities they actively open up for people to be contributing to the work the church is doing, and we need to do better than that.
+
+One place to start, and this is also something I’ve talked about on here before, is with the people God has placed in your church. Rather than saying, “Our church has these roles,” try asking who the Lord has given you, how He has gifted them, and how He might be intending to use them. Maybe you will find Him leading your church into entirely new areas of ministry that you had never considered before. Maybe there are needs in your church that you haven’t been able to find someone to meet, but God has given you three people who can work together to meet those needs. Maybe there are services your church is paying for that members of the church would be more than capable of handling (this could be anything from custodial work, to landscaping, to maintenance, to web or app development). As much as we are all called to be serving in this way, that can be incredibly difficult to do faithfully when you are in a church that doesn’t value the contribution the Lord put you there to make, so this needs to come from both sides.
+
+I for one just want to be useful to the Kingdom. I love teaching the Word, but if the Lord never has me teach again, I’m fine with that, as long as I am able to continue to meet the needs of the Body God has placed me in.
+
+*Lord, protect our hearts from prideful striving toward the “bigger” or “more important” roles in the work of your Kingdom. Build in our hearts a proper gratitude for the fact that you have hand-crafted each one of us and by your sovereign will have placed each one of us in you Body to contribute meaningfully to the growth and development of your Kingdom. Show us how you want to use us, as well as how you want to use the people around us so that we can all be growing together into greater maturity as the complete Body of Christ.*

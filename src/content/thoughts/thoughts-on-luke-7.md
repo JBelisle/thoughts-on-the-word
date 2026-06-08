@@ -1,0 +1,28 @@
+---
+title: "Thoughts on Luke 7"
+date: 2023-06-24
+reading:
+  - "Deuteronomy 28"
+  - "Luke 7"
+passages:
+  - "Luke 7"
+summary: "Have you ever felt disheartened or like you’re not sure how to process it when God fails to meet your expectations? And I don’t mean in a way like you have…"
+---
+
+Have you ever felt disheartened or like you’re not sure how to process it when God fails to meet your expectations? And I don’t mean in a way like you have highly unrealistic expectations of Him, like that He is going to give you the winning lottery numbers for the next billion dollar jackpot or something. I mean more in the sense of you and many others praying desperately and fervently to God for the healing of a friend or child, but the healing never comes and they pass away. Or in the sense of getting falsely accused or maligned in the course of ministry you are sure He has called you to, and He doesn’t clear things up or rescue you from the injustice. Or in the sense of having felt a calling from God toward something, with others getting the same thing from Him in prayer, but when you pursue it faithfully you find nothing but failure after failure.
+
+What do we do with these things? What do we do with these times when we know God has the power and ability to come through, but He doesn’t, and we can’t understand why He didn’t step in? What do we do with these times where the direction of God was so completely clear, but then nothing goes the way it was supposed to go?
+
+This is the position we find John the Baptist in in Luke 7.
+
+John is in prison for his faithful pursuit of the work God had called him to, and from prison he is hearing about Jesus’ teachings and His ministry and he sends two disciples to ask Him, “Are you the one who is to come, or shall we look for another?” Why would John need to ask this? Isn’t John the one who leapt in his mother’s womb at the presence of the also yet unborn Jesus? Isn’t John the one who was sent baptizing so that he might herald the coming Messiah? Isn’t John the one who baptized Jesus only to see the Spirit descend upon Him like a dove and to hear a voice from heaven declaring to Him, “You are my beloved Son; with you I am well pleased”? How could John even consider that Jesus might not be the one???
+
+The simple answer is that Jesus was not meeting John’s expectations. John, like the rest of the Jews of his day, was waiting for the Messiah who was going to come, reclaim the throne of David, overthrow Israel’s enemies, judge the wicked and ungodly, and bring in an everlasting kingdom of righteousness. The further Jesus goes in His ministry, the less and less it looks like He is pursuing or fulfilling this picture. So despite all of the assurance he once felt about who Jesus was, the more Jesus fails to fill the role John was so sure He was going to fill, the more John starts to wonder if maybe the wires got crossed somewhere along the way. On the one hand, John should be more assured than anybody about who Jesus is, but on the other hand, what Christian who has been seeking to faithfully follow the Lord for any amount of time hasn’t run into this to one degree or another?
+
+Jesus’ response to the inquiry is important for us when we are in these times. He doesn’t give them an answer one way or the other, instead, he performs miracles and healings and then tells them to go back and tell John what they witnessed, and He specifically calls out to them a handful of signs from the Old Testament that were meant to identify the Messiah. Then Jesus ends with, “And blessed is the one who is not offended by me.” In short, Jesus is saying to John, “I know this doesn’t look like what you expected, but that doesn’t mean I’m not working. All the evidence points to me being who you think I am, so trust the evidence, even when you aren’t seeing what you were expecting.”
+
+We have the benefit of hindsight that John did not have before his own death shortly after these events. We can look back and see that Jesus wasn’t there to free His people from their earthly enemies and establish His earthly kingdom, He was there to free His people from their ultimate enemies of sin and death and to invite them into His heavenly kingdom. And while He will come back again and fulfill John’s expectations, the work Jesus was doing that John couldn’t see was so much greater than the work he was looking for Jesus to do.
+
+But when we are the ones in John’s shoes, we don’t have the benefit of hindsight either. We aren’t privy to all that God is doing or how He is accomplishing it, and we aren’t told the whys and whens of how He is going to work going forward. Instead, in those times, we need to go back to the same things Jesus is pointing John to. We need to go back to the evidence we have that God is there, that He is good, that He is loving, that He is a perfect Father, that He keeps His promises, etc., and we need to, like Jesus instructs John, not be offended by Him.
+
+This obviously doesn’t take away the confusion, the hurt, or the pain we are experiencing, just as the response Jesus sent back to John didn’t clear up his confusion. But if we can stand firmly on what we do know to be true, then we can know that our good, loving, all knowing, and all powerful heavenly Father is at work, and we can recognize that the foolishness of God is greater than human wisdom, and trust that He is working for our good, even when we don’t see or understand that now. There will come a day when all is laid bare and we will see all things rightly, but until that day we need to be able and willing to stand on the truth we do know so that we are not rocked from our faith by the things which we can’t know.

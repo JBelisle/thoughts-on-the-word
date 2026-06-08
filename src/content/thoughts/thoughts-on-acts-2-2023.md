@@ -1,0 +1,22 @@
+---
+title: "Thoughts on Acts 2"
+date: 2023-07-13
+reading:
+  - "Joshua 13"
+  - "Acts 2"
+passages:
+  - "Acts 2"
+summary: "We are so much more privileged than I tend to give us credit for in having the Holy Spirit indwelling us as Christians."
+---
+
+We are so much more privileged than I tend to give us credit for in having the Holy Spirit indwelling us as Christians.
+
+I can definitely put Jesus’ disciples’ time with Him up on a pedestal and wish I could have been there myself. And don’t get me wrong, that would have been an incredible experience, to spend three years watching, learning from, and doing life with the incarnate Son of God! But even still, Jesus told His disciples that it was better for them that He go because when He had gone He would send the Helper (John 16). So we have it on Jesus’ own authority that our current situation as Christians, not being in His physical presence but being indwelt by the Holy Spirit, is the better situation.
+
+As much as it may not feel like this is the case, I think the disciples themselves paint the clearest picture of this reality. The Spirit has a number of very important ministries in our lives: He convicts us of sin and righteousness, gives us spiritual life, opens our understanding of the Scriptures, intercedes for us in prayer, gifts and empowers us for ministry, and more. Now think about the disciples in the gospels and how spiritually dense they really were. How many times did they hear the same teachings over and over from Jesus’ mouth and still not get it? How many times did Jesus tell them He was going to die and they were stunned, confused, and disheartened when it happened? They tried to stop the children from coming to Him, they tried to call fire down from heaven on a city that didn’t invite Him in, they argued about who among them was most important, and they all scattered and abandoned Jesus in His time of greatest need. Without the Holy Spirit the disciples were fickle, didn’t understand their own spiritual need, completely missed blatantly obvious spiritual truths and realities, and so much more.
+
+But what about after this morning’s chapter? In Acts 2, after the Spirit descends, He empowers the disciples to speak in other languages such that people in Jerusalem for the festivals from all over the known world heard the gospel proclaimed in their own languages. Far from being spiritually dense, Peter starts publicly expositing multiple Old Testament passages as He powerfully argues for Jesus being the Messiah and for their need to repent and be baptized in His name and receive the Holy Spirit. And this is only the first few minutes of them having the Spirit teaching and empowering them. As we continue through Acts and the rest of the New Testament things only get better in this regard as they themselves learn more and become more deeply rooted and able to pass that on to others more effectively. They certainly still had their sins and issues along the way, but the picture we get of the disciples before and after they received the Holy Spirit is like night and day.
+
+So while I can at times covet the disciples’ position of having gotten to live with Jesus when He was walking the earth, I desire that from a position of having the Spirit. I want to have my cake and eat it too. I don’t want to lose the Spirit and become a spiritual dolt like the disciples so often were prior to Pentecost in order to be physically with Jesus, I want to keep all I know and have now and also have Jesus, but unfortunately, that’s just not how it works (at least not this side of heaven). Jesus said it was better that He went because when He did He would send the Helper, the Holy Spirit, and He’s not wrong, it truly is better. The difference is that one was physical and the other is intangible. We reap unspeakable benefits from having God’s Spirit indwell and empower us, but we can’t really quantify that experience, whereas when we think of the disciples being with Jesus, it was a very tangible physical presence.
+
+We should take the time today to sit before the Lord in gratitude for the Holy Spirit we have received, and if you struggle to be grateful for His presence, ask the Lord to open your eyes to the intangible and enable you to glimpse in a new way just how truly and deeply blessed you are to have God’s Holy Spirit living inside you.

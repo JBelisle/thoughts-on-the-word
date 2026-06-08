@@ -1,0 +1,28 @@
+---
+title: "Thoughts on 2 Peter 3"
+date: 2023-05-22
+reading:
+  - "Numbers 30"
+  - "2 Peter 3"
+passages:
+  - "2 Peter 3"
+summary: "I think we all know that we are “supposed” to live our lives in a godly way, but have you ever thought about why?"
+---
+
+I think we all know that we are “supposed” to live our lives in a godly way, but have you ever thought about why?
+
+On the one hand, like we’ve talked about in previous posts, there are practical consequences of choosing to live a lifestyle contrary to God. When we pursue a life of sin it has the effect of callousing our hearts as we continually choose against God, and the New Testament authors regularly offer dire warnings against the danger of allowing our hearts to be calloused by sin, as this can ultimately turn our hearts away from Christ. So there is an element of personal importance to choosing to live a godly life, but it is actually so much bigger than just that.
+
+The way we choose to live our lives here and now impacts both who will be with us in Christ’s kingdom, and when that kingdom arrives.
+
+In terms of who will be in eternity with us, when Peter is telling his readers that the Lord is not slow in keeping His promises, he tells them that God is delaying Jesus’ return because His desire is that all would repent and not perish. This verse alone is actually one of the reasons I cannot agree with the Calvinist view of predestination. Peter says, “The Lord is not slow to fulfill His promise as some count slowness, but is patient toward you, not wishing that any should perish, but that all should reach repentance.” You cannot say in the same breath that God desires all to come to repentance, and also that He only chooses a subset who will reach it. If God desires it for all, and He is the one deciding for us whether or not we will repent, is His arm too short to fully accomplish His desire? Of course not! But if He has given us the free will to accept or reject the provision of His grace in Christ, then this verse makes perfect sense. God desires the salvation of every man, woman, and child, and so He is patient, delaying the coming of Christ, giving more people the opportunity to hear the message of salvation and respond to it.
+
+How we choose to live our lives impacts the eternities of those around us. If we choose to live as though we do not know Christ, then there are people who will not hear the message of God’s grace for them because we have decided it is not important enough to share it. If we continue on in a life of sin and violation of God’s will, then even if we do share our faith with others, our lifestyle may discredit our message and turn people off to the offer of salvation.  In what we do or don’t do, we shape eternity. When we allow God’s will to direct our lives we can be an incredible source of God’s love and grace poured out on a lost and hurting world, by which people are drawn to Christ. But when we live contrary to God’s will, at best we ignore the damnation to which our families, friends, coworkers, neighbors, etc. are heading, and at worst we turn them further from God and hasten them on their way to destruction. But God desires those family members, friends, coworkers, neighbors, etc. to know Him and enter into eternity with Him, and so He is patient on His part, but He also calls us to do our part in faithfulness to Him and out of love for the lost. 
+
+What’s crazy to me though is that Peter tells us that the way we choose to live our lives doesn’t just impact who will be with us in Christ’s eternal kingdom, it also impacts when Jesus returns to establish His kingdom. Look at what Peter says, “Since all these things are thus to be dissolved, what sort of people ought you to be in lives of holiness and godliness, waiting for and hastening the coming of the day of God…” Did you catch that, the way we live our lives hastens the coming of the day of God; the return of Christ! What?? Seriously?? How??
+
+This goes right back to the first point. God is not being slow in delaying Jesus’ return, He is being patient, because His desire is that every person would come to repentance, so He is giving as many people the chance to turn to Him as possible. When we choose to live as He is calling us, living lives of holiness and godliness, we hasten the return of Christ by taking God’s message out into the world God’s way, giving as many people as possible the best possible chance to respond. 
+
+I don’t know what it would look like if every Christian took seriously the call to live lives of holiness and godliness, but Peter tells us that this choice does, in fact, have a significant impact, even extending so far as to hastening the return of Christ. That is a profound teaching, and puts a real weight on our choice of how to live. I cannot afford to assume that my individual faithfulness (or not) to God is just between me and Him, when the reality of the situation is that the choices I make on a daily basis impact eternity in very real ways. The more we understand the weight and significance of our individual faithfulness, the more it should drive us to want to make the best use of the little time we have in this life as we prepare for our glorious future in eternity when that day does finally come.
+
+*God, you have given our lives incredible significance in Christ, but you have also allowed us the freedom to squander that significance. Open our eyes this morning in a fresh way to see just how incredible the opportunity we have to live for you really is, and draw our hearts to yearn for the holiness and godliness which glorify you and hasten the coming of your Son!*

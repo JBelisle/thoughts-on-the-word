@@ -1,0 +1,37 @@
+---
+title: "Thoughts on Deuteronomy 3 & Revelation 2"
+date: 2023-05-31
+reading:
+  - "Deuteronomy 3"
+  - "Revelation 2"
+passages:
+  - "Deuteronomy 3"
+  - "Revelation 2"
+summary: "I just have a quick thought on Deuteronomy 3 this morning. In recounting their defeat of Og, king of Bashan, Moses says that after they had defeated the two…"
+---
+
+## Thoughts on Deuteronomy 3
+
+I just have a quick thought on Deuteronomy 3 this morning. In recounting their defeat of Og, king of Bashan, Moses says that after they had defeated the two kings of the Amorites, they took possession of their land from the Valley of the Arnon to Mount Hermon. These geographical markers can be easy throwaway lines for us because we aren’t all that familiar with the topical geography of ancient Palestine, but Mount Hermon is an important marker to pay attention to.
+
+In second-temple tradition, in books like 1 Enoch, Mount Hermon is where the angels descended in Genesis 6 in order to rebel against the Lord and take wives for themselves among the daughters of men. This meant the mountain took on a lot of powerful spiritual associations opposed to Yahweh. So for Israel to take Mount Hermon in this conquest means Yahweh is taking back control. Even more on the nose is that fact that Israel takes this mountain after defeating the last of the Rephaim. So Israel defeats the last children in the region from that angelic/human rebellion of Genesis 6 and take back the land for Yahweh, as a show that He is making things right again through His people.
+
+Mount Hermon continues to play a significant role spiritually throughout the times of the prophets and into Jesus’ day. This ultimately comes to a head at the Transfiguration. When Jesus took Peter, James, and John up the mountain to be transfigured before them, it was up Mount Hermon that He took them. So in the very place where angels descended to reveal secret knowledge to humanity that corrupted them and turned them from God, Moses and Elijah descend to meet Jesus and His disciples and God reveals the secret knowledge of Jesus’ identity as the Son of God to them. Rather than revealing knowledge which corrupts and turns them from God, God reveals to them knowledge which saves and offers them right relationship with God. The location is not an accident. Jesus is declaring that He is righting the corruption brought to humanity in Genesis 6.
+
+So as easy as these geographical markers are to read right past, Mount Hermon is one to take note of and pay attention to when it comes up because a lot of theological messaging comes along with what happens with this mountain.
+
+## Thoughts on Revelation 2
+
+I heard someone teaching on this chapter recently and he made a point that I hadn’t heard made before but that really struck me.
+
+In the first of the four letters to the churches in Revelation 2, the letter to the church in Ephesus, Jesus says this, “But this I have against you, that you have abandoned the love you had at first. Remember therefore from where you have fallen; repent, and do the works you did at first.” I have generally read this, when He says they have abandoned their first love, as them not having the same kind of excited faith they had at first, making this more of a relational issue. Specifically because He says He knows their works, I have taken it to be that they are going through the motions but their hearts are not invested in Him like they were at first.
+
+This scholar had a different take on this though. He pointed out that the command to rectify their situation is specifically to repent and to do the works they did at first. So his view is that Jesus is commending them for holding to the faith, just like they always have, but admonishing them for not continuing in the good works they did at first. He said the language of patient endurance and bearing up likely point to persecution and so he could see the works they were no longer doing being sharing the gospel, but it could also just generally be doing good works and serving the people around them in the name of Christ. His point was that Jesus does not intend His church to be an insular community of faith, but a vibrant lamp on a stand giving light to all around; a luminous city on a hill, beckoning weary travelers to come and find their rest in Christ. This is why Jesus says that if they don’t start doing the works they did at first, He will come and remove their lamp stand. It’s not that the people in the church of Ephesus will lose their salvation, but why would Jesus protect and grow the church there if they won’t be the light in Ephesus that He desires them to be?
+
+If this is the right understanding of this passage, and I think I personally am persuaded that it is, this is really important for the church today to consider. Are we, as the community of Christians, known for actively being a blessing to the people around us? Is your church known in your community, and if so, what is it known for?
+
+There might be a gut-check here for some of us because generally when you see articles about effective church leadership, they tend to be focused on practices gleaned from “effective” churches, measured by how quickly they grow and how well they have continued to scale that growth over time. You don’t see things like “impact on the community,” or “percent of membership actively engaged in serving outside the church,” as measures of how successful or not a church is, but maybe these are exactly the kinds of things we should be measuring effectiveness by. Maybe, more important than a dynamic teaching pastor, an energetic MC, and a killer worship band, a church should seek to have a thriving impact on the community in which God has established it, meeting real needs of people outside the church, and increasingly displaying the love of Christ in active service day-by-day.
+
+One way that I am thinking about this this morning is that there are a LOT of churches around where I live, but, to be honest, I haven’t heard of hardly any of them in this regard. Most churches that I know about I only know because I have seen their sign as I drive past their building, or because I know someone who goes there, but it is incredibly few churches that I have heard of because they are involved in sacrificially serving the community. Now, to be completely clear, I’m not saying that means none of these churches are serving in meaningful ways. I know there are important and impactful ministries and efforts going on that I simply don’t run into because I am not the beneficiary of them; in fact, my own church has a couple ministries that I would never have heard of if I wasn’t part of the church because I am not the target audience. More so I am thinking that if I, as a Christian and pre-disposed to look favorably on the church, do not see or hear about the vast majority of the myriad churches around us seeking to actively serve and meet needs in our community, then I’m assuming my non-believing neighbors and friends don’t either. So if we are going to be a lamp on a stand, or a city on a hill, is there more we should be engaging ourselves with, as a church, so that people can see and be drawn to the light of Christ in us?
+
+Maybe the answer will be, “Nope, we are doing all that God is calling us to do at this moment,” and if that’s the case, praise God! But I do think it’s worth asking the question if Jesus took it so seriously in Ephesus that He would threaten to remove their lamp stand for not repenting and returning to the works they did at first.

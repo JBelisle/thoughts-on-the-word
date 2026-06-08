@@ -1,0 +1,28 @@
+---
+title: "Thoughts on Leviticus 16"
+date: 2023-04-13
+reading:
+  - "Leviticus 16"
+  - "Titus 1-2"
+passages:
+  - "Leviticus 16"
+summary: "Leviticus 16 outlines the rituals (and their meanings) for the Day of Atonement. There is a pretty pervasive misunderstanding among Christians that the Day…"
+---
+
+Leviticus 16 outlines the rituals (and their meanings) for the Day of Atonement. There is a pretty pervasive misunderstanding among Christians that the Day of Atonement was about forgiveness of sins, but if you pay attention as you read this chapter, that’s not really the point of the Day of Atonement. Instead, the Day of Atonement is a ritual reset button for Israel.
+
+We have talked in earlier posts about how the “sin offering” isn’t really about sin at all, but is more of a “purification offering,” purifying sacred space from defilement by Israelite impurity. In the case of the offerings for the Day of Atonement, the blood of the bull and goat that are sacrificed is applied to the mercy seat in the most holy place and the altar, specifically to “cleanse it and consecrate it from the uncleanness of the people of Israel.” So unlike New Testament talk of how the nations have been sprinkled by the blood of Jesus, no blood is applied to people in this ritual, but only to the holy things, and only to cleanse them from any impurity from the people of Israel.
+
+This is why I said the Day of Atonement is a ritual reset button. When an individual or the people at large realized they had committed an unintentional sin they were to bring the sin offering to restore the purity of sacred space that had been defiled, but here, once a year, there was to be a full restoration of sacred space from any defilement that might not have been properly taken care of in the past year.
+
+Another part of this reset of sacred space though did apply to the people, and that was the removal of sin from the camp. Two goats are presented to Aaron, one of which is sacrificed as the purification offering, but the second is for Azazel (identified as a demon by later Jewish writings). This is not a sacrifice to a demon though because this goat is never killed. Instead, Aaron would lay his hands on the goat’s head, confess the sins of the people over it, and then that goat was to be taken to a remote area and set free in the wilderness.
+
+In the Israelite understanding of the world, Yahweh brings order out of chaos, so His land, His domain, is ordered, and everything outside of His domain is chaos. This was the original command to Adam and Eve in the Garden, to be fruitful and multiply and fill the earth and subdue it. The Garden, God’s domain, was ordered, but the rest of the earth was still in chaos, and humanity, as God’s imagers, were to be His hands and feet in cultivating the land and bringing order to chaos, until the entire world was Yahweh’s domain. This is why the tabernacle (and later the temple) was decorated with Edenic imagery of plants and trees, and why there were cherubim over the ark of the covenant, just as the cherubim were placed at the entrance to the Garden of Eden to guard it. Just as Eden was God’s domain, so too now is the tabernacle, and the camp, Israelite territory, is His ordered domain as well, but outside the camp, outside Yahweh’s people, is still untamed chaos.
+
+So from that perspective, sin does not belong in Yahweh’s domain, it’s “proper” place is out in the chaos that is outside of God’s territory. This is represented by the goat that is released in a remote place. It is taken far outside the borders of Israel, outside of Yahweh’s domain, far enough out into “chaos” that it won’t wander back accidentally. The sins of the people are placed on the goat and symbolically removed from the sanctified and ordered Israel, and carried out to where sin belongs, out where Azazel lives (representing the spiritual powers that have arrayed themselves against God).
+
+So just like we spoke about with the various offerings, how intentional sins are not forgiven by sacrifices, but the Mosaic laws require immediate restitution for whatever wrong was committed, those same sins are not forgiven here either in the sense of removing moral accountability before God. Those sins which you committed continue to live on, they are just removed from among Yahweh’s people and carried out to where sin “belongs.” The result is that the people are “forgiven” in that they are made fit for God’s presence to continue to dwell among them. This is why I say the Day of Atonement is really a ritual reset button for Israel.
+
+I will point out though that the Day of Atonement did start to take on a different meaning to the Jews by Jesus’ day, specifically starting after the destruction of the temple. We have writings in the Dead Sea Scrolls that speak to this. When the temple was destroyed there was nothing to purify, but they continued to perform the Day of Atonement rituals. So instead of focusing on the aspects of the ritual that purified sacred space, since sacred space no longer existed, they focused on the removal of sin from the people. Once the temple was rebuilt, there was still a lot of the idea of the removal of sin involved from before it was rebuilt that carried over.
+
+Originally though, as we see it in Leviticus 16, the Day of Atonement is not about making atonement for sin as the New Testament authors talk about Jesus making atonement for sin by His blood on the cross, but was about making the camp and people of Israel fit for God’s presence to continue to dwell among them.

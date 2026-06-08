@@ -1,0 +1,49 @@
+---
+import Base from '../../layouts/Base.astro';
+import BackLink from '../../components/BackLink.astro';
+import { getCollection, render } from 'astro:content';
+import { articleRefs, refLabel, parsePassages } from '../../lib/passages';
+
+export async function getStaticPaths() {
+  const thoughts = await getCollection('thoughts', ({ data }) => !data.draft);
+  return thoughts.map((thought) => ({ params: { slug: thought.id }, props: { thought } }));
+}
+
+const { thought } = Astro.props;
+const { Content } = await render(thought);
+const refs = articleRefs(thought);
+// The full day's reading that prompted this post (display only — not the index).
+const readingRefs = parsePassages(thought.data.reading ?? []);
+const dateStr = thought.data.date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+---
+
+<Base title={thought.data.title} description={thought.data.summary}>
+  <article class="prose-wrap" data-pagefind-body>
+    <BackLink fallback={refs.length ? `/books/${refs[0].book.slug}` : '/browse'} />
+    <h1>{thought.data.title}</h1>
+    <p class="muted small">{dateStr} &middot; Thoughts</p>
+    {readingRefs.length ? (
+      <p class="reading">
+        Today&rsquo;s reading: {readingRefs.map((r, i) => (
+          <>{i > 0 ? ' · ' : ''}<a href={`/books/${r.book.slug}`}>{refLabel(r)}</a></>
+        ))}
+      </p>
+    ) : null}
+    {refs.length ? (
+      <p class="covers">
+        Covers {refs.map((r, i) => (
+          <>{i > 0 ? ' · ' : ''}<a href={`/books/${r.book.slug}`}>{refLabel(r)}</a></>
+        ))}
+      </p>
+    ) : null}
+    <p class="devotional-note">
+      This was written as part of a daily devotional alongside a Bible reading plan. It
+      doesn&rsquo;t necessarily cover all &mdash; or even the most important parts &mdash; of
+      the passage, but is what the Lord was bringing up as we worked through that day.
+    </p>
+    {thought.data.titleImage ? (
+      <img class="title-image" src={thought.data.titleImage} alt={thought.data.title} data-pagefind-meta="image[src]" />
+    ) : null}
+    <div class="prose"><Content /></div>
+  </article>
+</Base>

@@ -1,0 +1,24 @@
+---
+title: "Thoughts on Galatians 5"
+date: 2024-09-22
+reading:
+  - "Ecclesiastes 7"
+  - "Galatians 5"
+passages:
+  - "Galatians 5"
+summary: "I have spent a lot more time, in my Christian life, contemplating the technical structure of the fruit of the Spirit than I have contemplating whether or…"
+---
+
+I have spent a lot more time, in my Christian life, contemplating the technical structure of the fruit of the Spirit than I have contemplating whether or not it is actually present in my life…
+
+Galatians holds a bit of a special place for me. Galatians was the first book of the Bible that I memorized end to end (and that process alone forces you to think a lot about the structure and content of the book), but then, because I knew it better than any other book, I decided to put together a teaching series on it. As I tried to put the teaching series together I kept running into places where the Greek held nuances that were completely missed by the English (or at least the English of the NASB, which is what I had memorized), which is ultimately what led to my translation project. When I asked the lead pastor of my church about how he handled those discrepancies without stopping to explain it all the time, he told me that he doesn’t teach out of any one version, but will use whatever version handles a particular verse, sentence, or phrase best. I wanted to have a single translation to work off of for the teaching series, so I set off to translate Galatians myself to accomplish this.
+
+I say all this because the fruit of the Spirit in Galatians 5 is a really interesting bit to translate. While “fruit” in English can be both singular or plural, the word that Paul uses is expressly singular. This means that Paul is not giving a list of various fruits of the Spirit, but is talking about a single fruit. It could be that Paul is saying that the fruit of the Spirit is love, and that the rest of the list is what Spirit-empowered love looks like, but it could also be that Paul is intentionally using “improper” grammar here to make a point that all these things are a package deal and should, all together, be normative in the life of a Christian.
+
+I have spent a silly amount of time pondering this question and how best to understand and translate this sentence. I also, regularly, when I hear a pastor or teacher talk about the “fruits of the Spirit” immediately start correcting them in my mind rather than actually listening and engaging with what they have to say. But every once in a while, the Spirit will get ahold of me and force me to deal with the actual content of this passage, rather than the structure of it, and this is a lot harder for me to deal with because, if I’m being completely honest, I don’t feel like I exemplify the fruit of the Spirit very well at all…
+
+I just recently finished reading Francis Chan’s *The Forgotten God* which is his book about the Holy Spirit, and how little we actually expect from Him in modern Western Christianity. It’s a short book and very worth a read, but it’s also a very convicting book. At one point he uses the example of someone claiming to have found a genie that granted them a wish to be the best basketball player in the world, but then who still couldn’t make a shot to save their life. You would rightfully question their claim to have been transformed in their ability to play and/or the power of the one who supposedly granted the wish. In like manner, if Christians have the Holy Spirit Himself residing in us, a person and power which Jesus told His disciples was better for them than His personal presence with them, shouldn’t that be an even more obvious difference? Shouldn’t there be such difference and change in how we operate, how we live, how we love, etc. that the watching world has to say, “There is something unnatural about this person,” because there truly is something unnatural about Christians, something supernatural.
+
+So these last couple weeks I have felt the Lord calling on me to stop thinking so much about the grammatical or other technical details of the fruit of the Spirit, and start thinking more about why these traits aren’t mine. Where is the Spirit calling me to listen and respond and I’m choosing to keep going my own way? What are those “little” things that seem inconsequential if I just keep going my own way, but that are keeping me from, in obedience, experiencing the fullness of life in the Spirit that He intends?
+
+I don’t feel like I have good solid answers I can point to here yet, but I do know that I want these things to be true of me. Whether it’s a singular list defining love, or a list of disparate attributes that should all come packaged together doesn’t really matter at all. What matters is that I want to live a life that is driven, empowered, and transformed by the Spirit of the Living God that is in me.

@@ -1,0 +1,30 @@
+---
+title: "Thoughts on Jeremiah 40"
+date: 2024-02-12
+reading:
+  - "Jeremiah 39-40"
+  - "Romans 15"
+passages:
+  - "Jeremiah 40"
+summary: "There is a bit near the end of Jeremiah 40 that is a great example of why we should be reading the Bible like we read fiction. I don’t say “like fiction” in…"
+---
+
+There is a bit near the end of Jeremiah 40 that is a great example of why we should be reading the Bible like we read fiction. I don’t say “like fiction” in terms of not believing these are actual events that actually occurred, but in terms of watching for and seeing the themes and ideas the authors are weaving into the broader story they are telling.
+
+A lot of people see the Bible, and especially the Old Testament, more like a history book or an encyclopedia than anything else. Those who haven’t read it tend assume it is just a bunch of genealogies, laws, and lifeless recitations of Israel’s history, but then even those who have often hold onto these same categories for everything except maybe the Psalms and Proverbs. But when we approach the scriptures like this, there is so much we’re going to miss.
+
+When we read fiction, we know the author is telling a unified story. We expect small details that showed up earlier in the story to have a bigger payoff later. We expect themes and ideas to be built, developed, and brought to a satisfying conclusion in the end. We know the authors are messing with us emotionally, and we let them draw us in. But these aren’t the things we expect or watch for in a history book. An event in history is just an event, not developing an important meta narrative, or building toward some ultimate payoff, and so we don’t look for those things as we read.
+
+But the Scriptures are not mere history on multiple levels. On the one hand, the author behind the entire story of human history is the Lord Himself, and similar to what we talked about a few days ago, these developing themes and ideas are often how God has worked over the years. Fulfillment of Biblical prophecy is generally smaller fulfillments that picture the total fulfillment God is moving history toward in the end and/or repeated themes that point to His nature and character. And on the other hand, not only is God the ultimate unifying author of the Scriptures overall, but the human biblical authors and editors viewed themselves as part of this story. As Jeremiah is writing, he is not sitting down simply to record facts and figures, but he is building on the themes of exile and exodus that started in Genesis and Exodus, that play out over and over throughout Judges, and that are continuing to play out in his day. Plus, let’s not miss the fact that he is expressly working with Baruch, a professional scribe (i.e. a professional author), to compose this book, so this is way more intentional than simply trying to record historical events.
+
+And I go through all of this intro just to point out the miniature regathering in the second half of chapter 40.
+
+So much of Jeremiah’s preaching and writing has been about exactly this, that it is God, not Nebuchadnezzar, who is driving the people out of the land, but that He will bring them back, gathering them from all the nations to which they have been driven, giving them their land again, and it will be fruitful, producing abundantly for all, just as He had promised Israel from the beginning. This would also be one of the hardest parts of Jeremiah’s preaching to believe, because, from their perspective, how could God possibly bring them all back if they have been scattered to the winds? It could never happen…
+
+But then, almost as if to remind them that He will do exactly as He promised, into the vacuum of the people being carried off into exile, a portion of God’s people are gathered from the nations to which they were scattered.
+
+> *“Likewise, when all the Judeans who were in Moab and among the Ammonites and in Edom and in other lands heard that the king of Babylon had left a remnant in Judah and had appointed Gedaliah the son of Ahikam, son of Shannan, as governor over them, then all the Judeans returned from all the places to which they had been driven and came to the land of Judah, to Gedaliah at Mizpah. And they gathered wine and summer fruits in great abundance.”*
+
+The language Jeremiah uses here to describe this is not just happenstance or a happy coincidence. Even the fact that he includes this note of the people gathering back is not because he is exhaustively recording historical happenings. Jeremiah includes this, using the same language he has used of the regathering all along, to draw his readers to see this as a sort of first-installment on the regathering. This is not all the people, and it is not from every nation they have been scattered to, but it is a portion of the Lord’s people, gathered from the nations nearby to which they had been scattered, and returning to a land that is producing abundantly. Later, there will come a greater regathering as God brings the people of Judah and Benjamin back from exile, but even that is prefiguring the church-age where God is calling people out of every nation and people, in Christ, to be part of His divine family. And even with that, we still haven’t seen the ultimate fulfillment of this re-gathering, as God promises a day where Jesus will return bodily, remaking the earth, establishing His eternal, righteous kingdom, and gathering all of His people to himself in the new Jerusalem.
+
+It’s themes and motifs like this that are, in part, why I say we would be better served to read the Scriptures like we read fiction, recognizing that we are reading a unified story that is being woven across centuries, by authors and editors who are intentionally drawing our thoughts and feelings into the story, helping us to see what God has been doing, and what He will continue to do, as He carries history through to it’s ultimate culmination in Christ.

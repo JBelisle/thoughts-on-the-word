@@ -1,0 +1,35 @@
+---
+import Base from '../../layouts/Base.astro';
+import BackLink from '../../components/BackLink.astro';
+import { getCollection, render } from 'astro:content';
+import { articleRefs, refLabel } from '../../lib/passages';
+
+export async function getStaticPaths() {
+  const articles = await getCollection('articles', ({ data }) => !data.draft);
+  return articles.map((article) => ({ params: { slug: article.id }, props: { article } }));
+}
+
+const { article } = Astro.props;
+const { Content } = await render(article);
+const refs = articleRefs(article);
+const dateStr = article.data.date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+---
+
+<Base title={article.data.title} description={article.data.summary}>
+  <article class="prose-wrap" data-pagefind-body>
+    <BackLink fallback={refs.length ? `/books/${refs[0].book.slug}` : '/theology'} />
+    <h1>{article.data.title}</h1>
+    <p class="muted small">{dateStr} &middot; {article.data.type}</p>
+    {refs.length ? (
+      <p class="covers">
+        Covers {refs.map((r, i) => (
+          <>{i > 0 ? ' · ' : ''}<a href={`/books/${r.book.slug}`}>{refLabel(r)}</a></>
+        ))}
+      </p>
+    ) : null}
+    {article.data.titleImage ? (
+      <img class="title-image" src={article.data.titleImage} alt={article.data.title} data-pagefind-meta="image[src]" />
+    ) : null}
+    <div class="prose"><Content /></div>
+  </article>
+</Base>

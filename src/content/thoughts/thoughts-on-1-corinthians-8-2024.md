@@ -1,0 +1,26 @@
+---
+title: "Thoughts on 1 Corinthians 8"
+date: 2024-02-20
+reading:
+  - "Jeremiah 49"
+  - "1 Corinthians 8"
+passages:
+  - "1 Corinthians 8"
+summary: "1 Corinthians 8 is a great example of why we can’t just change how we define an idol to try to make parts of the Bible more applicable to ourselves."
+---
+
+1 Corinthians 8 is a great example of why we can’t just change how we define an idol to try to make parts of the Bible more applicable to ourselves.
+
+I talked a couple weeks ago about how you hear Christians all the time saying things like, “An idol is anything that takes first place in your life before God,” when that is not what the Biblical authors are thinking or intending when they talk about idols. I won’t rehash everything I already wrote about it, but when they talk about idols, they are talking about continuing the worship of other gods alongside God, not just letting something in your life get elevated to being too important. This was a serious issue in a polytheistic world that would have been perfectly willing to add Yahweh into the mix alongside their other gods, but that was far less willing to cast off those other gods entirely in order to replace them with Yahweh.
+
+Certainly there are still large parts of the world today that would lean this way, and for whom the talk of the seriousness of idolatry likely hits closer to home, but in the Judeo-Christian culture of the West, until very recently, this hasn’t really been a temptation for most people. This is why well meaning pastors and teachers have expanded the definition of an idol beyond actual idolatry in an attempt to make the whole Bible more applicable. I said before, I think this is a big mistake, and is setting people up for spiritual failure as we are seeing more and more polytheistic cultures integrating with our previously monotheistic western culture, but we are not communicating the true seriousness of idol worship because we wanted to make idolatry more applicable to ourselves and our congregations in the past.
+
+But 1 Corinthians 8 presents us another problem with our redefinition of idolatry, in that it just doesn’t make any sense at all…
+
+Paul is talking about the fact that a Christian, not going to worship an idol, could eat meat that was previously sacrificed to that idol, with a clear conscience. For context, the excess meat from various temple sacrifices was generally sold off, so whether you bought meat at the market, or whether you ate at the restaurant outside the temple, the meat you were eating might have come from a sacrifice to an idol. Paul’s point is that simply eating the meat does not count as idol worship, but they should be careful to not send the wrong message to others looking on (e.g. if someone new to Christianity sees you, a mature Christian, eating at the temple of another god, they might understand that it is completely okay to combine the worship of their idols with their Christianity, so you need to consider that aspect as well).
+
+The problem here with how many Christians redefine an idol as, “anything that takes first place over God in your life,” is that many of the things they point to are otherwise good (or at least neutral) things, that are being elevated too highly. They are generally talking about career, children, house, entertainment, etc. “becoming an idol.” But God made us to work, to provide for our families, so having a good career or striving to do it well is good and godly, even if it is possible to focus on it to the sinful detriment of other things (like the very family you are supposed to be supporting with it). Likewise, God designed families, and parents are supposed to work hard to raise their children well, investing in their family as a significant priority, even if it is possible to sinfully start taking identity from your children’s successes and pushing them too hard or toward the wrong things. Idolatry, on the flip side, is never acceptable at all, let alone good or godly.
+
+Paul is not warning us that a young Christian might see us doing a good thing and wrongly think that it is an okay part of their Christianity, that would be absurd. And his concern is not that someone might see you taking that good thing a little too far and be led away from the faith by it. Certainly Paul addresses these kinds of things elsewhere, and he does not shy away from calling us to leave off both sin, as well as the things in our lives which are not sinful in and of themselves, but which are distracting us from a pure and sincere devotion to Christ, but that is not what he is talking about when he talks about idolatry.
+
+I’ve said it before, and I will say it again a thousand more times if I need to: We should never twist or reinterpret the Bible to try to make it more applicable to ourselves. God delivered His Word to the entire world, speaking across times and cultures. There are instructions and warnings that will be more important and applicable to some people and cultures than others. It’s not that we, in the West, are good to worship idols, but if we are not tempted to worship idols, then let’s praise God that it’s not something we struggle with and move on to the next instruction, which, chances are, we do struggle with.

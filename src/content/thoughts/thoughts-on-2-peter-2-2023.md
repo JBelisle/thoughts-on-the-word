@@ -1,0 +1,22 @@
+---
+title: "Thoughts on 2 Peter 2"
+date: 2023-05-21
+reading:
+  - "Numbers 29"
+  - "2 Peter 2"
+passages:
+  - "2 Peter 2"
+summary: "Peter has some really strong words for the false teachers who bring in destructive heresies to the church that lead people astray. Given some of his pretty…"
+---
+
+Peter has some really strong words for the false teachers who bring in destructive heresies to the church that lead people astray. Given some of his pretty specific references, it does seem like there are some particular teachings/heresies that he is thinking of as he writes this, but he is also talking generically about this as a problem that will continue to arise over time, and that means it is something we need to pay attention to today as well.
+
+A lot of the time, when people talk about heresies in the Christian church, they are thinking about some of the famous historical heresies that have had formal councils convened to debate and reject them as heresy, but I don’t think that’s really what Peter has in view here. Most of the famous historical heresies were introduced by Christians who genuinely loved the Lord and were trying to work out some difficult aspect of who God and Jesus are, how they operate, how they relate to one another, etc. Something like the Trinity is impossible to fully comprehend, and so as people have tried, and put forth theories, some of those theories have seemed fine/reasonable, but then as people work through the implications of that theory, they turn out to be heretical, and so the teachings/ideas are declared to be heresy and are no longer taught.
+
+These kinds of heresies don’t seem to be what Peter is talking about. Peter is talking about people who are actively and intentionally teaching things which are contrary to biblical faith in Christ, generally for personal gain, leading otherwise faithful Christians astray from the gospel. The reason Peter speaks so harshly against these false teachers is that what they teach does not merely lead someone to an incorrect theological understanding about some aspect of the nature of God, but it actually undermines and destroys people’s faith in Jesus individually, and can destroy the faith of entire churches if the infection spreads. 
+
+To some extent, this kind of false teaching is part of the reason this blog exists. There is no better protection against false teaching and misuse of God’s Word than people knowing God’s Word well enough to not be deceived. And the more we all learn to enjoy the Word and want to dive deeper into it, the more difficult it will be for us to be deceived.
+
+And we do need that understanding because, just like in Peter’s day, there are still deceptive teachings that exist today trying to make headway into churches all over. There are individuals who claim to have apostolic authority and new teaching from the Lord that the church today needs to follow, and they are gathering entire churches following their lead. There is a significant presence of New Age teaching and thought working its way into the church, inviting Christians into a more “mystical” spiritual experience that ultimately teaches Jesus was merely an enlightened man, or an extension of some divine essence that exists in all of us. There are famous Christian authors who teach that the problems in your life can be solved by positive thinking (and probably buying more of their books and giving to their ministry…). There are eastern meditation practices being taught as a heightened form of Christian prayer with the goal of losing yourself in the “divine oneness” even though this is directly contrary to what the Bible teaches of how we relate to God. There are popular Christian teachers who have begun teaching universalism, and that personal faith in Christ isn’t really all that important. And many other bold or subtle teachings seeking to erode the faith of God’s children. 
+
+All this to say that Peter is right to react as strongly as he does to these people. These are not teachers innocently and accidentally teaching the wrong things, these are teachers who stand opposed to Christ but are using His church as a platform and means for their own gain. These are teachers who will face the full wrath of God on the last day, but who can do significant damage to the church in the meantime. And this is why we need to take this threat as seriously as Peter clearly did, and be on the watch for Satan sending his workers in to disrupt the work that God is seeking to do in advancing His kingdom.

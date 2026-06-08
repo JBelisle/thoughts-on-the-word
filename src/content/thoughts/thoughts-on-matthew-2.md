@@ -1,0 +1,22 @@
+---
+title: "Thoughts on Matthew 2"
+date: 2024-01-02
+reading:
+  - "Isaiah 61-62"
+  - "Matthew 2"
+passages:
+  - "Matthew 2"
+summary: "I have never thought about this before, but I was realizing this morning that the events of Matthew 2, the wise men bringing gifts and finding Jesus, and…"
+---
+
+I have never thought about this before, but I was realizing this morning that the events of Matthew 2, the wise men bringing gifts and finding Jesus, and then Herod killing all the male babies under 2 around Bethlehem, only really happen because Joseph is a craftsman.
+
+Contrary to basically every nativity set or play ever, the wise men from the east did not show up the night Jesus was born to find him lying in a feeding trough out in the stables. When Herod sends to slaughter all the baby boys under 2 years old in and around Bethlehem, Matthew tells us he did so, “according to the time he had ascertained from the wise men.” Given how utterly insane and depraved his actions are, I’m assuming Herod added some extra time to what the wise men told him, just to make sure this new king didn’t slip through the cracks, but even so, that means the wise men are showing up probably a year to a year and a half after Jesus was born.
+
+And what does this have anything to do with anything? While Matthew doesn’t include this detail in his account, Luke tells us that the reason Jesus was born in Bethlehem was that the Roman government had called for a census and Joseph and Mary had to travel to Joseph’s family’s hometown to register, and it was when they got there, to Bethlehem, that Jesus was born. If Joseph had a different line of work, something like a shop keeper, smith, potter, farmer, etc., he likely would have needed to get back home quickly, so they would have registered for the census and returned home more or less immediately. This would have meant that, while the prophesy from Micah would still have been true, that Jesus would have been born in Bethlehem, he would have been long gone by the time the wise men showed up to find him. However, for a skilled craftsman, there was often much more work to be found in a new town or city. People did not have a lot of disposable income back then, meaning they did not have money sitting around to have someone build something just for the fun of having something new. A craftsman’s work either came from a massive, long-term project, like building a new temple or government building, or, more often, from things people needed repaired or replaced around town. But there are only so many things that need repaired or replaced when people can only afford the necessities, so when there was no more work in one town, they would often pack up their tools and head to another area.
+
+As a side note, this is part of the reason people wonder whether Joseph was dead or not by the time Jesus started his ministry. Joseph never shows up during Jesus’s ministry, which leads many to conclude he had probably died, but given his line of work, it is also entirely possible that he took a long-term contract or needed more work than Nazareth could provide, so he was somewhere else working and sending money back to his family.
+
+But, back to Matthew 2, my point in all of this is that Joseph may very well have used the need to travel to Bethlehem for the census as a way to find new work, and so they stayed on in a new/larger town where he could find more work. This meant that when the wise men showed up a year or two later, instead of Jesus being long gone back to Joseph and Mary’s hometown, he was still there when they arrived. It also means that when the angel sent their family to Egypt to protect from them Herod’s murderous rampage, Joseph had the means to support them there as he clearly had his tools with him in Bethlehem if he was able to stay for more than a year in Bethlehem. They probably needed to use the gold gifted by the wise men to fund their move down to Egypt, but once there, Joseph would have been well equipped to support them for however long they needed to stay there. The same then goes for their flexibility in where they moved back to, such that they landed in Nazareth and Jesus could thus be calls a Nazarene.
+
+So while it maybe seems like more of a throwaway detail, Joseph being a craftsman (often translated carpenter, but more likely either a general craftsman or potentially a stone mason) is actually pretty important to how things play out in Matthew 2.

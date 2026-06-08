@@ -1,0 +1,106 @@
+---
+import Base from '../../layouts/Base.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import BackLink from '../../components/BackLink.astro';
+import { getCollection } from 'astro:content';
+import { books, bookBySlug } from '../../data/books';
+import { chaptersWithContent, articlesForBook } from '../../lib/passages';
+
+export async function getStaticPaths() {
+  return books.map((b) => ({ params: { book: b.slug } }));
+}
+
+const { book: slug } = Astro.params;
+const book = bookBySlug(slug!)!;
+const articles = await getCollection('articles', ({ data }) => !data.draft);
+const thoughts = await getCollection('thoughts', ({ data }) => !data.draft);
+const translations = await getCollection('translations', ({ data }) => !data.draft);
+const entries = [...articles, ...thoughts, ...translations];
+const withContent = chaptersWithContent(entries, book.slug);
+const items = articlesForBook(entries, book.slug);
+const chapterNumbers = Array.from({ length: book.chapters }, (_, i) => i + 1);
+const count = items.length;
+---
+
+<Base title={book.name} description={`Studies and reflections on the book of ${book.name}.`}>
+  <BackLink fallback="/browse" />
+  <h1>{book.name}</h1>
+  <p class="legend"><span class="swatch"></span> Highlighted chapters have a study &mdash; tap to filter</p>
+
+  <div class="chapter-grid">
+    {chapterNumbers.map((n) =>
+      withContent.has(n) ? (
+        <button class="tile has" type="button" data-ch={n}>{n}</button>
+      ) : (
+        <span class="tile" aria-disabled="true">{n}</span>
+      ),
+    )}
+  </div>
+
+  <div class="filter-bar">
+    <span class="filter-label" id="filter-label">All chapters &mdash; {count} {count === 1 ? 'study' : 'studies'}</span>
+    <button class="show-all" id="show-all" type="button" hidden>Show all chapters</button>
+  </div>
+
+  <div class="stack" id="article-list">
+    {items.length ? (
+      items.map(({ article, chapters }) => <ArticleCard article={article} chapters={chapters} />)
+    ) : (
+      <p class="muted">No studies on {book.name} yet.</p>
+    )}
+  </div>
+</Base>
+
+<script is:inline define:vars={{ bookName: book.name }}>
+  (function () {
+    var tiles = Array.prototype.slice.call(document.querySelectorAll('.chapter-grid .tile.has'));
+    var cards = Array.prototype.slice.call(document.querySelectorAll('#article-list .article-card'));
+    var label = document.getElementById('filter-label');
+    var showAll = document.getElementById('show-all');
+    var selected = null;
+
+    function syncUrl() {
+      var url = new URL(window.location.href);
+      if (selected === null) url.searchParams.delete('ch');
+      else url.searchParams.set('ch', String(selected));
+      history.replaceState(null, '', url);
+    }
+
+    function render() {
+      tiles.forEach(function (t) {
+        t.classList.toggle('active', Number(t.dataset.ch) === selected);
+      });
+      var shown = 0;
+      cards.forEach(function (c) {
+        var chs = (c.dataset.chapters || '').split(',').map(Number);
+        var visible = selected === null || chs.indexOf(selected) >= 0;
+        c.style.display = visible ? '' : 'none';
+        if (visible) shown++;
+      });
+      var word = shown === 1 ? 'study' : 'studies';
+      label.textContent = (selected === null ? 'All chapters' : bookName + ' ' + selected) + ' \u2014 ' + shown + ' ' + word;
+      showAll.hidden = selected === null;
+    }
+
+    tiles.forEach(function (t) {
+      t.addEventListener('click', function () {
+        var ch = Number(t.dataset.ch);
+        selected = selected === ch ? null : ch;
+        syncUrl();
+        render();
+      });
+    });
+    showAll.addEventListener('click', function () {
+      selected = null;
+      syncUrl();
+      render();
+    });
+
+    // Restore a chapter filter from the URL (e.g. when arriving via "Back").
+    var fromUrl = Number(new URLSearchParams(window.location.search).get('ch'));
+    if (fromUrl && tiles.some(function (t) { return Number(t.dataset.ch) === fromUrl; })) {
+      selected = fromUrl;
+    }
+    render();
+  })();
+</script>

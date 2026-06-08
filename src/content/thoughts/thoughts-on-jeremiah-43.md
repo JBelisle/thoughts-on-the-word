@@ -1,0 +1,30 @@
+---
+title: "Thoughts on Jeremiah 43"
+date: 2024-02-15
+reading:
+  - "Jeremiah 43"
+  - "1 Corinthians 2"
+passages:
+  - "Jeremiah 43"
+summary: "If I have already decided what the Lord is allowed to say, I shouldn’t bother asking Him for input. Instead, I should ask the Holy Spirit to change my heart…"
+---
+
+If I have already decided what the Lord is allowed to say, I shouldn’t bother asking Him for input. Instead, I should ask the Holy Spirit to change my heart to be willing to hear the Lord’s voice, whether I like His answer or not.
+
+I mentioned this yesterday too, because it is obviously relevant over these few chapters we’re reading in Jeremiah, but it just keeps jumping out to me, so I’m going to talk about it more today.
+
+At first, for a while after doing the reading yesterday, I just kept wondering why the people bothered sending Jeremiah to the Lord in the first place. If they were going to go to Egypt, and nothing anybody said would dissuade them, why did they care what the Lord said? Why not just pack up and go, never asking at all? But the more I thought about it, the more I realized how many times I’ve done the exact same thing in my life. How many times have I decided on the course I wanted to take in my heart, but then prayed for direction, solely because I wanted God to validate what I was already planning to do?
+
+One great example of this is my youngest son asking for Tootsie Rolls. My kids all got a bunch of Tootsie Rolls as part of Christmas presents, and a couple of them didn't really like them, so my youngest has been faithfully working his way through all of them. On days I'm around the house all day, it has to be at least ten times a day that he will come to me asking if he can have a Tootsie Roll. Most of the time, when I tell him no, he starts throwing a fit, because clearly that was the wrong answer. Occasionally, when I tell him no, he says, "Okay," and runs off to do something else, but most of the time it's not so calm. He isn't, in those times, asking because he would like to know if he is allowed to have one, he is asking because he has already decided he is going to have one, but knows (from experience) not to sneak them without asking. He isn't genuinely looking for an answer from me, he is only looking for me to validate the course he has already decided on.
+
+For my son, while he may not like when I block his plans, he doesn't really have a choice other than listen (hence the fits when I say no). But when it comes to us and God, we generally have the freedom to choose whether we are going to be obedient to Him or not. This is why I say, if we aren't ready to actually listen to what the Lord has to say, we should ask for a humble heart before we ask the Lord's input.
+
+When the people asked Jeremiah to pray for direction for them, they even said, "May the Lord be a true and faithful witness against us if we do not act according to all the word with which the Lord your God sends you to us. Whether it is good or bad, we will obey the voice of the Lord our God to whom we are sending you, that it may be well with us when we obey the voice of the Lord our God." They were clearly as far from sincere as they could have been when they were saying this. They were trying to butter up God. They were layering a veneer of piety and obedience over their request, to try to manipulate God into doing what they wanted. It is like if my son, wanting a Tootsie Roll, but knowing I will probably say no this time, comes and cuddles up against me, tells me how much he loves me, and then says, "Oh, by the way, I just thought of this, and it's totally fine either way, but could I have a Tootsie Roll?" Only to then throw himself on the floor when his manipulation fails and I say no.
+
+Honestly, this is just my personal opinion, but if you aren't going to listen to the Lord either way, I think you'd be better off just doing what you're going to do and never asking Him for wisdom or direction on it.
+
+I know others may disagree with that, and maybe simply the act of praying about it could change your heart, but time and time again, that has not been my own experience, or what I have seen in the lives of those around me. When we decide on a course and take it, knowing that we should probably pray about it, but simply not, we aren't seeking the Lord on it, but we also aren't being expressly disobedient. On the flip side, if we ask the Lord and get a clear answer from Him, but it's the "wrong" answer and we refuse to accept it, we are choosing active disobedience to go our own way. To be clear, I would not call either of these "good," but I would call one more damaging than the other. When we hear the clear voice of the Lord and choose to ignore it, we callous our hearts and make it easier to disregard His voice the next time.
+
+This is a dangerous route to turn down, which is why I say, if you know in your heart that you should seek the Lord's input on something, but you also know that you are not interested in His input, having already decided what you want to do, regardless of what He does or doesn't say, you should start with a different kind of prayer. Instead of praying for wisdom, direction, an answer, or whatever it is you are looking for, ask Him to soften your heart to be genuinely open to His answer. Let the Holy Spirit do His work on your heart, and when you are willing to obey the Lord and follow Him, even if you're not going to be happy about it if He gives you the "wrong" answer, then seek Him for your needs. Even begrudging obedience can be a very good thing, because we are willfully choosing to go the Lord's way, and we are giving Him the chance to show us that His way really is better.
+
+Let's not be like the Israelites who spoke so boldly to Jeremiah about their readiness to obey, when really they already knew what they were going to do. The more we choose to listen to Him, the more we will see that He truly does always know best, and really is always working all things for good for those who love Him and are called according to His purposes.

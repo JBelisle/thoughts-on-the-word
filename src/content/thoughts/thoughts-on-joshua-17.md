@@ -1,0 +1,26 @@
+---
+title: "Thoughts on Joshua 17"
+date: 2023-07-16
+reading:
+  - "Joshua 16-17"
+  - "Acts 5"
+passages:
+  - "Joshua 17"
+summary: "With reading Acts 5 today I kind of expected I would be talking about Ananias and Sapphira or Gamaliel, but then I came across one of my favorite…"
+---
+
+With reading Acts 5 today I kind of expected I would be talking about Ananias and Sapphira or Gamaliel, but then I came across one of my favorite illustrations out of the Old Testament that I never really feel like I can teach, but which is just too good not to share, so that is what we are going to talk about this morning.
+
+This illustration came from a teaching I heard on the radio one day. I don’t remember for sure, but I think it was Dr. Tony Evans who was preaching on the last paragraph of Joshua 17.
+
+He pointed out that in this paragraph the tribes of Ephraim and Manasseh come to Joshua saying they need more land, and Joshua’s response is that they have enough land, they just need to clear the forests and drive out the Canaanites. The problem was not a lack of land, it was how they were using the land they had that was the problem.
+
+Dr. Evans (I’m just going to assume I am remembering right about who it was for the rest of this post) preached this allegorically about us and how we use our time. He said that people will always come to him telling him that they just don’t have enough time to read the Bible every day, or to be praying regularly, or to make it to church every week, and his question back is always, “How much time did you spend watching tv last week? Or how long did you spend scrolling social media yesterday?” He said that, much like the tribes of Joseph, our problem is not a lack of time, it’s how we are using the time we have that is the problem.
+
+From there Dr. Evans drew the parallel out even further, and I love this way of thinking about it. He pointed out that the tribes of Joseph in Joshua 17 had two things keeping them from being able to use the land: the forests and the Canaanites. The forests, he said, are the amoral influences in our lives. They aren’t good or bad in and of themselves, but if they take up too much space, they can block out the better things God has for you. The Canaanites then are the immoral influences in our lives. They not only take up space like the forests do, but they actively lead us away from God.
+
+Just like God’s instruction to Israel was to drive out all of the Canaanites, leaving none alive, lest they lead Israel astray from Him, we have the same need. We cannot afford to leave the immoral influences hanging around in our lives if we want to have any consistent and faithful walk with the Lord. But where I really love this line of thinking is the forests. The forests were taking up too much space and needed to be cleared out if they were going to use the space to live, but forests are also good, healthy, and important to keep around. Forests provide important habitats, stop erosion, etc. It would be a terrible idea to completely clear cut all the forests out of the land, but they do need to cut them back enough for houses and farm land. But the other side of this illustration I love is that forests will always be further encroaching and need maintenance. Just because you cleared the forest back at one point doesn’t mean the trees stop growing out and the brush stays back at the tree line. If you want to keep the space you cleared out, you will have to trim and prune back the forests over time.
+
+I think the reason I love this illustration so much is that I tend to think about things as very black-and-white. So my tendency would be to look at the forest and say, “It gets in the way, so get rid of it entirely!” But that’s not the reality of it. When Dr. Evans asks someone how much time they spent watching tv in the past week, his point is not that tv is bad or that the right answer is none, but that you can’t really say you have no time for the things of the Lord if you are spending time on something just for fun or entertainment. So just like the forests, it wouldn’t be healthy to cut out all entertainment or fun from your life and replace it with all bible study and prayer. The forests in your life can be good and important, but if they are taking up too much space, you might need to cut down a few trees and clear back some brush to make room for the better things the Lord has for you.
+
+So I love this illustration, and I think it’s a super helpful way to think about the immoral and amoral influences in our own lives, but I am hesitant to teach it out of this passage because I don’t know that it is actually warranted by the passage. This is very much an allegorical interpretation of this passage, but there is nothing in the passage that indicates that God is intending us to draw this application from it. So as much as I love this illustration, and as helpful as I personally find it, I’m hesitant to say as strongly as Dr. Evans that this is a valid thing to draw from it. I’ll leave it up to you whether you think this is a valid thing to teach out of this passage or not, but I wanted to share it because I find it so helpful either way.

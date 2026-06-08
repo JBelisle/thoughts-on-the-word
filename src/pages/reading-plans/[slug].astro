@@ -1,0 +1,29 @@
+---
+import Base from '../../layouts/Base.astro';
+import BackLink from '../../components/BackLink.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const plans = await getCollection('plans', ({ data }) => !data.draft);
+  return plans.map((plan) => ({ params: { slug: plan.id }, props: { plan } }));
+}
+
+const { plan } = Astro.props;
+const { Content } = await render(plan);
+---
+
+<Base title={plan.data.title} description={plan.data.summary}>
+  <article class="prose-wrap" data-pagefind-body>
+    <BackLink fallback="/reading-plans" />
+    <h1>{plan.data.title}</h1>
+    {plan.data.summary ? <p class="covers">{plan.data.summary}</p> : null}
+    {plan.data.titleImage ? (
+      <img class="title-image" src={plan.data.titleImage} alt={plan.data.title} data-pagefind-meta="image[src]" />
+    ) : null}
+    <div class="prose"><Content /></div>
+    <p style="margin-top:24px;display:flex;gap:10px;flex-wrap:wrap">
+      {plan.data.pdf ? <a class="tag" href={plan.data.pdf}>Printable PDF</a> : null}
+      {plan.data.sheet ? <a class="tag" href={plan.data.sheet}>Open in Google Sheets</a> : null}
+    </p>
+  </article>
+</Base>

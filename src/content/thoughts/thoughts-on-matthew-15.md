@@ -1,0 +1,30 @@
+---
+title: "Thoughts on Matthew 15"
+date: 2024-01-15
+reading:
+  - "Jeremiah 10"
+  - "Matthew 15"
+passages:
+  - "Matthew 15"
+summary: "Christians today, in their ignorance of Scripture, can be much more theologically dangerous than the Pharisees in Jesus’ day."
+---
+
+Christians today, in their ignorance of Scripture, can be much more theologically dangerous than the Pharisees in Jesus’ day. 
+
+For as much as Jesus taught against the Pharisees, to their credit, they knew the Scriptures well enough to know that what they were expecting people to follow was their traditions, and not God’s commands, but how often do we see the same kind of thing from Christians today, expecting people to follow their church’s, denomination’s, or family’s traditions, but not knowing the Word well enough to realize they are not instructions from the Lord?
+
+When the scribes and Pharisees come to Jesus at the beginning of Matthew 15, they ask Him why His disciples break the traditions of the elders by not washing their hands when they eat. As I already said, I think this is, in one sense, to their credit; they don’t come asking why His disciples defile themselves or why they don’t care about ritual cleanness, but why they break the traditions of the elders. These traditions were geared toward making sure people were keeping God’s law, but they were not the law themselves, and the Pharisees recognized that.
+
+We know, from various writings from the time, that the Jewish leaders concerns were not about personal salvation so much as they were about national righteousness to avoid exile. There was significant concern about getting exiled again from the land, and the various sects and teachings were focused on avoiding that in various ways. The Essenes (one group of which is famous for the Dead Sea Scrolls), for example, believed that Israel, as a whole, was too far gone spiritually to stay faithful enough to God, but they believed if they could stay so incredibly faithful to God themselves, that their righteousness could keep Israel from being exiled. So the Essenes didn’t worry about trying to get other people to follow the law, but instead went off into their own cloistered communities and lived by incredibly strict rules intended to ensure God’s law was maintained absolutely perfectly. The Pharisees, in contrast, were focused on getting the people as a whole to live faithfully to God’s law. They too, like the Essenes, had strict rules (though no where near as strict), and they sought to get the people to follow their teachings to avoid breaking God’s law, either willfully or in ignorance, again hoping to avoid another exile.
+
+Spiritually speaking, the goal of the Pharisees was to have Israel bowling with bumpers. Except that bumpers stop you from getting a gutter ball, but don’t necessarily stop you from failing to get any pins. So the goal of the Pharisees’ traditions was to move the bumpers further and further in toward the middle of the lane so that people wouldn’t just not be able to get a gutter ball, but wouldn’t even be able to miss the pins! If they could get the bumpers set far enough in, then every ball would be a strike and there would be no chance of exile!
+
+The thing is, while some of their “bumpers” would indeed keep people from violating the law, others were actually in competition with God’s law. The one Jesus rebukes them for is dedicating money, land, etc. to the Lord. The original intent, from their end, was that if someone dedicated something to the Lord, and then later decided they wanted it, they weren’t allowed to just take it back since it was already promised to the Lord. The reality was though that this was being abused, but even apart from abuse, if someone dedicated money to the Lord, but then their parents needed supported, the Lord would clearly prefer them to honor their parents than leave the money dedicated to the Lord. It’s not that Jesus was okay with, or in support of, their bumpers that didn’t run afoul of God’s law, but that He uses this example to show the folly of expecting adherence to these traditions when the law is not being broken. If God wanted the people to be bowling with bumpers, He would have put them out Himself, but that was not how He chose to operate with his people.
+
+But how many Christians, and churches, and denominations try to put out the same spiritual bumpers today?
+
+And how many Christians follow these bumpers, assuming that they come from the Lord, and not knowing the Scriptures well enough to know they do not?
+
+How many barriers are set up for non-Christians open to the faith to be able to know the Lord and get engaged with a spiritual community as a result of these bumpers? How many activities and behaviors that the Lord says little to nothing about have to be “fixed” or abandoned before someone can join or have influence in a church? How many activities and behaviors that the Lord says little to nothing about are expected of members of various Christian communities?
+
+While the Pharisees were trying to put rules in place to safeguard against breaking the law, they had deep knowledge of the Scriptures and knew that what they were teaching and calling for were interpretations of the law, and not the Word of God itself. But so many Christians today, ignorant of the Scriptures, perpetuate these same kinds of rules and regulations, teaching them to others, thinking they are the command of God, when that couldn’t be further from the truth. This is why I say I think Christians doing this could be even more theologically dangerous than the Pharisees. We shouldn’t outright ignore tradition, and it’s not at all wrong for a Christian community to expect people to live in certain ways in line with the Scriptures, but when our traditions or rules are raised to the level of Scripture, we risk leading others astray and putting barriers between needy sinners and the free gift of the cross.

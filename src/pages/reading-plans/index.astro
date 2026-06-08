@@ -1,0 +1,21 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+const plans = (await getCollection('plans', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+---
+<Base title="Reading Plans" description="Whole-Bible reading plans you can follow at your own pace.">
+  <h1>Reading Plans</h1>
+  <div class="stack" style="margin-top:16px">
+    {plans.map((p) => (
+      <a class="card article-card" href={`/reading-plans/${p.id}`}>
+        {p.data.titleImage ? <img class="card-thumb" src={p.data.titleImage} alt={p.data.title} loading="lazy" /> : null}
+        <span class="card-body">
+          <span class="card-title">{p.data.title}</span>
+          {p.data.summary ? <p class="card-meta">{p.data.summary}</p> : null}
+        </span>
+      </a>
+    ))}
+  </div>
+</Base>

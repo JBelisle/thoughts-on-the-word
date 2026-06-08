@@ -1,0 +1,34 @@
+---
+title: "Thoughts on Philemon"
+date: 2023-04-15
+reading:
+  - "Leviticus 19"
+  - "Philemon 1"
+passages:
+  - "Philemon"
+summary: "I want to talk about Philemon this morning, and specifically about whether it is wrong for Paul to pressure Philemon the way he does in this letter."
+---
+
+I want to talk about Philemon this morning, and specifically about whether it is wrong for Paul to pressure Philemon the way he does in this letter.
+
+The main reason Paul seems to be writing this letter is to get Philemon to release his runaway slave, Onesimus. In his other letters that mention masters and slaves, Paul never commands or even advocates for the release of all slaves. There are a number of reasons for that that we aren’t going to spend the time on here for today’s discussion, but suffice it to say that slavery in the Roman world was a very different institution than slavery in the United States, so while a lot of American readers have a strong reaction at the thought of slavery, we can’t conflate the two and just decide something is wrong with the Bible for not denouncing or eradicating it.
+
+But back to Philemon, Paul appeals to him to release his slave Onesimus who evidently became a Christian under Paul’s teaching while Paul has been under house arrest. But the way Paul “appeals” to Philemon feels a little dirty and manipulative. He says things like, “although I have enough confidence in Christ to command you to do what is proper, I rather appeal to you on the basis of love,” or “but without your consent I did not want to do anything, so that your goodness might not be out of compulsion, but from your own willingness.” While Paul says it is up to Philemon, he makes it abundantly clear that there is a “right” choice for Philemon to be making in his mind, meaning that if Philemon doesn’t do what Paul is asking, he is actively choosing to do the wrong thing. That puts Philemon in an awkward position if he doesn’t want to agree!
+
+Then, Paul makes it even worse! Paul, one of the primary leaders of the early church, a man currently in prison for his faithful preaching of the gospel throughout the known world, puts himself into the picture. It’s not just Onesimus anymore, but Paul says, “So if you consider me your partner, receive him as you would me. But if he has wronged you in any way or owes you anything, charge it to me. I, Paul, have written this with my own hand: I will repay it (not to mention to you that you owe me even your very self).”
+
+What option does this even leave Philemon? Is he going to tell Paul no? Is he going to write up a bill and send it to Paul? And that is doubly rough because Paul is supported by the churches as he travels around as a missionary to the Gentiles, meaning if Philemon does take Paul up on his “offer” to pay what Onesimus owes him, he is actually taking that money from what churches have donated to the work Paul is doing on behalf of Christ…
+
+Then Paul finishes with this, “Being confident in your obedience I have written to you, knowing that you will do even more than what I say. And at the same time also, prepare a guest room for me, for I am hoping that through your prayers I will be given to you.” Of course he is going to be obedient, you haven’t left him any room to make his own choice! On top of that, you say you’re going to come visit him, so he is going to have to answer you to your face if he disagrees!
+
+Do you see what I mean about this feeling manipulative and dirty?
+
+This letter has bothered me for a long time because of that, but I heard an interview recently on The Naked Bible Podcast about this topic that was really helpful (I don’t have the link or episode handy, but I will try to find it later and add the link in if I do), and changed my perspective on it.
+
+Essentially, the scholar being interviewed pointed out that in the modern West, peer pressure is a sin, culturally speaking. Individuality and freedom are peak virtues in Western culture so any kind of societal or social pressure to conform to certain ideas or norms is inherently wrong or immoral, but this isn’t the case everywhere in the world, and has not been the case historically. In fact, it has generally been the opposite. Social pressure to conform to specific norms has been what allows communities to flourish as they are able to work together, operating under the same values and toward the same goals. Now, to be clear, I am not saying that every cultural value is necessarily good or “right,” only that this kind of pressure to listen and conform to the broader society or group was actually a very positive part of group association, even though it is viewed very negatively in the modern West.
+
+Interestingly, one of the things that this scholar pointed out is that this move toward individual autonomy and away from willingness to conform to cultural and social norms has been seen historically before the collapse of otherwise strong empires (like Rome). This willingness by the community to pressure, and by individuals to conform, is what allows for the trust and strength of community necessary to establish and build a powerful empire, but then the size, strength, and safety of that empire, and the availability of resources within it, allows people the freedom to step out from and/or otherwise choose to not conform without as big of an impact on their community. But then as that becomes increasingly pervasive, the nation or empire looses cohesion and collapses. 
+
+Given that this is his area of study and expertise, he obviously laid it out much more effectively than I can possibly summarize it, but his work was a challenge to my underlying assumption that social or peer pressure is necessarily a bad thing. But even if we don’t agree and want to continue to see it as a negative, we have to accept the Bible as it was written, and in the cultural context in which it was written. What that means, in this case then, is that when Paul wrote this letter to Philemon, the kind of pressure he exerts here in this letter would not have been viewed as wrong or manipulative. Instead, Paul, as a rightful leader and authority figure over Philemon, has every right to call on Philemon to make the right choice, and to bring the proper pressure to bear on Philemon to conform to the social and ethical norms of the community Philemon has freely associated himself with.
+
+So ultimately, the answer to the question I asked at the beginning is no, it was not wrong for Paul to write this letter and pressure Philemon to release Onesimus the way he did. Even if that kind of pressure seems “wrong” today, it was entirely normative and even “right” at the time he wrote it, and Paul is operating within his proper role as authority in the church at large, and in Philemon’s life personally.

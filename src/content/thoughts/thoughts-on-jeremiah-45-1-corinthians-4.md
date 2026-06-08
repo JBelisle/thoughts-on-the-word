@@ -1,0 +1,23 @@
+---
+title: "Thoughts on Jeremiah 45 & 1 Corinthians 4"
+date: 2024-02-17
+reading:
+  - "Jeremiah 45-46"
+  - "1 Corinthians 4"
+passages:
+  - "Jeremiah 45"
+  - "1 Corinthians 4"
+summary: "If you are following the Lord to have a pain free life of health, wealth, and influence, you are bound to be sorely disappointed…"
+---
+
+If you are following the Lord to have a pain free life of health, wealth, and influence, you are bound to be sorely disappointed…
+
+On the one hand, there is the whole strain of supposedly-Christian teaching that claims this is exactly what God promises us, and if we aren’t experiencing these things, it must be because we are not faithful enough, and we should probably give more money to the church and have more faith so that we can experience them. These teachings are directly antithetical to the Bible and exist only to prey on the poor and fill the pockets of the preachers spouting them.
+
+But the flip side from these kinds of health-and-wealth teachings though is the inherent sense that this is how things should be working out. Many Christians, who would never affirm health-and-wealth doctrines, still struggle at times wondering, “How could God let this happen to me?” When we’re hit by serious health or financial issues, when the ministry the Lord has called us to seems to be failing at every turn, when our children seem to be struggling more and more, no matter what we try, etc., it can be easy to start to wonder, “What did I do to deserve this? Why am I dealing with this when other people don’t? Is this a me problem? Is God punishing me for something?” While we may not teach or affirm health-and-wealth preaching, when we start facing too much pressure on the other side, these expectations bubble up. Maybe we wouldn’t say that God promises health and prosperity in this life, but shouldn’t He at least protect us from the extremes on the opposite side? I don’t need great health, but why cancer?? I don’t need to be rich, but why am I on the edge of bankruptcy?
+
+We see God address this in both Jeremiah 45 and 1 Corinthians 4 today. In Jeremiah, Baruch is not going to be spared the fate that God has him working with Jeremiah to write about; He is going to preserve his life, but that says nothing of being spared the pain and suffering of war and exile that are coming upon Judah for her refusal to follow Him. Similarly, in addressing the Corinthians who were clamoring for status and prestige in their Christian community, Paul contrasts himself and his fellow workers, calling out, “To the present hour we hunger and thirst, we are poorly dressed and buffeted and homeless, and we labor, working with our own hands. When reviled, we bless; when persecuted, we endure; when slandered, we entreat. We have become, and are still, like the scum of the world, the refuse of all things.” Along with this, we also know that Paul had eye issues and some kind of “thorn in the flesh,” Timothy had persistent stomach issues, and Epaphroditus became so ill, in the course of serving the Lord, that he nearly died. Surely these are not the only issues, but if we already have so many examples in the handful of letters we have from the apostles, shouldn’t this be pretty expected?
+
+God doesn’t promise to protect us from every bad thing that happens because we live in a fallen world, but the fact of the matter is, the best life we could possibly live, both for this life and the next, is a life given over to the Lord. In the first place, as Jesus Himself asks it, “What does it profit a man to gain the whole world and forfeit his soul?” If the only thing gained by a faithful life was eternity with the Lord, it would still be worth it, but the reality is that that is not the only thing gained. We’ve talked about this a lot on this blog, but God is the one who designed us, so He knows what is best for us and how He designed us to live. What we gain in a life of obedience to the Lord might not be what the world considers prosperous, but it is a more meaningful, fulfilling, satisfying, joyful life than the world apart from the Lord could ever offer. The world can certainly offer some convincing counterfeits, but the reality is found nowhere but in the Lord.
+
+Mostly I point this out this morning so that we don’t find ourselves in the same position as Baruch, expecting that our faithfulness to the Lord will exclude us from the sufferings of the world around us. It won’t protect us from sufferings, but in our faithfulness, those sufferings are producing for us an eternal weight of glory beyond all comparison.

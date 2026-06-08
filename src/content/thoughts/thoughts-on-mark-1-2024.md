@@ -1,0 +1,30 @@
+---
+title: "Thoughts on Mark 1"
+date: 2024-04-15
+reading:
+  - "Hosea 11-12"
+  - "Mark 1"
+passages:
+  - "Mark 1"
+summary: "I have heard Mark 1 taught or referenced, many times over the years, in a way that is inaccurate, irresponsible, and damaging to the gospel of faith."
+---
+
+I have heard Mark 1 taught or referenced, many times over the years, in a way that is inaccurate, irresponsible, and damaging to the gospel of faith.
+
+The specific section I’m talking about is Jesus calling His disciples. In the beginning of Mark we see Jesus baptized, going out into the wilderness, and returning to call His disciples to Himself and kick off His ministry. The way I have heard this taught or referenced so many times is in the faith and obedience of the disciples to respond to Jesus’ call. Jesus shows up, calls Peter and Andrew, and they immediately leave everything to follow Him. The same thing then happens with James and John. This is very often presented as a great picture of faith where, not even knowing Jesus yet, these men must have been following the prompting of the Spirit to leave everything and follow Him in an incredible act of trust and obedience. And this is held up as an example for us to emulate in our own faith.
+
+There’s a big problem with this though in that this isn’t how it actually happened. Not that what Mark tells us happened didn’t happen, but that Mark is summarizing events and not giving us the entire picture, and the rest of the picture makes this application of the passage totally wrong in every way.
+
+In the gospel of John we learn how these men were introduced to Jesus. Having been following John the Baptist, who they recognized as a prophet of God, they heard John tell the Pharisees that he was not the Christ, but there was one coming after him whose sandals he was unworthy to untie. The very next day, Jesus was walking by and John said, “Behold the lamb of God, who takes away the sin of the world! This is he of whom I said, ‘After me comes a man who ranks before me, because he was before me.’ I myself did not know him, but for this purpose I came baptizing with water, that he might be revealed to Israel.” When John again spoke similar words about Jesus the following day, two of John’s disciples including Andrew (Peter’s brother), followed Jesus. They gathered some of their other friends, and they were following Jesus around, listening to Him teach, and seeing some miracles performed at His hand, all before the events of Mark 1.
+
+So by the time Jesus shows up on the shore and calls Andrew, Peter, James, and John to follow Him, they already had a relationship with Him and very good reasons to go. John the Baptist, the prophet, had testified that Jesus was unimaginably greater than he himself was, which was reason enough to consider Him someone important, but, more than that, they had personally followed Him and seen with their own eyes that there was something different about Jesus and that He was worth leaving everything for.
+
+Far from being a response in blind faith to some kind of internal prompting, their response to Jesus in Mark 1 is based on strong, reasonable evidence, as well as significant personal experience.
+
+This is why I say that this teaching is damaging to the gospel of faith. The gospel is already offensive and difficult for many to accept, so how much more difficult is it to accept when you are told that you shouldn’t need evidence, and that real faith just accepts and responds to Jesus? This is not biblical faith. Peter instructs us to always be ready with a defense of the faith that is in us, and Paul tells us that, being convinced of these things, we persuade men. There is clearly no expectation here of blind faith or response, but instead a reasoned basis for our belief which should be compelling and persuasive to others as well.
+
+This teaching is also damaging in how it expects us to respond to the gospel. The disciples’ response of dropping everything and following Jesus immediately is held up as an example for us, that in responding to the gospel, clearly we should be all-in with no questions or doubts, and be ready to follow Jesus in everything from the beginning. But again, this is not how it happened. The fact that these men were following Jesus before, and then He calls them from their work, tells us that they were doing both for a time. They were following and experiencing life with Jesus, but they were also carrying on with life as they always had. They had the opportunity to build up a backlog of experience with Jesus before He called them to lay it all down to follow Him.
+
+This is how faith works for us today too. When we respond to the gospel, it doesn’t have to be with full assurance or with a readiness to drop everything to follow Jesus wherever He would call us to go. We respond to the gospel when we have enough faith to say, “I don’t want to be accountable for my own sins, and I will trust in the life, death, and resurrection of Jesus for my entrance into heaven.” From that seed of faith, guided and empowered by the indwelling Holy Spirit, we begin to experience life with Jesus, taking small steps toward Him and seeing Him come through for us time and again in bigger and bigger ways, all the while building up our own backlog of experience with Him. That’s not to say He will never call us to lay it all down for Him or to be willing to upend our lives for Him, but that He will grow our faith to be prepared and able to respond to that call before He makes it.
+
+There is no notion in the Bible at all that we should be willing to respond blindly, with no evidence or basis to the gospel, nor that when we respond, we should necessarily be all in from the very beginning, willing to leave everything and follow Him. Not only is this teaching not found in the Bible, but it adds unnecessary barriers to the gospel that keep people back from experiencing the forgiveness and joy in Christ that God has prepared for them.

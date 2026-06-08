@@ -1,0 +1,18 @@
+---
+import { oldTestament, newTestament } from '../data/books';
+
+const groups = [
+  { label: 'Old Testament', books: oldTestament },
+  { label: 'New Testament', books: newTestament },
+];
+---
+{groups.map((g) => (
+  <div>
+    <p class="book-label">{g.label}</p>
+    <div class="book-grid">
+      {g.books.map((b) => (
+        <a class="tile has" href={`/books/${b.slug}`}>{b.name}</a>
+      ))}
+    </div>
+  </div>
+))}

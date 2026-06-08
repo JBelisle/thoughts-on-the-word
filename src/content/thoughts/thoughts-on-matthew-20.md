@@ -1,0 +1,26 @@
+---
+title: "Thoughts on Matthew 20"
+date: 2024-01-20
+reading:
+  - "Jeremiah 15"
+  - "Matthew 20"
+passages:
+  - "Matthew 20"
+summary: "I think an unfortunate chapter break has left me never really thinking about Jesus' parable of the laborers in the vineyard in it's proper context..."
+---
+
+I think an unfortunate chapter break has left me never really thinking about Jesus' parable of the laborers in the vineyard in it's proper context...
+
+Matthew 20 opens with one of Jesus' parables that has caused me the most consternation over the years. Jesus tells the story of a vineyard owner finding workers for his fields at various times throughout the day, some of whom worked only an hour or less, but then when the workers gather to be paid, all of them receive the same amount. The men who have been out working the entire day grumble at the vineyard owner, expecting that they should be paid more for an entire day's work than the latest crop of workers who have only worked for an hour, but the owner comes back asking if he has shorted them on their agreed wage, or if they think he isn't allowed to be generous with his own money.
+
+I say this has caused me consternation over the years because I feel the righteous indignation of those first workers! On the one hand, I get what Jesus is saying, and it's true that the owner is allowed to spend his money however he wants, and be generous in whatever way he desires to be generous. In fact, if the vineyard owner had wanted to, he wouldn't have been wrong to even pay the last workers double the wage of the first workers, as long as he wasn't shorting the first workers on their agreement... But it still *feels* wrong. My heart still aches for those workers who worked the entire day. I wonder, wouldn't such a generous vineyard owner also reward those who have toiled hard for him all day long? Shouldn't that generosity overflow to more than just the agreed on amount for those earlier workers??
+
+There have been ways I've justified this to myself before, but that have never really felt like complete answers to me, but then as I was reading it a few times over this morning, I noticed that the last words of Matthew 19 were pretty much the same as the last words of this parable, that the last will be first, and the first last. So that took me back into chapter 19 to see what the context actually was for this parable, and that kind of changes things a bit.
+
+The context for this parable is ultimately the rich man coming to Jesus asking what he must do to inherit eternal life. When he leaves, Jesus tells His disciples that it is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God, which astonishes the disciples (to be rich was generally considered to be blessed by God, so who should be more likely to get into heaven than them??), and this ultimately leads Peter to point out all that they have left behind to follow Jesus, asking what they will receive for it. Jesus tells them that "everyone who has left houses or brothers or sisters or father or mother or children or lands, for my name's sake, will receive a hundredfold and will inherit eternal life." Then He continues on and immediately tells this parable of the laborers in the vineyard.
+
+I think it's helpful to remember that their expectation of the kingdom of God was that the Messiah was coming to inaugurate it then and there. Before the cross, the people were wanting to take Jesus and make Him king to kick off His eternal kingdom, and then after the cross, Jesus' disciples were expecting His return at any time. I don't think any of them envisioned a timeline of thousands of years before Jesus' return. So in that context, Jesus' disciples are those early laborers, the first ones who responded to His call to come work in His vineyard. Other laborers would be added to them over time, whether people who, like the rich man that was still walking away, had turned down the invitation initially, but then repented and chose to follow, or people who were simply invited later in the process.
+
+I think Jesus was reassuring His disciples that they would get their reward, but also level-setting their expectations as the future leaders of His church. Them having been invited to work the vineyard early didn't make them better or more valuable than those who would join them later, and if they were going to humbly lead and teach after His departure, they needed to understand that. Up until the day Jesus would return to pay His workers, anyone and everyone who went out to the fields, whether there were decades left when they went out, or only days, would be welcomed into the glory of eternal life and receive a hundredfold of houses, brothers, sisters, father, mothers, children, and lands for their willingness to leave it all behind for Him.
+
+Honestly, this parable doesn’t cause me any of the angst anymore that it has in the past when I have read it really as a stand-alone teaching since it is the start of chapter 20. If that chapter break hadn’t been put where it was by whoever added the chapters and verses, I wonder if I ever would have struggled with it at all…
